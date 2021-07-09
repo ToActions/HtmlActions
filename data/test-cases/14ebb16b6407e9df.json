@@ -1,12 +1,12 @@
 {
-  "uid" : "48fe06da555f67b3",
+  "uid" : "14ebb16b6407e9df",
   "name" : " homeTask_Lesson_14",
   "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "befe34121d5c44d14094ed16e09ef4a3",
+  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
   "time" : {
-    "start" : 1625558733216,
-    "stop" : 1625558735598,
-    "duration" : 2382
+    "start" : 1625843382809,
+    "stop" : 1625843384880,
+    "duration" : 2071
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,6 +14,22 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7cd6ff7aef87e729",
+      "name" : "Screenshot",
+      "source" : "7cd6ff7aef87e729.png",
+      "type" : "image/png",
+      "size" : 108518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -42,7 +58,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -61,33 +77,33 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "6907daff24d3f74e",
+        "uid" : "61fe5924a782e7a8",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1625843073717,
+          "stop" : 1625843075860,
+          "duration" : 2143
         }
       }, {
-        "uid" : "e717140ca763c3fd",
+        "uid" : "65d129ff210716a4",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1625842023381,
+          "stop" : 1625842026118,
+          "duration" : 2737
         }
       }, {
-        "uid" : "3c1692e7fb4a35db",
+        "uid" : "2063ad9dfcfbdb49",
         "status" : "passed",
         "time" : {
-          "start" : 1625730402091,
-          "stop" : 1625730405664,
-          "duration" : 3573
+          "start" : 1625841861163,
+          "stop" : 1625841862978,
+          "duration" : 1815
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "48fe06da555f67b3.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "14ebb16b6407e9df.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
