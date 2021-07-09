@@ -1,0 +1,200 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "should test SignUp function (using header button). Test-Case1",
+    "uid" : "3f68aa4add2adb5d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1625558715711,
+      "stop" : 1625558734616,
+      "duration" : 18905
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "homeTask_Lesson_9",
+    "uid" : "b4ab0e3e1202221f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625558715806,
+      "stop" : 1625558733213,
+      "duration" : 17407
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : " homeTask_Lesson_14",
+    "uid" : "c3237739efb7745",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625558733216,
+      "stop" : 1625558735598,
+      "duration" : 2382
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
+    "uid" : "8a31e1e1e576f92c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1625558734617,
+      "stop" : 1625558748322,
+      "duration" : 13705
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test SignIn function . Test-Case3",
+    "uid" : "f44facb527c3203a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1625558748322,
+      "stop" : 1625558761473,
+      "duration" : 13151
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test Password recowery function . Test-Case4",
+    "uid" : "26e641b153db7682",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625558761473,
+      "stop" : 1625558765004,
+      "duration" : 3531
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
+    "uid" : "a8626897d58bcfac",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1625558765004,
+      "stop" : 1625558767207,
+      "duration" : 2203
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
+    "uid" : "e4a8782eca826585",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1625558767208,
+      "stop" : 1625558780521,
+      "duration" : 13313
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should check that is Topic text displayed in view port . Test-Case7",
+    "uid" : "e5b74305b57d962e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1625558780521,
+      "stop" : 1625558782880,
+      "duration" : 2359
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
+    "uid" : "f7eeec34e8761989",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625558782880,
+      "stop" : 1625558786980,
+      "duration" : 4100
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+    "uid" : "6723db057d9e4f0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1625558786980,
+      "stop" : 1625558799730,
+      "duration" : 12750
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : " should print in the console all positions from the careers . Test-Case10",
+    "uid" : "77b7cca0162f02f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625558799730,
+      "stop" : 1625558802047,
+      "duration" : 2317
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.124" ]
+  }, {
+    "name" : "should test SignUp function (using header button). Test-Case1",
+    "uid" : "42e4c29fcfdafa48",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1625837057403,
+      "stop" : 1625837080726,
+      "duration" : 23323
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.114" ]
+  }, {
+    "name" : "homeTask_Lesson_9",
+    "uid" : "7241c5690fe59249",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625837057407,
+      "stop" : 1625837071292,
+      "duration" : 13885
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.114" ]
+  }, {
+    "name" : " homeTask_Lesson_14",
+    "uid" : "f89777f9d9aff0e2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1625837071292,
+      "stop" : 1625837073925,
+      "duration" : 2633
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-91.0.4472.114" ]
+  } ],
+  "name" : "behaviors"
+}
