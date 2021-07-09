@@ -1,12 +1,12 @@
 {
-  "uid" : "2d7cdb6a817b2432",
+  "uid" : "7f4721df1f397acf",
   "name" : " homeTask_Lesson_14",
   "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
+  "historyId" : "befe34121d5c44d14094ed16e09ef4a3",
   "time" : {
-    "start" : 1625840773596,
-    "stop" : 1625840776070,
-    "duration" : 2474
+    "start" : 1625558733216,
+    "stop" : 1625558735598,
+    "duration" : 2382
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,22 +14,6 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
-  "testStage" : {
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "4917f3e82f248661",
-      "name" : "Screenshot",
-      "source" : "4917f3e82f248661.png",
-      "type" : "image/png",
-      "size" : 108518
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -58,7 +42,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.114"
+    "value" : "chrome-91.0.4472.124"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -67,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "3c1692e7fb4a35db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625730402091,
+          "stop" : 1625730405664,
+          "duration" : 3573
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "2d7cdb6a817b2432.json",
-  "parameterValues" : [ "chrome-91.0.4472.114" ]
+  "source" : "7f4721df1f397acf.json",
+  "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

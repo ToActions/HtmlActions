@@ -1,12 +1,12 @@
 {
-  "uid" : "c510ab9a9c238373",
-  "name" : "homeTask_Lesson_9",
-  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
-  "historyId" : "8ea44e0b6577b3dbe2cd54456fcfe5c",
+  "uid" : "1aa5de87a8c7595a",
+  "name" : "should test Password recowery function . Test-Case4",
+  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
+  "historyId" : "5b182b45268c63b3a8026cecae5e0766",
   "time" : {
-    "start" : 1625558715806,
-    "stop" : 1625558733213,
-    "duration" : 17407
+    "start" : 1625558761473,
+    "stop" : 1625558765004,
+    "duration" : 3531
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -23,19 +23,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-1"
+    "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "Webdriverio_test"
+    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testClass",
-    "value" : "Webdriverio_test"
+    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "homeTask_Lesson_9"
+    "value" : "should test Password recowery function . Test-Case4"
   }, {
     "name" : "package",
-    "value" : "Webdriverio_test"
+    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "5fbb96a379933f5a",
+        "uid" : "ee0d82616c8a7f52",
         "status" : "passed",
         "time" : {
-          "start" : 1625730383426,
-          "stop" : 1625730402088,
-          "duration" : 18662
+          "start" : 1625730435614,
+          "stop" : 1625730439264,
+          "duration" : 3650
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "c510ab9a9c238373.json",
+  "source" : "1aa5de87a8c7595a.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

@@ -1,5 +1,5 @@
 {
-  "uid" : "10a803de1283b75",
+  "uid" : "3122c57ae6db5bda",
   "name" : "should test SignUp function (using header button). Test-Case1",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
   "historyId" : "bc697257548a3ec88061e6f0567dedb2",
@@ -79,6 +79,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "10a803de1283b75.json",
+  "source" : "3122c57ae6db5bda.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }
