@@ -1,12 +1,12 @@
 {
-  "uid" : "1752a62970433bf6",
+  "uid" : "3590e76ec6ae885f",
   "name" : "homeTask_Lesson_9",
   "fullName" : "Webdriverio_test.homeTask_Lesson_9",
   "historyId" : "7ed1e0e4d8f78e6363e704acc7a6a641",
   "time" : {
-    "start" : 1625840933443,
-    "stop" : 1625840946328,
-    "duration" : 12885
+    "start" : 1625841189684,
+    "stop" : 1625841203667,
+    "duration" : 13983
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1752a62970433bf6.json",
+  "source" : "3590e76ec6ae885f.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
