@@ -1,12 +1,12 @@
 {
-  "uid" : "ca552e50d2872326",
-  "name" : "homeTask_Lesson_9",
-  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
-  "historyId" : "7ed1e0e4d8f78e6363e704acc7a6a641",
+  "uid" : "61fe5924a782e7a8",
+  "name" : " homeTask_Lesson_14",
+  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
+  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
   "time" : {
-    "start" : 1625842969374,
-    "stop" : 1625842983003,
-    "duration" : 13629
+    "start" : 1625843073717,
+    "stop" : 1625843075860,
+    "duration" : 2143
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,6 +14,22 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f80b060f54607fb6",
+      "name" : "Screenshot",
+      "source" : "f80b060f54607fb6.png",
+      "type" : "image/png",
+      "size" : 108518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -32,7 +48,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : "homeTask_Lesson_9"
+    "value" : " homeTask_Lesson_14"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -61,25 +77,25 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "5995232527dba8f4",
+        "uid" : "65d129ff210716a4",
         "status" : "passed",
         "time" : {
-          "start" : 1625842006916,
-          "stop" : 1625842023381,
-          "duration" : 16465
+          "start" : 1625842023381,
+          "stop" : 1625842026118,
+          "duration" : 2737
         }
       }, {
-        "uid" : "a27e33c2a00ba064",
+        "uid" : "2063ad9dfcfbdb49",
         "status" : "passed",
         "time" : {
-          "start" : 1625841848375,
-          "stop" : 1625841861163,
-          "duration" : 12788
+          "start" : 1625841861163,
+          "stop" : 1625841862978,
+          "duration" : 1815
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "ca552e50d2872326.json",
+  "source" : "61fe5924a782e7a8.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
