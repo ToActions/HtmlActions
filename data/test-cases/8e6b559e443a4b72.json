@@ -1,12 +1,12 @@
 {
-  "uid" : "6907daff24d3f74e",
+  "uid" : "8e6b559e443a4b72",
   "name" : " homeTask_Lesson_14",
   "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "befe34121d5c44d14094ed16e09ef4a3",
+  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
   "time" : {
-    "start" : 1625558733216,
-    "stop" : 1625558735598,
-    "duration" : 2382
+    "start" : 1625842983003,
+    "stop" : 1625842985462,
+    "duration" : 2459
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,6 +14,22 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d4871c8b62163b",
+      "name" : "Screenshot",
+      "source" : "d4871c8b62163b.png",
+      "type" : "image/png",
+      "size" : 108518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -42,7 +58,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -61,25 +77,25 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "e717140ca763c3fd",
+        "uid" : "65d129ff210716a4",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1625842023381,
+          "stop" : 1625842026118,
+          "duration" : 2737
         }
       }, {
-        "uid" : "3c1692e7fb4a35db",
+        "uid" : "2063ad9dfcfbdb49",
         "status" : "passed",
         "time" : {
-          "start" : 1625730402091,
-          "stop" : 1625730405664,
-          "duration" : 3573
+          "start" : 1625841861163,
+          "stop" : 1625841862978,
+          "duration" : 1815
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "6907daff24d3f74e.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "8e6b559e443a4b72.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

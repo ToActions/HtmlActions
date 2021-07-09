@@ -1,12 +1,12 @@
 {
-  "uid" : "93efe8565d3149b2",
+  "uid" : "c7f8f2752df6d3d1",
   "name" : "should test SignUp function (using header button). Test-Case1",
-  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
-  "historyId" : "9727765fb8d2861d70ed1d08bfb10ebc",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
+  "historyId" : "23a9a7229540310d7bd9026510e61fa3",
   "time" : {
-    "start" : 1625842006915,
-    "stop" : 1625842030344,
-    "duration" : 23429
+    "start" : 1625842969376,
+    "stop" : 1625842990726,
+    "duration" : 21350
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,11 +22,11 @@
     "statusTrace" : "Error: Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"\n                    at Context.<anonymous> (/home/runner/work/Private_Allure_Actions/Private_Allure_Actions/test/specs/gitHubTestHW(Lesson29).js:27:25)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "919c50de8e79888a",
+      "uid" : "c07493127fe8591",
       "name" : "Screenshot",
-      "source" : "919c50de8e79888a.png",
+      "source" : "c07493127fe8591.png",
       "type" : "image/png",
-      "size" : 142337
+      "size" : 142276
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -46,16 +46,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
+    "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testClass",
-    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
+    "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
     "value" : "should test SignUp function (using header button). Test-Case1"
   }, {
     "name" : "package",
-    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
+    "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -75,28 +75,8 @@
       "matchedStatuses" : [ ],
       "flaky" : false
     } ],
-    "history" : {
-      "statistic" : {
-        "failed" : 2,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 0,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "843a3680925b517b",
-        "status" : "failed",
-        "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"",
-        "time" : {
-          "start" : 1625841848375,
-          "stop" : 1625841866751,
-          "duration" : 18376
-        }
-      } ]
-    },
     "tags" : [ ]
   },
-  "source" : "93efe8565d3149b2.json",
+  "source" : "c7f8f2752df6d3d1.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

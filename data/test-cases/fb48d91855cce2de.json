@@ -1,12 +1,12 @@
 {
-  "uid" : "7525c46f6d64ac55",
-  "name" : "should test Password recowery function . Test-Case4",
-  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
-  "historyId" : "5b182b45268c63b3a8026cecae5e0766",
+  "uid" : "fb48d91855cce2de",
+  "name" : " should print in the console all positions from the careers . Test-Case10",
+  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should print in the console all positions from the careers . Test-Case10",
+  "historyId" : "21e153e13fdceeeabd816421f9a5253",
   "time" : {
-    "start" : 1625558761473,
-    "stop" : 1625558765004,
-    "duration" : 3531
+    "start" : 1625558799730,
+    "stop" : 1625558802047,
+    "duration" : 2317
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test Password recowery function . Test-Case4"
+    "value" : " should print in the console all positions from the careers . Test-Case10"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -56,30 +56,38 @@
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 3,
+        "passed" : 4,
         "unknown" : 0,
-        "total" : 3
+        "total" : 4
       },
       "items" : [ {
-        "uid" : "9253eb9e259cfbbb",
+        "uid" : "5438bc8d611372e0",
         "status" : "passed",
         "time" : {
-          "start" : 1625558761473,
-          "stop" : 1625558765004,
-          "duration" : 3531
+          "start" : 1625558799730,
+          "stop" : 1625558802047,
+          "duration" : 2317
         }
       }, {
-        "uid" : "ee0d82616c8a7f52",
+        "uid" : "c3e7eab26ffe4b08",
         "status" : "passed",
         "time" : {
-          "start" : 1625730435614,
-          "stop" : 1625730439264,
-          "duration" : 3650
+          "start" : 1625558799730,
+          "stop" : 1625558802047,
+          "duration" : 2317
+        }
+      }, {
+        "uid" : "34fd95ea7bc6a30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625730490931,
+          "stop" : 1625730493271,
+          "duration" : 2340
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "7525c46f6d64ac55.json",
+  "source" : "fb48d91855cce2de.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }
