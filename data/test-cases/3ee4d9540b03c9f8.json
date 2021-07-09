@@ -1,12 +1,12 @@
 {
-  "uid" : "1d2b2721c20a34fd",
+  "uid" : "3ee4d9540b03c9f8",
   "name" : "homeTask_Lesson_9",
   "fullName" : "Webdriverio_test.homeTask_Lesson_9",
-  "historyId" : "8ea44e0b6577b3dbe2cd54456fcfe5c",
+  "historyId" : "7ed1e0e4d8f78e6363e704acc7a6a641",
   "time" : {
-    "start" : 1625558715806,
-    "stop" : 1625558733213,
-    "duration" : 17407
+    "start" : 1625841774055,
+    "stop" : 1625841788587,
+    "duration" : 14532
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -42,7 +42,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -51,27 +51,8 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "5fbb96a379933f5a",
-        "status" : "passed",
-        "time" : {
-          "start" : 1625730383426,
-          "stop" : 1625730402088,
-          "duration" : 18662
-        }
-      } ]
-    },
     "tags" : [ ]
   },
-  "source" : "1d2b2721c20a34fd.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "3ee4d9540b03c9f8.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
