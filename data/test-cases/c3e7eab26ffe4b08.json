@@ -1,5 +1,5 @@
 {
-  "uid" : "2ac8ff9ba33a7970",
+  "uid" : "c3e7eab26ffe4b08",
   "name" : " should print in the console all positions from the careers . Test-Case10",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should print in the console all positions from the careers . Test-Case10",
   "historyId" : "21e153e13fdceeeabd816421f9a5253",
@@ -72,6 +72,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "2ac8ff9ba33a7970.json",
+  "source" : "c3e7eab26ffe4b08.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }
