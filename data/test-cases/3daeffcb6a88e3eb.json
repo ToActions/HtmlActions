@@ -1,5 +1,5 @@
 {
-  "uid" : "730d7b9c8c4c1775",
+  "uid" : "3daeffcb6a88e3eb",
   "name" : "should test SignIn function . Test-Case3",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
   "historyId" : "c19e92a39aa721d17c180a5fc93d0f9e",
@@ -79,6 +79,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "730d7b9c8c4c1775.json",
+  "source" : "3daeffcb6a88e3eb.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

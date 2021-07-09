@@ -1,12 +1,12 @@
 {
-  "uid" : "1edfa6a9978b762a",
-  "name" : " homeTask_Lesson_14",
-  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
+  "uid" : "1d2b2721c20a34fd",
+  "name" : "homeTask_Lesson_9",
+  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
+  "historyId" : "8ea44e0b6577b3dbe2cd54456fcfe5c",
   "time" : {
-    "start" : 1625841203668,
-    "stop" : 1625841206031,
-    "duration" : 2363
+    "start" : 1625558715806,
+    "stop" : 1625558733213,
+    "duration" : 17407
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,22 +14,6 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
-  "testStage" : {
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "93e53e1cbc56bf75",
-      "name" : "Screenshot",
-      "source" : "93e53e1cbc56bf75.png",
-      "type" : "image/png",
-      "size" : 108518
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -48,7 +32,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : " homeTask_Lesson_14"
+    "value" : "homeTask_Lesson_9"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -58,7 +42,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.114"
+    "value" : "chrome-91.0.4472.124"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -67,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "5fbb96a379933f5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625730383426,
+          "stop" : 1625730402088,
+          "duration" : 18662
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "1edfa6a9978b762a.json",
-  "parameterValues" : [ "chrome-91.0.4472.114" ]
+  "source" : "1d2b2721c20a34fd.json",
+  "parameterValues" : [ "chrome-91.0.4472.124" ]
 }
