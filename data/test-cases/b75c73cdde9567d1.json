@@ -1,5 +1,5 @@
 {
-  "uid" : "c16e0c4064941a9b",
+  "uid" : "b75c73cdde9567d1",
   "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
   "historyId" : "28d9d0d21b599fe46e19234a8ce0ed0e",
@@ -60,13 +60,22 @@
     "history" : {
       "statistic" : {
         "failed" : 0,
-        "broken" : 2,
+        "broken" : 3,
         "skipped" : 0,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
+        "uid" : "c16e0c4064941a9b",
+        "status" : "broken",
+        "statusDetails" : "Can't call click on element with selector \"//*[contains(text(),\"Enterprise Cloud\")]\" because element wasn't found",
+        "time" : {
+          "start" : 1625558786980,
+          "stop" : 1625558799730,
+          "duration" : 12750
+        }
+      }, {
         "uid" : "f73a863ef26a8c91",
         "status" : "broken",
         "statusDetails" : "Can't call click on element with selector \"//*[contains(text(),\"Enterprise Cloud\")]\" because element wasn't found",
@@ -79,6 +88,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "c16e0c4064941a9b.json",
+  "source" : "b75c73cdde9567d1.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

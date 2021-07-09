@@ -1,12 +1,12 @@
 {
-  "uid" : "e717140ca763c3fd",
-  "name" : " homeTask_Lesson_14",
-  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "befe34121d5c44d14094ed16e09ef4a3",
+  "uid" : "4ae55ce99f4b9c07",
+  "name" : "homeTask_Lesson_9",
+  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
+  "historyId" : "8ea44e0b6577b3dbe2cd54456fcfe5c",
   "time" : {
-    "start" : 1625558733216,
-    "stop" : 1625558735598,
-    "duration" : 2382
+    "start" : 1625558715806,
+    "stop" : 1625558733213,
+    "duration" : 17407
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : " homeTask_Lesson_14"
+    "value" : "homeTask_Lesson_9"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -56,22 +56,30 @@
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 2,
+        "passed" : 3,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
-        "uid" : "3c1692e7fb4a35db",
+        "uid" : "7c8eb546ac7f5c26",
         "status" : "passed",
         "time" : {
-          "start" : 1625730402091,
-          "stop" : 1625730405664,
-          "duration" : 3573
+          "start" : 1625558715806,
+          "stop" : 1625558733213,
+          "duration" : 17407
+        }
+      }, {
+        "uid" : "5fbb96a379933f5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625730383426,
+          "stop" : 1625730402088,
+          "duration" : 18662
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "e717140ca763c3fd.json",
+  "source" : "4ae55ce99f4b9c07.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

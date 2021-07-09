@@ -1,5 +1,5 @@
 {
-  "uid" : "3113a7fcb58b9e7e",
+  "uid" : "a55a0a58ffba1671",
   "name" : "should check that is Topic text displayed in view port . Test-Case7",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should check that is Topic text displayed in view port . Test-Case7",
   "historyId" : "bd1547e9a248199449caf8803c305824",
@@ -60,13 +60,22 @@
     "history" : {
       "statistic" : {
         "failed" : 0,
-        "broken" : 2,
+        "broken" : 3,
         "skipped" : 0,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
+        "uid" : "3113a7fcb58b9e7e",
+        "status" : "broken",
+        "statusDetails" : "element not interactable\n                  (Session info: chrome=91.0.4472.124)",
+        "time" : {
+          "start" : 1625558780521,
+          "stop" : 1625558782880,
+          "duration" : 2359
+        }
+      }, {
         "uid" : "fa3163003fca144f",
         "status" : "broken",
         "statusDetails" : "element not interactable\n                  (Session info: chrome=91.0.4472.124)",
@@ -79,6 +88,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "3113a7fcb58b9e7e.json",
+  "source" : "a55a0a58ffba1671.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

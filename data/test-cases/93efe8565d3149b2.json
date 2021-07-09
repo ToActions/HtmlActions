@@ -1,12 +1,12 @@
 {
-  "uid" : "843a3680925b517b",
+  "uid" : "93efe8565d3149b2",
   "name" : "should test SignUp function (using header button). Test-Case1",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
   "historyId" : "9727765fb8d2861d70ed1d08bfb10ebc",
   "time" : {
-    "start" : 1625841848375,
-    "stop" : 1625841866751,
-    "duration" : 18376
+    "start" : 1625842006915,
+    "stop" : 1625842030344,
+    "duration" : 23429
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,11 +22,11 @@
     "statusTrace" : "Error: Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"\n                    at Context.<anonymous> (/home/runner/work/Private_Allure_Actions/Private_Allure_Actions/test/specs/gitHubTestHW(Lesson29).js:27:25)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "5cc947261eda6a2",
+      "uid" : "919c50de8e79888a",
       "name" : "Screenshot",
-      "source" : "5cc947261eda6a2.png",
+      "source" : "919c50de8e79888a.png",
       "type" : "image/png",
-      "size" : 142194
+      "size" : 142337
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -75,8 +75,28 @@
       "matchedStatuses" : [ ],
       "flaky" : false
     } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "843a3680925b517b",
+        "status" : "failed",
+        "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"",
+        "time" : {
+          "start" : 1625841848375,
+          "stop" : 1625841866751,
+          "duration" : 18376
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "843a3680925b517b.json",
+  "source" : "93efe8565d3149b2.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
