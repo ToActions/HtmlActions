@@ -1,12 +1,12 @@
 [ {
-  "buildOrder" : 49,
-  "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/49/",
+  "buildOrder" : 50,
+  "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50/",
   "reportName" : "Allure Report with history",
   "data" : {
     "failed" : 3,
-    "broken" : 5,
+    "broken" : 6,
     "skipped" : 5,
-    "passed" : 11,
+    "passed" : 10,
     "unknown" : 0,
     "total" : 24
   }
