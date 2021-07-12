@@ -1,12 +1,12 @@
 {
-  "uid" : "20c211ef5269dbf6",
-  "name" : " should print in the console all positions from the careers . Test-Case10",
-  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should print in the console all positions from the careers . Test-Case10",
-  "historyId" : "21e153e13fdceeeabd816421f9a5253",
+  "uid" : "d75a562aa3f30454",
+  "name" : "should test Password recowery function . Test-Case4",
+  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
+  "historyId" : "5b182b45268c63b3a8026cecae5e0766",
   "time" : {
-    "start" : 1625558799730,
-    "stop" : 1625558802047,
-    "duration" : 2317
+    "start" : 1625558761473,
+    "stop" : 1625558765004,
+    "duration" : 3531
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : " should print in the console all positions from the careers . Test-Case10"
+    "value" : "should test Password recowery function . Test-Case4"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -56,31 +56,39 @@
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 3,
+        "passed" : 4,
         "unknown" : 0,
-        "total" : 3
+        "total" : 4
       },
       "items" : [ {
-        "uid" : "e3387b1bdce56144",
+        "uid" : "fd064a96686d5f76",
         "status" : "passed",
         "time" : {
-          "start" : 1625558799730,
-          "stop" : 1625558802047,
-          "duration" : 2317
+          "start" : 1625558761473,
+          "stop" : 1625558765004,
+          "duration" : 3531
         }
       }, {
-        "uid" : "b7170aab678e9c6f",
-        "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/60//#testresult/b7170aab678e9c6f",
+        "uid" : "66df1302be50c625",
         "status" : "passed",
         "time" : {
-          "start" : 1625558799730,
-          "stop" : 1625558802047,
-          "duration" : 2317
+          "start" : 1625558761473,
+          "stop" : 1625558765004,
+          "duration" : 3531
+        }
+      }, {
+        "uid" : "47398dacef9e9da3",
+        "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/60//#testresult/47398dacef9e9da3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625558761473,
+          "stop" : 1625558765004,
+          "duration" : 3531
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "20c211ef5269dbf6.json",
+  "source" : "d75a562aa3f30454.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

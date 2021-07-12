@@ -1,11 +1,11 @@
 {
-  "uid" : "943cd016139be607",
-  "name" : "should test SignUp function (using header button). Test-Case1",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
-  "historyId" : "1525a6546d9a7516b59f11d8a0e21d81",
+  "uid" : "78da0ca3c1aba395",
+  "name" : "should test SignIn function . Test-Case3",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
+  "historyId" : "cca95270497650eb9cade9634fddac0f",
   "time" : {
-    "start" : 1626097081908,
-    "stop" : 1626097081908,
+    "start" : 1626097718990,
+    "stop" : 1626097718990,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignUp function (using header button). Test-Case1"
+    "value" : "should test SignIn function . Test-Case3"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -45,24 +45,33 @@
       "statistic" : {
         "failed" : 0,
         "broken" : 0,
-        "skipped" : 2,
+        "skipped" : 3,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
-        "uid" : "1818adf6be38e066",
+        "uid" : "1fca6ddd0edad75a",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626096852169,
-          "stop" : 1626096852169,
+          "start" : 1626097081908,
+          "stop" : 1626097081908,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e3a3b6f37772b9be",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1626096852170,
+          "stop" : 1626096852170,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "943cd016139be607.json",
+  "source" : "78da0ca3c1aba395.json",
   "parameterValues" : [ ]
 }

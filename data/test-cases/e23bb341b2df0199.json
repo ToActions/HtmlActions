@@ -1,11 +1,11 @@
 {
-  "uid" : "1fca6ddd0edad75a",
-  "name" : "should test SignIn function . Test-Case3",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
-  "historyId" : "cca95270497650eb9cade9634fddac0f",
+  "uid" : "e23bb341b2df0199",
+  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+  "historyId" : "b179768a8769c37b6d017fe8cf86397e",
   "time" : {
-    "start" : 1626097081908,
-    "stop" : 1626097081908,
+    "start" : 1626097761733,
+    "stop" : 1626097761733,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignIn function . Test-Case3"
+    "value" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -45,24 +45,33 @@
       "statistic" : {
         "failed" : 0,
         "broken" : 0,
-        "skipped" : 2,
+        "skipped" : 3,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
-        "uid" : "e3a3b6f37772b9be",
+        "uid" : "c83a2cb691c7ccb2",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626096852170,
-          "stop" : 1626096852170,
+          "start" : 1626097132136,
+          "stop" : 1626097132136,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d6352239288be01",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1626096888282,
+          "stop" : 1626096888282,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "1fca6ddd0edad75a.json",
+  "source" : "e23bb341b2df0199.json",
   "parameterValues" : [ ]
 }

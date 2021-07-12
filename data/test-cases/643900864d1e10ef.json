@@ -1,12 +1,12 @@
 {
-  "uid" : "fd064a96686d5f76",
+  "uid" : "643900864d1e10ef",
   "name" : "should test Password recowery function . Test-Case4",
-  "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
-  "historyId" : "5b182b45268c63b3a8026cecae5e0766",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
+  "historyId" : "8fb23c8a6c81f68e3e5989b515a15ebf",
   "time" : {
-    "start" : 1625558761473,
-    "stop" : 1625558765004,
-    "duration" : 3531
+    "start" : 1626097718990,
+    "stop" : 1626097723103,
+    "duration" : 4113
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -26,23 +26,23 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
+    "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testClass",
-    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
+    "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
     "value" : "should test Password recowery function . Test-Case4"
   }, {
     "name" : "package",
-    "value" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
+    "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -61,26 +61,25 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "66df1302be50c625",
+        "uid" : "a1ac6176d713beb5",
         "status" : "passed",
         "time" : {
-          "start" : 1625558761473,
-          "stop" : 1625558765004,
-          "duration" : 3531
+          "start" : 1626097081909,
+          "stop" : 1626097086676,
+          "duration" : 4767
         }
       }, {
-        "uid" : "47398dacef9e9da3",
-        "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/60//#testresult/47398dacef9e9da3",
+        "uid" : "57d3ada3caab8df",
         "status" : "passed",
         "time" : {
-          "start" : 1625558761473,
-          "stop" : 1625558765004,
-          "duration" : 3531
+          "start" : 1626096852170,
+          "stop" : 1626096855715,
+          "duration" : 3545
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "fd064a96686d5f76.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "643900864d1e10ef.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

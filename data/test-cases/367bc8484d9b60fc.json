@@ -1,12 +1,12 @@
 {
-  "uid" : "2cafbe9f19e4699c",
+  "uid" : "367bc8484d9b60fc",
   "name" : " homeTask_Lesson_14",
   "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "befe34121d5c44d14094ed16e09ef4a3",
+  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
   "time" : {
-    "start" : 1625558733216,
-    "stop" : 1625558735598,
-    "duration" : 2382
+    "start" : 1626097735723,
+    "stop" : 1626097737941,
+    "duration" : 2218
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,6 +14,22 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "696ec2f0553e0310",
+      "name" : "Screenshot",
+      "source" : "696ec2f0553e0310.png",
+      "type" : "image/png",
+      "size" : 108518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -42,7 +58,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -61,26 +77,25 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "9c28f84325419b2a",
+        "uid" : "f60e31c2a5000cf7",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1626097095092,
+          "stop" : 1626097097850,
+          "duration" : 2758
         }
       }, {
-        "uid" : "b6d7e4ed773f7d3a",
-        "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/60//#testresult/b6d7e4ed773f7d3a",
+        "uid" : "1862f455d93794a0",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1626096864143,
+          "stop" : 1626096866172,
+          "duration" : 2029
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "2cafbe9f19e4699c.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "367bc8484d9b60fc.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
