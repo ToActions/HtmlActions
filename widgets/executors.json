@@ -2,9 +2,9 @@
   "name" : "GitHub Actions",
   "type" : "github",
   "url" : "https://AmigoSerhio.github.io/Private_Allure_Actions",
-  "buildOrder" : 38,
-  "buildName" : "GitHub Actions Run #1022374841",
-  "buildUrl" : "https://github.com/AmigoSerhio/Private_Allure_Actions/actions/runs/1022374841",
+  "buildOrder" : 39,
+  "buildName" : "GitHub Actions Run #1022384207",
+  "buildUrl" : "https://github.com/AmigoSerhio/Private_Allure_Actions/actions/runs/1022384207",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/38/"
+  "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/39/"
 } ]
