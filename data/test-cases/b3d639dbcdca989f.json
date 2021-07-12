@@ -1,12 +1,12 @@
 {
-  "uid" : "59ea48f3e38cc449",
+  "uid" : "b3d639dbcdca989f",
   "name" : "should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
   "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
   "historyId" : "7d0ceba4ebf90ee749a33e0b4579d301",
   "time" : {
-    "start" : 1626101788261,
-    "stop" : 1626101801948,
-    "duration" : 13687
+    "start" : 1626101996311,
+    "stop" : 1626102007106,
+    "duration" : 10795
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,11 +22,11 @@
     "statusTrace" : "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n                \n                  assert(this.WhyGitHubDropdownMenu.isDisplayed())\n                \n                    at MainPage.checkWhyGitHubDropdownMenu (/home/runner/work/Private_Allure_Actions/Private_Allure_Actions/test/pageobjects/main.page.js:91:13)\n                    at Context.<anonymous> (/home/runner/work/Private_Allure_Actions/Private_Allure_Actions/test/specs/gitHubTestHW(Lesson29).js:74:18)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "961b13663e0a3e8d",
+      "uid" : "21de3fc8f2b6ac45",
       "name" : "Screenshot",
-      "source" : "961b13663e0a3e8d.png",
+      "source" : "21de3fc8f2b6ac45.png",
       "type" : "image/png",
-      "size" : 521948
+      "size" : 522981
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -115,6 +115,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "59ea48f3e38cc449.json",
+  "source" : "b3d639dbcdca989f.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "4a64739dfe7d4e04",
-  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "historyId" : "c4f2528aa0b878cd02b62822effe41fc",
+  "uid" : "86d615056e34e44",
+  "name" : " should print in the console all positions from the careers . Test-Case10",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should print in the console all positions from the careers . Test-Case10",
+  "historyId" : "293e87435949319cfe3bab2cc7dcd0e7",
   "time" : {
-    "start" : 1626101801948,
-    "stop" : 1626101826250,
-    "duration" : 24302
+    "start" : 1626102026772,
+    "stop" : 1626102029286,
+    "duration" : 2514
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6"
+    "value" : " should print in the console all positions from the careers . Test-Case10"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -61,33 +61,33 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "cd8d826ccbf64018",
+        "uid" : "632a2d4b393e113d",
         "status" : "passed",
         "time" : {
-          "start" : 1626097735276,
-          "stop" : 1626097758019,
-          "duration" : 22743
+          "start" : 1626097761733,
+          "stop" : 1626097764114,
+          "duration" : 2381
         }
       }, {
-        "uid" : "a9704cc4ad29d739",
+        "uid" : "cdc0d2cf0fb1bdb7",
         "status" : "passed",
         "time" : {
-          "start" : 1626097100961,
-          "stop" : 1626097126815,
-          "duration" : 25854
+          "start" : 1626097132136,
+          "stop" : 1626097136301,
+          "duration" : 4165
         }
       }, {
-        "uid" : "fcdbcffb625969cd",
+        "uid" : "2ba62ef883c756d7",
         "status" : "passed",
         "time" : {
-          "start" : 1626096867786,
-          "stop" : 1626096884527,
-          "duration" : 16741
+          "start" : 1626096888282,
+          "stop" : 1626096890702,
+          "duration" : 2420
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "4a64739dfe7d4e04.json",
+  "source" : "86d615056e34e44.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

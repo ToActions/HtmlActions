@@ -1,12 +1,12 @@
 {
-  "uid" : "72fc338ba2e6878c",
-  "name" : " homeTask_Lesson_14",
-  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
+  "uid" : "fa71b9f96c86ba11",
+  "name" : "homeTask_Lesson_9",
+  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
+  "historyId" : "7ed1e0e4d8f78e6363e704acc7a6a641",
   "time" : {
-    "start" : 1626101796663,
-    "stop" : 1626101799154,
-    "duration" : 2491
+    "start" : 1626101992467,
+    "stop" : 1626102005302,
+    "duration" : 12835
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,22 +14,6 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
-  "testStage" : {
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "77a0bc7986c1c36d",
-      "name" : "Screenshot",
-      "source" : "77a0bc7986c1c36d.png",
-      "type" : "image/png",
-      "size" : 108518
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -48,7 +32,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : " homeTask_Lesson_14"
+    "value" : "homeTask_Lesson_9"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -77,33 +61,33 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "367bc8484d9b60fc",
+        "uid" : "bbceb65fd447c637",
         "status" : "passed",
         "time" : {
-          "start" : 1626097735723,
-          "stop" : 1626097737941,
-          "duration" : 2218
+          "start" : 1626097718985,
+          "stop" : 1626097735723,
+          "duration" : 16738
         }
       }, {
-        "uid" : "f60e31c2a5000cf7",
+        "uid" : "b1c70c0457558185",
         "status" : "passed",
         "time" : {
-          "start" : 1626097095092,
-          "stop" : 1626097097850,
-          "duration" : 2758
+          "start" : 1626097081907,
+          "stop" : 1626097095092,
+          "duration" : 13185
         }
       }, {
-        "uid" : "1862f455d93794a0",
+        "uid" : "112869bfb14b7ed6",
         "status" : "passed",
         "time" : {
-          "start" : 1626096864143,
-          "stop" : 1626096866172,
-          "duration" : 2029
+          "start" : 1626096852169,
+          "stop" : 1626096864143,
+          "duration" : 11974
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "72fc338ba2e6878c.json",
+  "source" : "fa71b9f96c86ba11.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

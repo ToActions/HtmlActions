@@ -1,11 +1,11 @@
 {
-  "uid" : "2d8f7f1c3de90c13",
-  "name" : "should test SignUp function (using header button). Test-Case1",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
-  "historyId" : "1525a6546d9a7516b59f11d8a0e21d81",
+  "uid" : "4096137ac558d393",
+  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using primary SignUp button). Test-Case2",
+  "historyId" : "f9fc1690d347fbea5290ef30c3e1439a",
   "time" : {
-    "start" : 1626101783625,
-    "stop" : 1626101783625,
+    "start" : 1626101992470,
+    "stop" : 1626101992470,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignUp function (using header button). Test-Case1"
+    "value" : "should test SignUp function (using primary SignUp button). Test-Case2"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -51,16 +51,16 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "982d0cd24795ef68",
+        "uid" : "e8d36f233b074a17",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626097718989,
-          "stop" : 1626097718989,
+          "start" : 1626097718990,
+          "stop" : 1626097718990,
           "duration" : 0
         }
       }, {
-        "uid" : "943cd016139be607",
+        "uid" : "871a421db7ba3079",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
@@ -69,18 +69,18 @@
           "duration" : 0
         }
       }, {
-        "uid" : "1818adf6be38e066",
+        "uid" : "e1850ed28e9cd4c4",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626096852169,
-          "stop" : 1626096852169,
+          "start" : 1626096852170,
+          "stop" : 1626096852170,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "2d8f7f1c3de90c13.json",
+  "source" : "4096137ac558d393.json",
   "parameterValues" : [ ]
 }

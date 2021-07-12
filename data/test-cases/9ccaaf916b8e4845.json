@@ -1,11 +1,11 @@
 {
-  "uid" : "c023adfee1a97d95",
-  "name" : "should check that is Topic text displayed in view port . Test-Case7",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should check that is Topic text displayed in view port . Test-Case7",
-  "historyId" : "c1b1d20037dd6e1318a81657eba8aa2d",
+  "uid" : "9ccaaf916b8e4845",
+  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+  "historyId" : "b179768a8769c37b6d017fe8cf86397e",
   "time" : {
-    "start" : 1626101826250,
-    "stop" : 1626101826250,
+    "start" : 1626102026772,
+    "stop" : 1626102026772,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should check that is Topic text displayed in view port . Test-Case7"
+    "value" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -51,36 +51,36 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "b501fe94a8efbaff",
+        "uid" : "e23bb341b2df0199",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626097758019,
-          "stop" : 1626097758019,
+          "start" : 1626097761733,
+          "stop" : 1626097761733,
           "duration" : 0
         }
       }, {
-        "uid" : "5a4f35fc9e2e43a0",
+        "uid" : "c83a2cb691c7ccb2",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626097126815,
-          "stop" : 1626097126815,
+          "start" : 1626097132136,
+          "stop" : 1626097132136,
           "duration" : 0
         }
       }, {
-        "uid" : "72253dc329bad84b",
+        "uid" : "d6352239288be01",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626096884527,
-          "stop" : 1626096884527,
+          "start" : 1626096888282,
+          "stop" : 1626096888282,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "c023adfee1a97d95.json",
+  "source" : "9ccaaf916b8e4845.json",
   "parameterValues" : [ ]
 }

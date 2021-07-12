@@ -1,11 +1,11 @@
 {
-  "uid" : "90f87421fdf89a95",
-  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using primary SignUp button). Test-Case2",
-  "historyId" : "f9fc1690d347fbea5290ef30c3e1439a",
+  "uid" : "aa027bb40348848f",
+  "name" : "should check that is Topic text displayed in view port . Test-Case7",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should check that is Topic text displayed in view port . Test-Case7",
+  "historyId" : "c1b1d20037dd6e1318a81657eba8aa2d",
   "time" : {
-    "start" : 1626101783625,
-    "stop" : 1626101783625,
+    "start" : 1626102022636,
+    "stop" : 1626102022636,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignUp function (using primary SignUp button). Test-Case2"
+    "value" : "should check that is Topic text displayed in view port . Test-Case7"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -51,36 +51,36 @@
         "total" : 4
       },
       "items" : [ {
-        "uid" : "e8d36f233b074a17",
+        "uid" : "b501fe94a8efbaff",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626097718990,
-          "stop" : 1626097718990,
+          "start" : 1626097758019,
+          "stop" : 1626097758019,
           "duration" : 0
         }
       }, {
-        "uid" : "871a421db7ba3079",
+        "uid" : "5a4f35fc9e2e43a0",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626097081908,
-          "stop" : 1626097081908,
+          "start" : 1626097126815,
+          "stop" : 1626097126815,
           "duration" : 0
         }
       }, {
-        "uid" : "e1850ed28e9cd4c4",
+        "uid" : "72253dc329bad84b",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626096852170,
-          "stop" : 1626096852170,
+          "start" : 1626096884527,
+          "stop" : 1626096884527,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "90f87421fdf89a95.json",
+  "source" : "aa027bb40348848f.json",
   "parameterValues" : [ ]
 }

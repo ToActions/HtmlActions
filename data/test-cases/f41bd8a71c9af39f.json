@@ -1,11 +1,11 @@
 {
-  "uid" : "4c3a92f251a930b1",
+  "uid" : "f41bd8a71c9af39f",
   "name" : "should test SignIn function . Test-Case3",
   "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
   "historyId" : "cca95270497650eb9cade9634fddac0f",
   "time" : {
-    "start" : 1626101783625,
-    "stop" : 1626101783625,
+    "start" : 1626101992470,
+    "stop" : 1626101992470,
     "duration" : 0
   },
   "description" : "",
@@ -81,6 +81,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "4c3a92f251a930b1.json",
+  "source" : "f41bd8a71c9af39f.json",
   "parameterValues" : [ ]
 }
