@@ -1,5 +1,5 @@
 {
-  "uid" : "35bfab86a05768ed",
+  "uid" : "4d8bb80c45ec9d19",
   "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using primary SignUp button). Test-Case2",
   "historyId" : "61918d6487c09a61db429ecf350555be",
@@ -59,14 +59,23 @@
     } ],
     "history" : {
       "statistic" : {
-        "failed" : 3,
+        "failed" : 4,
         "broken" : 0,
         "skipped" : 0,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 3
+        "total" : 4
       },
       "items" : [ {
+        "uid" : "35bfab86a05768ed",
+        "status" : "failed",
+        "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?user_email=&source=form-home-signup\"",
+        "time" : {
+          "start" : 1625558734617,
+          "stop" : 1625558748322,
+          "duration" : 13705
+        }
+      }, {
         "uid" : "de122e5f8752b45a",
         "status" : "failed",
         "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?user_email=&source=form-home-signup\"",
@@ -89,6 +98,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "35bfab86a05768ed.json",
+  "source" : "4d8bb80c45ec9d19.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

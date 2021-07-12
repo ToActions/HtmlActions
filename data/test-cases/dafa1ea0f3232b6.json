@@ -1,11 +1,11 @@
 {
-  "uid" : "63cc2948f11ac49f",
-  "name" : "should test SignIn function . Test-Case3",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
-  "historyId" : "cca95270497650eb9cade9634fddac0f",
+  "uid" : "dafa1ea0f3232b6",
+  "name" : "should check that is Topic text displayed in view port . Test-Case7",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should check that is Topic text displayed in view port . Test-Case7",
+  "historyId" : "c1b1d20037dd6e1318a81657eba8aa2d",
   "time" : {
-    "start" : 1626094568224,
-    "stop" : 1626094568224,
+    "start" : 1626094777230,
+    "stop" : 1626094777230,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignIn function . Test-Case3"
+    "value" : "should check that is Topic text displayed in view port . Test-Case7"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -45,24 +45,33 @@
       "statistic" : {
         "failed" : 0,
         "broken" : 0,
-        "skipped" : 2,
+        "skipped" : 3,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
-        "uid" : "a0b32dfb901504a7",
+        "uid" : "f8e5d2c63038b25d",
         "status" : "skipped",
         "statusDetails" : "Test ignored",
         "time" : {
-          "start" : 1626094387074,
-          "stop" : 1626094387074,
+          "start" : 1626094607011,
+          "stop" : 1626094607011,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3f15b536caf5079f",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1626094420755,
+          "stop" : 1626094420755,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "63cc2948f11ac49f.json",
+  "source" : "dafa1ea0f3232b6.json",
   "parameterValues" : [ ]
 }
