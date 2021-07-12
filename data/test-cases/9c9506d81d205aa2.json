@@ -1,12 +1,12 @@
 {
-  "uid" : "a63542251c15c229",
-  "name" : " should print in the console all positions from the careers . Test-Case10",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should print in the console all positions from the careers . Test-Case10",
-  "historyId" : "293e87435949319cfe3bab2cc7dcd0e7",
+  "uid" : "9c9506d81d205aa2",
+  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that filter TypeScript works and first result is relevant . Test-Case8",
+  "historyId" : "f5352784eaa77f89ceab9fac28fc2c2c",
   "time" : {
-    "start" : 1626094424946,
-    "stop" : 1626094427821,
-    "duration" : 2875
+    "start" : 1626094607012,
+    "stop" : 1626094612281,
+    "duration" : 5269
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : " should print in the console all positions from the careers . Test-Case10"
+    "value" : "should test that filter TypeScript works and first result is relevant . Test-Case8"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7de0013f18a5a0ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626094420755,
+          "stop" : 1626094424945,
+          "duration" : 4190
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "a63542251c15c229.json",
+  "source" : "9c9506d81d205aa2.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

@@ -1,5 +1,5 @@
 {
-  "uid" : "31d93a2a6cfc6478",
+  "uid" : "a2c90d35ebe9c47c",
   "name" : "should test SignIn function . Test-Case3",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
   "historyId" : "c19e92a39aa721d17c180a5fc93d0f9e",
@@ -60,13 +60,22 @@
     "history" : {
       "statistic" : {
         "failed" : 0,
-        "broken" : 2,
+        "broken" : 3,
         "skipped" : 0,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
+        "uid" : "31d93a2a6cfc6478",
+        "status" : "broken",
+        "statusDetails" : "Can't call click on element with selector \"//header//summary//span[2]\" because element wasn't found",
+        "time" : {
+          "start" : 1625558748322,
+          "stop" : 1625558761473,
+          "duration" : 13151
+        }
+      }, {
         "uid" : "6030377a4af6b010",
         "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/36//#testresult/6030377a4af6b010",
         "status" : "broken",
@@ -80,6 +89,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "31d93a2a6cfc6478.json",
+  "source" : "a2c90d35ebe9c47c.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

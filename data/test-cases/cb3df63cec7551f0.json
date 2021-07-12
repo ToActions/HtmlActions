@@ -1,12 +1,12 @@
 {
-  "uid" : "53ec238a427007dc",
+  "uid" : "cb3df63cec7551f0",
   "name" : "should test Password recowery function . Test-Case4",
   "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
   "historyId" : "8fb23c8a6c81f68e3e5989b515a15ebf",
   "time" : {
-    "start" : 1626094387074,
-    "stop" : 1626094390931,
-    "duration" : 3857
+    "start" : 1626094568224,
+    "stop" : 1626094572536,
+    "duration" : 4312
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "53ec238a427007dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626094387074,
+          "stop" : 1626094390931,
+          "duration" : 3857
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "53ec238a427007dc.json",
+  "source" : "cb3df63cec7551f0.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

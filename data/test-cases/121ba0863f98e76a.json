@@ -1,12 +1,12 @@
 {
-  "uid" : "5b5831744bb976d1",
-  "name" : " homeTask_Lesson_14",
-  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
+  "uid" : "121ba0863f98e76a",
+  "name" : "homeTask_Lesson_9",
+  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
+  "historyId" : "7ed1e0e4d8f78e6363e704acc7a6a641",
   "time" : {
-    "start" : 1626094399498,
-    "stop" : 1626094401913,
-    "duration" : 2415
+    "start" : 1626094568230,
+    "stop" : 1626094581083,
+    "duration" : 12853
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,22 +14,6 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
-  "testStage" : {
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "c541c520ca162ad4",
-      "name" : "Screenshot",
-      "source" : "c541c520ca162ad4.png",
-      "type" : "image/png",
-      "size" : 108518
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -48,7 +32,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : " homeTask_Lesson_14"
+    "value" : "homeTask_Lesson_9"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -67,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "fc5d40bd5e1e1b83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626094387077,
+          "stop" : 1626094399497,
+          "duration" : 12420
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "5b5831744bb976d1.json",
+  "source" : "121ba0863f98e76a.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
