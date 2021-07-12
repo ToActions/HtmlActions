@@ -1,11 +1,11 @@
 {
-  "uid" : "f78530de99a2ba4f",
-  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe. should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
-  "historyId" : "b179768a8769c37b6d017fe8cf86397e",
+  "uid" : "8f37651467f50fa2",
+  "name" : "should check that is Topic text displayed in view port . Test-Case7",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should check that is Topic text displayed in view port . Test-Case7",
+  "historyId" : "c1b1d20037dd6e1318a81657eba8aa2d",
   "time" : {
-    "start" : 1626085128302,
-    "stop" : 1626085128302,
+    "start" : 1626085565284,
+    "stop" : 1626085565284,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9"
+    "value" : "should check that is Topic text displayed in view port . Test-Case7"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f78530de99a2ba4f.json",
+  "source" : "8f37651467f50fa2.json",
   "parameterValues" : [ ]
 }

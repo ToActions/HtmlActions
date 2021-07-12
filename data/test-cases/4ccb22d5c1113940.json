@@ -1,11 +1,11 @@
 {
-  "uid" : "e0a48df90c915ada",
-  "name" : "should test SignIn function . Test-Case3",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
-  "historyId" : "cca95270497650eb9cade9634fddac0f",
+  "uid" : "4ccb22d5c1113940",
+  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using primary SignUp button). Test-Case2",
+  "historyId" : "f9fc1690d347fbea5290ef30c3e1439a",
   "time" : {
-    "start" : 1626085082904,
-    "stop" : 1626085082904,
+    "start" : 1626085530209,
+    "stop" : 1626085530209,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignIn function . Test-Case3"
+    "value" : "should test SignUp function (using primary SignUp button). Test-Case2"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e0a48df90c915ada.json",
+  "source" : "4ccb22d5c1113940.json",
   "parameterValues" : [ ]
 }

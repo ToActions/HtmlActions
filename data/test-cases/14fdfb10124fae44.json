@@ -1,12 +1,12 @@
 {
-  "uid" : "bd1d4c53a4ba3eb0",
-  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "historyId" : "c4f2528aa0b878cd02b62822effe41fc",
+  "uid" : "14fdfb10124fae44",
+  "name" : "should test Password recowery function . Test-Case4",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test Password recowery function . Test-Case4",
+  "historyId" : "8fb23c8a6c81f68e3e5989b515a15ebf",
   "time" : {
-    "start" : 1626085101678,
-    "stop" : 1626085124045,
-    "duration" : 22367
+    "start" : 1626085530209,
+    "stop" : 1626085534417,
+    "duration" : 4208
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6"
+    "value" : "should test Password recowery function . Test-Case4"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "bd1d4c53a4ba3eb0.json",
+  "source" : "14fdfb10124fae44.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

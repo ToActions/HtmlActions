@@ -1,12 +1,12 @@
 {
-  "uid" : "99f444f3e2635b25",
-  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that filter TypeScript works and first result is relevant . Test-Case8",
-  "historyId" : "f5352784eaa77f89ceab9fac28fc2c2c",
+  "uid" : "8b2bc9634a3aa0ee",
+  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
+  "historyId" : "c4f2528aa0b878cd02b62822effe41fc",
   "time" : {
-    "start" : 1626085124045,
-    "stop" : 1626085128302,
-    "duration" : 4257
+    "start" : 1626085546058,
+    "stop" : 1626085565283,
+    "duration" : 19225
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test that filter TypeScript works and first result is relevant . Test-Case8"
+    "value" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "99f444f3e2635b25.json",
+  "source" : "8b2bc9634a3aa0ee.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
