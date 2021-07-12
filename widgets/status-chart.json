@@ -1,175 +1,15 @@
 [ {
-  "uid" : "704be48be68f533c",
-  "name" : "homeTask_Lesson_9",
-  "time" : {
-    "start" : 1626091971925,
-    "stop" : 1626091985751,
-    "duration" : 13826
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c0cd6c65408d943",
-  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
-  "time" : {
-    "start" : 1626092012534,
-    "stop" : 1626092016777,
-    "duration" : 4243
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c8df485081976db7",
-  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
-  "time" : {
-    "start" : 1625558782880,
-    "stop" : 1625558786980,
-    "duration" : 4100
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6cd1c14a8fa5d46",
+  "uid" : "c3f58a61d86c6907",
   "name" : "should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
   "time" : {
-    "start" : 1626091976976,
-    "stop" : 1626091992206,
-    "duration" : 15230
+    "start" : 1626092198954,
+    "stop" : 1626092211822,
+    "duration" : 12868
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "a04f02d3a2df3a78",
-  "name" : "should check that is Topic text displayed in view port . Test-Case7",
-  "time" : {
-    "start" : 1625558780521,
-    "stop" : 1625558782880,
-    "duration" : 2359
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "78c072cd55ff8889",
-  "name" : " homeTask_Lesson_14",
-  "time" : {
-    "start" : 1625558733216,
-    "stop" : 1625558735598,
-    "duration" : 2382
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "72674e073f7dd058",
-  "name" : " should print in the console all positions from the careers . Test-Case10",
-  "time" : {
-    "start" : 1626092016777,
-    "stop" : 1626092019360,
-    "duration" : 2583
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "816597293be19131",
-  "name" : " should print in the console all positions from the careers . Test-Case10",
-  "time" : {
-    "start" : 1625558799730,
-    "stop" : 1625558802047,
-    "duration" : 2317
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8572fd1e0a576d4a",
-  "name" : " homeTask_Lesson_14",
-  "time" : {
-    "start" : 1626091985751,
-    "stop" : 1626091988435,
-    "duration" : 2684
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e69e7888be206267",
-  "name" : "should check that is Topic text displayed in view port . Test-Case7",
-  "time" : {
-    "start" : 1626092012534,
-    "stop" : 1626092012534,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "2eeca192caa1af01",
-  "name" : "should test Password recowery function . Test-Case4",
-  "time" : {
-    "start" : 1626091971926,
-    "stop" : 1626091976975,
-    "duration" : 5049
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8c0cdfb35f3178f6",
-  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
-  "time" : {
-    "start" : 1625558786980,
-    "stop" : 1625558799730,
-    "duration" : 12750
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "ae480a53e85df272",
-  "name" : "homeTask_Lesson_9",
-  "time" : {
-    "start" : 1625558715806,
-    "stop" : 1625558733213,
-    "duration" : 17407
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "576cfca590d9f6d3",
-  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "time" : {
-    "start" : 1625558767208,
-    "stop" : 1625558780521,
-    "duration" : 13313
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "11723d07bc28c38",
-  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
-  "time" : {
-    "start" : 1626091971926,
-    "stop" : 1626091971926,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "2ca02a4edc8b09f2",
-  "name" : "should test Password recowery function . Test-Case4",
-  "time" : {
-    "start" : 1625558761473,
-    "stop" : 1625558765004,
-    "duration" : 3531
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1933fc4cb1c7b1e1",
-  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
-  "time" : {
-    "start" : 1625558734617,
-    "stop" : 1625558748322,
-    "duration" : 13705
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "3ed989023079e5a9",
+  "uid" : "e13dfc11a0aa839",
   "name" : "should test SignIn function . Test-Case3",
   "time" : {
     "start" : 1625558748322,
@@ -179,27 +19,7 @@
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "bb41954ef13a9d37",
-  "name" : "should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
-  "time" : {
-    "start" : 1625558765004,
-    "stop" : 1625558767207,
-    "duration" : 2203
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "49b0b79c11b3072a",
-  "name" : "should test SignUp function (using header button). Test-Case1",
-  "time" : {
-    "start" : 1626091971925,
-    "stop" : 1626091971925,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "5bddbebd7c903f7b",
+  "uid" : "e4c2ded2ae26b809",
   "name" : "should test SignUp function (using header button). Test-Case1",
   "time" : {
     "start" : 1625558715711,
@@ -209,33 +29,213 @@
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "57c77e636e5758c5",
-  "name" : "should test SignIn function . Test-Case3",
+  "uid" : "54b0b131a56d980e",
+  "name" : "homeTask_Lesson_9",
   "time" : {
-    "start" : 1626091971926,
-    "stop" : 1626091971926,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "1aceab54765ccbaf",
-  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
-  "time" : {
-    "start" : 1626092016777,
-    "stop" : 1626092016777,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "548bb4fd5ef65dd8",
-  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "time" : {
-    "start" : 1626091992206,
-    "stop" : 1626092012534,
-    "duration" : 20328
+    "start" : 1625558715806,
+    "stop" : 1625558733213,
+    "duration" : 17407
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "707730d6ecedb76a",
+  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+  "time" : {
+    "start" : 1625558786980,
+    "stop" : 1625558799730,
+    "duration" : 12750
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6f9223fca83c0a7c",
+  "name" : "should test Password recowery function . Test-Case4",
+  "time" : {
+    "start" : 1625558761473,
+    "stop" : 1625558765004,
+    "duration" : 3531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d36fbfd898de6740",
+  "name" : "homeTask_Lesson_9",
+  "time" : {
+    "start" : 1626092194052,
+    "stop" : 1626092207065,
+    "duration" : 13013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cec8eb70fdc6dc8",
+  "name" : "should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
+  "time" : {
+    "start" : 1625558765004,
+    "stop" : 1625558767207,
+    "duration" : 2203
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "12f7fee2e1e7894a",
+  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
+  "time" : {
+    "start" : 1625558782880,
+    "stop" : 1625558786980,
+    "duration" : 4100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3db3a5352c07d18",
+  "name" : " should print in the console all positions from the careers . Test-Case10",
+  "time" : {
+    "start" : 1626092239960,
+    "stop" : 1626092242289,
+    "duration" : 2329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60e526daca83d9c3",
+  "name" : " homeTask_Lesson_14",
+  "time" : {
+    "start" : 1626092207066,
+    "stop" : 1626092209431,
+    "duration" : 2365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef477cc49a3d8156",
+  "name" : " should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9",
+  "time" : {
+    "start" : 1626092239959,
+    "stop" : 1626092239959,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "461f044f03c768b3",
+  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
+  "time" : {
+    "start" : 1625558734617,
+    "stop" : 1625558748322,
+    "duration" : 13705
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ca74738c302f3ff",
+  "name" : "should test Password recowery function . Test-Case4",
+  "time" : {
+    "start" : 1626092194053,
+    "stop" : 1626092198953,
+    "duration" : 4900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a766bbf8059b036b",
+  "name" : " homeTask_Lesson_14",
+  "time" : {
+    "start" : 1625558733216,
+    "stop" : 1625558735598,
+    "duration" : 2382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c8bfec87efd852f",
+  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
+  "time" : {
+    "start" : 1625558767208,
+    "stop" : 1625558780521,
+    "duration" : 13313
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e56464f69a7805b0",
+  "name" : "should check that is Topic text displayed in view port . Test-Case7",
+  "time" : {
+    "start" : 1626092235866,
+    "stop" : 1626092235866,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "377ec1fceddd3dff",
+  "name" : "should test SignUp function (using header button). Test-Case1",
+  "time" : {
+    "start" : 1626092194052,
+    "stop" : 1626092194052,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "689b35f7752757dd",
+  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
+  "time" : {
+    "start" : 1626092235866,
+    "stop" : 1626092239959,
+    "duration" : 4093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a544602b7ce8805",
+  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
+  "time" : {
+    "start" : 1626092194053,
+    "stop" : 1626092194053,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e6ccf613d8dea4c7",
+  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
+  "time" : {
+    "start" : 1626092211822,
+    "stop" : 1626092235866,
+    "duration" : 24044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a2e8669e5bfd535",
+  "name" : "should check that is Topic text displayed in view port . Test-Case7",
+  "time" : {
+    "start" : 1625558780521,
+    "stop" : 1625558782880,
+    "duration" : 2359
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2d18e96ec3bdc02",
+  "name" : " should print in the console all positions from the careers . Test-Case10",
+  "time" : {
+    "start" : 1625558799730,
+    "stop" : 1625558802047,
+    "duration" : 2317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b29c7875c23f004b",
+  "name" : "should test SignIn function . Test-Case3",
+  "time" : {
+    "start" : 1626092194053,
+    "stop" : 1626092194053,
+    "duration" : 0
+  },
+  "status" : "skipped",
   "severity" : "normal"
 } ]
