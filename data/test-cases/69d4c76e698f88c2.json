@@ -1,5 +1,5 @@
 {
-  "uid" : "f97dc6de0750c8f8",
+  "uid" : "69d4c76e698f88c2",
   "name" : "should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5",
   "historyId" : "729fff01d5f372a0de52290cec61afa8",
@@ -60,13 +60,22 @@
     "history" : {
       "statistic" : {
         "failed" : 0,
-        "broken" : 4,
+        "broken" : 5,
         "skipped" : 0,
         "passed" : 1,
         "unknown" : 0,
-        "total" : 5
+        "total" : 6
       },
       "items" : [ {
+        "uid" : "f97dc6de0750c8f8",
+        "status" : "broken",
+        "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  assert(this.WhyGitHubDropdownMenu.isDisplayed())\n                ",
+        "time" : {
+          "start" : 1625558765004,
+          "stop" : 1625558767207,
+          "duration" : 2203
+        }
+      }, {
         "uid" : "11da90d0e639d63b",
         "status" : "broken",
         "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  assert(this.WhyGitHubDropdownMenu.isDisplayed())\n                ",
@@ -105,6 +114,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "f97dc6de0750c8f8.json",
+  "source" : "69d4c76e698f88c2.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

@@ -1,5 +1,5 @@
 {
-  "uid" : "d7eac3926fd5ac1d",
+  "uid" : "6c05abc633d005b1",
   "name" : "should test SignUp function (using header button). Test-Case1",
   "fullName" : "HomeWork/TestTask (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using header button). Test-Case1",
   "historyId" : "bc697257548a3ec88061e6f0567dedb2",
@@ -59,14 +59,23 @@
     } ],
     "history" : {
       "statistic" : {
-        "failed" : 5,
+        "failed" : 6,
         "broken" : 0,
         "skipped" : 0,
         "passed" : 0,
         "unknown" : 0,
-        "total" : 5
+        "total" : 6
       },
       "items" : [ {
+        "uid" : "d7eac3926fd5ac1d",
+        "status" : "failed",
+        "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"",
+        "time" : {
+          "start" : 1625558715711,
+          "stop" : 1625558734616,
+          "duration" : 18905
+        }
+      }, {
         "uid" : "9eaa16c0a3306a2f",
         "status" : "failed",
         "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"",
@@ -106,6 +115,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "d7eac3926fd5ac1d.json",
+  "source" : "6c05abc633d005b1.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }

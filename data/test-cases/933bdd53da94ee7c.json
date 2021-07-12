@@ -1,12 +1,12 @@
 {
-  "uid" : "c39a5a89c445e8cd",
-  "name" : " homeTask_Lesson_14",
-  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
-  "historyId" : "befe34121d5c44d14094ed16e09ef4a3",
+  "uid" : "933bdd53da94ee7c",
+  "name" : "homeTask_Lesson_9",
+  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
+  "historyId" : "7ed1e0e4d8f78e6363e704acc7a6a641",
   "time" : {
-    "start" : 1625558733216,
-    "stop" : 1625558735598,
-    "duration" : 2382
+    "start" : 1626078867536,
+    "stop" : 1626078880260,
+    "duration" : 12724
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : " homeTask_Lesson_14"
+    "value" : "homeTask_Lesson_9"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -42,7 +42,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -61,41 +61,41 @@
         "total" : 5
       },
       "items" : [ {
-        "uid" : "48fe06da555f67b3",
+        "uid" : "119bb19927c0ea58",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1625843370732,
+          "stop" : 1625843382808,
+          "duration" : 12076
         }
       }, {
-        "uid" : "6907daff24d3f74e",
+        "uid" : "433eeb8b9de8502a",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1625843061307,
+          "stop" : 1625843073717,
+          "duration" : 12410
         }
       }, {
-        "uid" : "e717140ca763c3fd",
+        "uid" : "5995232527dba8f4",
         "status" : "passed",
         "time" : {
-          "start" : 1625558733216,
-          "stop" : 1625558735598,
-          "duration" : 2382
+          "start" : 1625842006916,
+          "stop" : 1625842023381,
+          "duration" : 16465
         }
       }, {
-        "uid" : "3c1692e7fb4a35db",
+        "uid" : "a27e33c2a00ba064",
         "status" : "passed",
         "time" : {
-          "start" : 1625730402091,
-          "stop" : 1625730405664,
-          "duration" : 3573
+          "start" : 1625841848375,
+          "stop" : 1625841861163,
+          "duration" : 12788
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "c39a5a89c445e8cd.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "933bdd53da94ee7c.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

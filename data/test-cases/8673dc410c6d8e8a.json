@@ -1,12 +1,12 @@
 {
-  "uid" : "10df7583dfefe92f",
-  "name" : "homeTask_Lesson_9",
-  "fullName" : "Webdriverio_test.homeTask_Lesson_9",
-  "historyId" : "8ea44e0b6577b3dbe2cd54456fcfe5c",
+  "uid" : "8673dc410c6d8e8a",
+  "name" : " homeTask_Lesson_14",
+  "fullName" : "Webdriverio_test. homeTask_Lesson_14",
+  "historyId" : "5a84268e024a04210c49df6c4c15aee1",
   "time" : {
-    "start" : 1625558715806,
-    "stop" : 1625558733213,
-    "duration" : 17407
+    "start" : 1626078880260,
+    "stop" : 1626078882193,
+    "duration" : 1933
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -14,6 +14,22 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5dd74b2c1902c23e",
+      "name" : "Screenshot",
+      "source" : "5dd74b2c1902c23e.png",
+      "type" : "image/png",
+      "size" : 108518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -32,7 +48,7 @@
     "value" : "Webdriverio_test"
   }, {
     "name" : "testMethod",
-    "value" : "homeTask_Lesson_9"
+    "value" : " homeTask_Lesson_14"
   }, {
     "name" : "package",
     "value" : "Webdriverio_test"
@@ -42,7 +58,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-91.0.4472.124"
+    "value" : "chrome-91.0.4472.114"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -61,41 +77,41 @@
         "total" : 5
       },
       "items" : [ {
-        "uid" : "ad1e261c75400d92",
+        "uid" : "14ebb16b6407e9df",
         "status" : "passed",
         "time" : {
-          "start" : 1625558715806,
-          "stop" : 1625558733213,
-          "duration" : 17407
+          "start" : 1625843382809,
+          "stop" : 1625843384880,
+          "duration" : 2071
         }
       }, {
-        "uid" : "4ae55ce99f4b9c07",
+        "uid" : "61fe5924a782e7a8",
         "status" : "passed",
         "time" : {
-          "start" : 1625558715806,
-          "stop" : 1625558733213,
-          "duration" : 17407
+          "start" : 1625843073717,
+          "stop" : 1625843075860,
+          "duration" : 2143
         }
       }, {
-        "uid" : "7c8eb546ac7f5c26",
+        "uid" : "65d129ff210716a4",
         "status" : "passed",
         "time" : {
-          "start" : 1625558715806,
-          "stop" : 1625558733213,
-          "duration" : 17407
+          "start" : 1625842023381,
+          "stop" : 1625842026118,
+          "duration" : 2737
         }
       }, {
-        "uid" : "5fbb96a379933f5a",
+        "uid" : "2063ad9dfcfbdb49",
         "status" : "passed",
         "time" : {
-          "start" : 1625730383426,
-          "stop" : 1625730402088,
-          "duration" : 18662
+          "start" : 1625841861163,
+          "stop" : 1625841862978,
+          "duration" : 1815
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "10df7583dfefe92f.json",
-  "parameterValues" : [ "chrome-91.0.4472.124" ]
+  "source" : "8673dc410c6d8e8a.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
 }

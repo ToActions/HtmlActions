@@ -1,12 +1,12 @@
 {
-  "uid" : "aeecfd2c4f661bef",
-  "name" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6",
-  "historyId" : "c4f2528aa0b878cd02b62822effe41fc",
+  "uid" : "aaf6a41963565957",
+  "name" : "should test that filter TypeScript works and first result is relevant . Test-Case8",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test that filter TypeScript works and first result is relevant . Test-Case8",
+  "historyId" : "f5352784eaa77f89ceab9fac28fc2c2c",
   "time" : {
-    "start" : 1625843385341,
-    "stop" : 1625843400829,
-    "duration" : 15488
+    "start" : 1626078898892,
+    "stop" : 1626078903707,
+    "duration" : 4815
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test that user able to chose the plan\"for free\" and register throuth it . Test-Case6"
+    "value" : "should test that filter TypeScript works and first result is relevant . Test-Case8"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d60fde4535311b31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625843400829,
+          "stop" : 1625843405691,
+          "duration" : 4862
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "aeecfd2c4f661bef.json",
+  "source" : "aaf6a41963565957.json",
   "parameterValues" : [ "chrome-91.0.4472.114" ]
 }
