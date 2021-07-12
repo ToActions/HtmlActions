@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b899f7014367c0bd",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/b899f7014367c0bd",
+      "uid" : "1aceab54765ccbaf",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/1aceab54765ccbaf",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
-        "start" : 1626091643426,
-        "stop" : 1626091643426,
+        "start" : 1626092016777,
+        "stop" : 1626092016777,
         "duration" : 0
       }
     } ]
@@ -30,8 +30,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a7e2b616fae2f6f2",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/a7e2b616fae2f6f2",
+      "uid" : "ae480a53e85df272",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/ae480a53e85df272",
       "status" : "passed",
       "time" : {
         "start" : 1625558715806,
@@ -50,14 +50,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b4ca6b11457dfef1",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/b4ca6b11457dfef1",
+      "uid" : "6cd1c14a8fa5d46",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/6cd1c14a8fa5d46",
       "status" : "broken",
       "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  assert(this.WhyGitHubDropdownMenu.isDisplayed())\n                ",
       "time" : {
-        "start" : 1626091605995,
-        "stop" : 1626091617829,
-        "duration" : 11834
+        "start" : 1626091976976,
+        "stop" : 1626091992206,
+        "duration" : 15230
       }
     } ]
   },
@@ -71,8 +71,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "222185fc8c50e6a2",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/222185fc8c50e6a2",
+      "uid" : "816597293be19131",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/816597293be19131",
       "status" : "passed",
       "time" : {
         "start" : 1625558799730,
@@ -91,35 +91,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b26b690dcbf592d1",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/b26b690dcbf592d1",
+      "uid" : "57c77e636e5758c5",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/57c77e636e5758c5",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
-        "start" : 1626091601526,
-        "stop" : 1626091601526,
+        "start" : 1626091971926,
+        "stop" : 1626091971926,
         "duration" : 0
-      }
-    } ]
-  },
-  "61918d6487c09a61db429ecf350555be" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d736d61a5bfd2b8e",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/d736d61a5bfd2b8e",
-      "status" : "failed",
-      "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?user_email=&source=form-home-signup\"",
-      "time" : {
-        "start" : 1625558734617,
-        "stop" : 1625558748322,
-        "duration" : 13705
       }
     } ]
   },
@@ -133,13 +112,34 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a044e0d4cd71af86",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/a044e0d4cd71af86",
+      "uid" : "72674e073f7dd058",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/72674e073f7dd058",
       "status" : "passed",
       "time" : {
-        "start" : 1626091643426,
-        "stop" : 1626091646419,
-        "duration" : 2993
+        "start" : 1626092016777,
+        "stop" : 1626092019360,
+        "duration" : 2583
+      }
+    } ]
+  },
+  "61918d6487c09a61db429ecf350555be" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1933fc4cb1c7b1e1",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/1933fc4cb1c7b1e1",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?user_email=&source=form-home-signup\"",
+      "time" : {
+        "start" : 1625558734617,
+        "stop" : 1625558748322,
+        "duration" : 13705
       }
     } ]
   },
@@ -153,14 +153,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a6e69b11c249374e",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/a6e69b11c249374e",
+      "uid" : "49b0b79c11b3072a",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/49b0b79c11b3072a",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
-        "start" : 1626091601525,
-        "stop" : 1626091601526,
-        "duration" : 1
+        "start" : 1626091971925,
+        "stop" : 1626091971925,
+        "duration" : 0
       }
     } ]
   },
@@ -174,8 +174,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8c6764e00b27609f",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/8c6764e00b27609f",
+      "uid" : "78c072cd55ff8889",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/78c072cd55ff8889",
       "status" : "passed",
       "time" : {
         "start" : 1625558733216,
@@ -194,8 +194,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6b6645c30e5c727b",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/6b6645c30e5c727b",
+      "uid" : "3ed989023079e5a9",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/3ed989023079e5a9",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"//header//summary//span[2]\" because element wasn't found",
       "time" : {
@@ -215,13 +215,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "81b5608c1b84158d",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/81b5608c1b84158d",
+      "uid" : "8572fd1e0a576d4a",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/8572fd1e0a576d4a",
       "status" : "passed",
       "time" : {
-        "start" : 1626091614396,
-        "stop" : 1626091616669,
-        "duration" : 2273
+        "start" : 1626091985751,
+        "stop" : 1626091988435,
+        "duration" : 2684
       }
     } ]
   },
@@ -235,8 +235,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bedbdabec8f5ca5f",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/bedbdabec8f5ca5f",
+      "uid" : "c8df485081976db7",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/c8df485081976db7",
       "status" : "passed",
       "time" : {
         "start" : 1625558782880,
@@ -255,13 +255,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c6ac64d3f512db36",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/c6ac64d3f512db36",
+      "uid" : "e69e7888be206267",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/e69e7888be206267",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
-        "start" : 1626091639151,
-        "stop" : 1626091639151,
+        "start" : 1626092012534,
+        "stop" : 1626092012534,
         "duration" : 0
       }
     } ]
@@ -276,8 +276,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8d60f67b04837447",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/8d60f67b04837447",
+      "uid" : "bb41954ef13a9d37",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/bb41954ef13a9d37",
       "status" : "broken",
       "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  assert(this.WhyGitHubDropdownMenu.isDisplayed())\n                ",
       "time" : {
@@ -297,34 +297,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "42e862c621d62047",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/42e862c621d62047",
+      "uid" : "2eeca192caa1af01",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/2eeca192caa1af01",
       "status" : "passed",
       "time" : {
-        "start" : 1626091601526,
-        "stop" : 1626091605995,
-        "duration" : 4469
+        "start" : 1626091971926,
+        "stop" : 1626091976975,
+        "duration" : 5049
       }
     } ]
   },
   "f5352784eaa77f89ceab9fac28fc2c2c" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5df7e4aa50f12394",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/5df7e4aa50f12394",
-      "status" : "broken",
-      "statusDetails" : "element not interactable: element has zero size\n                  (Session info: headless chrome=91.0.4472.114)",
+      "uid" : "6c0cd6c65408d943",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/6c0cd6c65408d943",
+      "status" : "passed",
       "time" : {
-        "start" : 1626091639151,
-        "stop" : 1626091643415,
-        "duration" : 4264
+        "start" : 1626092012534,
+        "stop" : 1626092016777,
+        "duration" : 4243
       }
     } ]
   },
@@ -338,8 +337,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5d42891b7aa5547f",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/5d42891b7aa5547f",
+      "uid" : "8c0cdfb35f3178f6",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/8c0cdfb35f3178f6",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"//*[contains(text(),\"Enterprise Cloud\")]\" because element wasn't found",
       "time" : {
@@ -359,8 +358,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "af48db186432e588",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/af48db186432e588",
+      "uid" : "a04f02d3a2df3a78",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/a04f02d3a2df3a78",
       "status" : "broken",
       "statusDetails" : "element not interactable\n                  (Session info: chrome=91.0.4472.124)",
       "time" : {
@@ -380,8 +379,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c705865fcb9dea10",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/c705865fcb9dea10",
+      "uid" : "576cfca590d9f6d3",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/576cfca590d9f6d3",
       "status" : "failed",
       "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join?plan\"\n                Received: \"https://github.com/pricing\"",
       "time" : {
@@ -401,8 +400,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "962b9793495a14da",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/962b9793495a14da",
+      "uid" : "2ca02a4edc8b09f2",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/2ca02a4edc8b09f2",
       "status" : "passed",
       "time" : {
         "start" : 1625558761473,
@@ -421,13 +420,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7a58ae10b6296eea",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/7a58ae10b6296eea",
+      "uid" : "548bb4fd5ef65dd8",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/548bb4fd5ef65dd8",
       "status" : "passed",
       "time" : {
-        "start" : 1626091617829,
-        "stop" : 1626091639151,
-        "duration" : 21322
+        "start" : 1626091992206,
+        "stop" : 1626092012534,
+        "duration" : 20328
       }
     } ]
   },
@@ -441,13 +440,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e9f50e36667816b4",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/e9f50e36667816b4",
+      "uid" : "704be48be68f533c",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/704be48be68f533c",
       "status" : "passed",
       "time" : {
-        "start" : 1626091601527,
-        "stop" : 1626091614395,
-        "duration" : 12868
+        "start" : 1626091971925,
+        "stop" : 1626091985751,
+        "duration" : 13826
       }
     } ]
   },
@@ -461,13 +460,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6f3200340fbf5771",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/6f3200340fbf5771",
+      "uid" : "11723d07bc28c38",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/11723d07bc28c38",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
-        "start" : 1626091601526,
-        "stop" : 1626091601526,
+        "start" : 1626091971926,
+        "stop" : 1626091971926,
         "duration" : 0
       }
     } ]
@@ -482,8 +481,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e4e5ffb2d15a3920",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/50//#testresult/e4e5ffb2d15a3920",
+      "uid" : "5bddbebd7c903f7b",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/51//#testresult/5bddbebd7c903f7b",
       "status" : "failed",
       "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"",
       "time" : {
