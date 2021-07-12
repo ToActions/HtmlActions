@@ -9,8 +9,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c48bdc568d195455",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/c48bdc568d195455",
+      "uid" : "f830a5cda52c0093",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/f830a5cda52c0093",
       "status" : "passed",
       "time" : {
         "start" : 1625558733216,
@@ -29,8 +29,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fa79e651a3c0dee1",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/fa79e651a3c0dee1",
+      "uid" : "327b24b2d5f7a9a0",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/327b24b2d5f7a9a0",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"//header//summary//span[2]\" because element wasn't found",
       "time" : {
@@ -50,8 +50,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "902fe31fd4ffb95",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/902fe31fd4ffb95",
+      "uid" : "fd26bc931e7a24be",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/fd26bc931e7a24be",
       "status" : "passed",
       "time" : {
         "start" : 1625558715806,
@@ -70,8 +70,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "da8932fc4c9c5e00",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/da8932fc4c9c5e00",
+      "uid" : "447ab34c56b04f55",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/447ab34c56b04f55",
       "status" : "passed",
       "time" : {
         "start" : 1625558782880,
@@ -90,8 +90,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "29ba6da308a72b1a",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/29ba6da308a72b1a",
+      "uid" : "d4a41527a71c7630",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/d4a41527a71c7630",
       "status" : "broken",
       "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  assert(this.WhyGitHubDropdownMenu.isDisplayed())\n                ",
       "time" : {
@@ -111,8 +111,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "43c7198fa12190a9",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/43c7198fa12190a9",
+      "uid" : "eb827416b478d7ce",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/eb827416b478d7ce",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"//*[contains(text(),\"Enterprise Cloud\")]\" because element wasn't found",
       "time" : {
@@ -132,8 +132,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c041b2fb5e6cef29",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/c041b2fb5e6cef29",
+      "uid" : "efb270c6a6415389",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/efb270c6a6415389",
       "status" : "broken",
       "statusDetails" : "element not interactable\n                  (Session info: chrome=91.0.4472.124)",
       "time" : {
@@ -153,8 +153,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bd8919ac305f1e6e",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/bd8919ac305f1e6e",
+      "uid" : "201eacd4b9394676",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/201eacd4b9394676",
       "status" : "failed",
       "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join?plan\"\n                Received: \"https://github.com/pricing\"",
       "time" : {
@@ -174,8 +174,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d201ccc9f664d3f6",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/d201ccc9f664d3f6",
+      "uid" : "1abc610c3d355b07",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/1abc610c3d355b07",
       "status" : "passed",
       "time" : {
         "start" : 1625558761473,
@@ -194,8 +194,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "98a6c1d623971db3",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/98a6c1d623971db3",
+      "uid" : "c39563fd08e748f4",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/c39563fd08e748f4",
       "status" : "passed",
       "time" : {
         "start" : 1625558799730,
@@ -214,8 +214,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "25f30bc3da1540ab",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/25f30bc3da1540ab",
+      "uid" : "c52bf8dc4659d2ac",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/c52bf8dc4659d2ac",
       "status" : "failed",
       "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?user_email=&source=form-home-signup\"",
       "time" : {
@@ -235,8 +235,8 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "53a10de47d7424f4",
-      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/53a10de47d7424f4",
+      "uid" : "3af80cc9d6693136",
+      "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/37//#testresult/3af80cc9d6693136",
       "status" : "failed",
       "statusDetails" : "Expect window to have url containing\n                \n                Expected: \"https://github.com/join\"\n                Received: \"https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home\"",
       "time" : {
