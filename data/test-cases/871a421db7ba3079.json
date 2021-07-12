@@ -1,11 +1,11 @@
 {
-  "uid" : "e3a3b6f37772b9be",
-  "name" : "should test SignIn function . Test-Case3",
-  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignIn function . Test-Case3",
-  "historyId" : "cca95270497650eb9cade9634fddac0f",
+  "uid" : "871a421db7ba3079",
+  "name" : "should test SignUp function (using primary SignUp button). Test-Case2",
+  "fullName" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe.should test SignUp function (using primary SignUp button). Test-Case2",
+  "historyId" : "f9fc1690d347fbea5290ef30c3e1439a",
   "time" : {
-    "start" : 1626096852170,
-    "stop" : 1626096852170,
+    "start" : 1626097081908,
+    "stop" : 1626097081908,
     "duration" : 0
   },
   "description" : "",
@@ -25,7 +25,7 @@
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
   }, {
     "name" : "testMethod",
-    "value" : "should test SignIn function . Test-Case3"
+    "value" : "should test SignUp function (using primary SignUp button). Test-Case2"
   }, {
     "name" : "package",
     "value" : "HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe"
@@ -41,8 +41,28 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 2,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e1850ed28e9cd4c4",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1626096852170,
+          "stop" : 1626096852170,
+          "duration" : 0
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "e3a3b6f37772b9be.json",
+  "source" : "871a421db7ba3079.json",
   "parameterValues" : [ ]
 }

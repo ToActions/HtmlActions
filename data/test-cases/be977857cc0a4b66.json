@@ -1,5 +1,5 @@
 {
-  "uid" : "ba329f6519c5e2f9",
+  "uid" : "be977857cc0a4b66",
   "name" : "homeTask_Lesson_9",
   "fullName" : "Webdriverio_test.homeTask_Lesson_9",
   "historyId" : "8ea44e0b6577b3dbe2cd54456fcfe5c",
@@ -56,11 +56,19 @@
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 2,
+        "passed" : 3,
         "unknown" : 0,
-        "total" : 2
+        "total" : 3
       },
       "items" : [ {
+        "uid" : "ba329f6519c5e2f9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625558715806,
+          "stop" : 1625558733213,
+          "duration" : 17407
+        }
+      }, {
         "uid" : "545c017d27ed7b35",
         "reportUrl" : "https://AmigoSerhio.github.io/Private_Allure_Actions/60//#testresult/545c017d27ed7b35",
         "status" : "passed",
@@ -73,6 +81,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "ba329f6519c5e2f9.json",
+  "source" : "be977857cc0a4b66.json",
   "parameterValues" : [ "chrome-91.0.4472.124" ]
 }
