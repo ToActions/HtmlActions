@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626269841290' stop='1626269856243'>
+    <name>Webdriverio_test</name>
+    <title>Webdriverio_test</title>
+    <test-cases>
+        <test-case start='1626269841290' status='passed' stop='1626269853895'>
+            <name>homeTask_Lesson_9</name>
+            <title>homeTask_Lesson_9</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626269853896' status='passed' stop='1626269856242'>
+            <name> homeTask_Lesson_14</name>
+            <title> homeTask_Lesson_14</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='eb9ea67d-8623-4661-b401-9b7cf3bdd3dd-attachment.png' type='image/png' size='108518'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
