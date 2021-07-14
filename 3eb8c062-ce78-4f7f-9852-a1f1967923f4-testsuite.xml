@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626263271032' stop='1626263312014'>
+    <name>HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe</name>
+    <title>HomeWork/TestTask/Actions (Lesson 29) https://youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe</title>
+    <test-cases>
+        <test-case start='1626263271033' status='pending' stop='1626263271033'>
+            <name>should test SignUp function (using header button). Test-Case1</name>
+            <title>should test SignUp function (using header button). Test-Case1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626263271033' status='pending' stop='1626263271033'>
+            <name>should test SignUp function (using primary SignUp button). Test-Case2</name>
+            <title>should test SignUp function (using primary SignUp button). Test-Case2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626263271033' status='pending' stop='1626263271033'>
+            <name>should test SignIn function . Test-Case3</name>
+            <title>should test SignIn function . Test-Case3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626263271033' status='passed' stop='1626263274518'>
+            <name>should test Password recowery function . Test-Case4</name>
+            <title>should test Password recowery function . Test-Case4</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626263274518' status='broken' stop='1626263285384'>
+            <name>should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5</name>
+            <title>should test that dropdown menues(Header Menu) is displayed when mouse on it. Test-Case5</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6249f031-a210-4d64-9d2f-f1e952e9f827-attachment.png' type='image/png' size='522433'/>
+            </attachments>
+            <failure>
+                <message>The expression evaluated to a falsy value:
+                
+                  assert(this.WhyGitHubDropdownMenu.isDisplayed())
+                </message>
+                <stack-trace>AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+                
+                  assert(this.WhyGitHubDropdownMenu.isDisplayed())
+                
+                    at MainPage.checkWhyGitHubDropdownMenu (/home/runner/work/Private_Allure_Actions/Private_Allure_Actions/test/pageobjects/main.page.js:91:13)
+                    at Context.&lt;anonymous> (/home/runner/work/Private_Allure_Actions/Private_Allure_Actions/test/specs/gitHubTestHW(Lesson29).js:74:18)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626263285388' status='passed' stop='1626263305278'>
+            <name>should test that user able to chose the plan"for free" and register throuth it . Test-Case6</name>
+            <title>should test that user able to chose the plan"for free" and register throuth it . Test-Case6</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626263305278' status='pending' stop='1626263305278'>
+            <name>should check that is Topic text displayed in view port . Test-Case7</name>
+            <title>should check that is Topic text displayed in view port . Test-Case7</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626263305278' status='passed' stop='1626263308697'>
+            <name>should test that filter TypeScript works and first result is relevant . Test-Case8</name>
+            <title>should test that filter TypeScript works and first result is relevant . Test-Case8</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626263308697' status='pending' stop='1626263308697'>
+            <name> should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9</name>
+            <title> should test that user able to add registration data through the EnterpriseCloud and EnterpriseServer pages. Test-Case9</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626263308697' status='passed' stop='1626263312014'>
+            <name> should print in the console all positions from the careers . Test-Case10</name>
+            <title> should print in the console all positions from the careers . Test-Case10</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
