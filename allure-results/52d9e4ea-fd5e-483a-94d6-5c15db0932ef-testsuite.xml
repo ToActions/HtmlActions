@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626270409725' stop='1626270424720'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626273676664' stop='1626273691284'>
     <name>Webdriverio_test</name>
     <title>Webdriverio_test</title>
     <test-cases>
-        <test-case start='1626270409725' status='passed' stop='1626270422504'>
+        <test-case start='1626273676664' status='passed' stop='1626273689074'>
             <name>homeTask_Lesson_9</name>
             <title>homeTask_Lesson_9</title>
             <labels>
@@ -17,7 +17,7 @@
             <steps/>
             <attachments/>
         </test-case>
-        <test-case start='1626270422504' status='passed' stop='1626270424719'>
+        <test-case start='1626273689075' status='passed' stop='1626273691283'>
             <name> homeTask_Lesson_14</name>
             <title> homeTask_Lesson_14</title>
             <labels>
@@ -30,7 +30,7 @@
             </parameters>
             <steps/>
             <attachments>
-                <attachment title='Screenshot' source='cf82c7be-2dde-4b38-bdc0-45a1a70ca4a5-attachment.png' type='image/png' size='108518'/>
+                <attachment title='Screenshot' source='083f48b8-b127-4772-b369-3db2abe099b4-attachment.png' type='image/png' size='108518'/>
             </attachments>
         </test-case>
     </test-cases>
