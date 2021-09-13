@@ -1,38 +1,38 @@
 {
-  "uid" : "389b0a73f82df2d2",
+  "uid" : "ea9dceb8a6d6cb1",
   "name" : "should switch currency using footer dropdown",
   "fullName" : "should test switching currency.should switch currency using footer dropdown",
   "historyId" : "9ad11f3dd48588d6a0e9b9bc3998958d",
   "time" : {
-    "start" : 1631546183472,
-    "stop" : 1631546259579,
-    "duration" : 76107
+    "start" : 1631546923480,
+    "stop" : 1631546999633,
+    "duration" : 76153
   },
   "description" : "Switch currency to EUR",
   "descriptionHtml" : "<p>Switch currency to EUR</p>\n",
   "status" : "failed",
-  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 3,250\"",
-  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 3,250\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:65:88)",
+  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
+  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:65:88)",
   "flaky" : false,
-  "newFailed" : true,
+  "newFailed" : false,
   "beforeStages" : [ ],
   "testStage" : {
     "status" : "failed",
-    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 3,250\"",
-    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 3,250\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:65:88)",
+    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
+    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:65:88)",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "1ec750f35e5812f8",
+      "uid" : "1465715ba5887947",
       "name" : "Screenshot",
-      "source" : "1ec750f35e5812f8.png",
+      "source" : "1465715ba5887947.png",
       "type" : "image/png",
-      "size" : 546638
+      "size" : 519588
     }, {
-      "uid" : "5bb10c26a51e1784",
+      "uid" : "e29e13b4d9c87e5",
       "name" : "Screenshot",
-      "source" : "5bb10c26a51e1784.png",
+      "source" : "e29e13b4d9c87e5.png",
       "type" : "image/png",
-      "size" : 712527
+      "size" : 804524
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -83,14 +83,32 @@
     } ],
     "history" : {
       "statistic" : {
-        "failed" : 1,
+        "failed" : 3,
         "broken" : 0,
         "skipped" : 0,
         "passed" : 3,
         "unknown" : 0,
-        "total" : 4
+        "total" : 6
       },
       "items" : [ {
+        "uid" : "d4562d23bbd26dcc",
+        "status" : "failed",
+        "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 1,300\"",
+        "time" : {
+          "start" : 1631546691130,
+          "stop" : 1631546770350,
+          "duration" : 79220
+        }
+      }, {
+        "uid" : "389b0a73f82df2d2",
+        "status" : "failed",
+        "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 3,250\"",
+        "time" : {
+          "start" : 1631546183472,
+          "stop" : 1631546259579,
+          "duration" : 76107
+        }
+      }, {
         "uid" : "54ff92a72c451aab",
         "status" : "passed",
         "time" : {
@@ -118,6 +136,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "389b0a73f82df2d2.json",
+  "source" : "ea9dceb8a6d6cb1.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

@@ -4,16 +4,16 @@
     "name" : "should test switching currency",
     "children" : [ {
       "name" : "should switch currency using footer dropdown",
-      "uid" : "389b0a73f82df2d2",
+      "uid" : "ea9dceb8a6d6cb1",
       "parentUid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
       "status" : "failed",
       "time" : {
-        "start" : 1631546183472,
-        "stop" : 1631546259579,
-        "duration" : 76107
+        "start" : 1631546923480,
+        "stop" : 1631546999633,
+        "duration" : 76153
       },
       "flaky" : false,
-      "newFailed" : true,
+      "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.63" ]
     } ],
     "uid" : "0cdfeb3c40b91d4ee45453654b83f5f2"
