@@ -1,70 +1,18 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
-    "name" : "Verify Title",
-    "uid" : "2eaebb791a8618cb",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1627634541822,
-      "stop" : 1627634541987,
-      "duration" : 165
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-92.0.4515.107" ]
-  }, {
-    "name" : "Check h3 header displayed",
-    "uid" : "eef39bc18cff8f86",
+    "name" : "should switch currency using footer dropdown",
+    "uid" : "8af2e16c11b1a19c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1627634612805,
-      "stop" : 1627634612972,
-      "duration" : 167
+      "start" : 1631545176581,
+      "stop" : 1631545225748,
+      "duration" : 49167
     },
     "flaky" : false,
     "newFailed" : false,
-    "parameters" : [ "chrome-92.0.4515.107" ]
-  }, {
-    "name" : "Verify Add button",
-    "uid" : "cea1f10fb4c4179a",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1627634612972,
-      "stop" : 1627634613004,
-      "duration" : 32
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-92.0.4515.107" ]
-  }, {
-    "name" : "Add element",
-    "uid" : "170b67fe96661cd4",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1627634613011,
-      "stop" : 1627634613334,
-      "duration" : 323
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-92.0.4515.107" ]
-  }, {
-    "name" : "Remove element",
-    "uid" : "56cb16c8a494b6ea",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1627634613335,
-      "stop" : 1627634613529,
-      "duration" : 194
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-92.0.4515.107" ]
+    "parameters" : [ "chrome-93.0.4577.63" ]
   } ],
   "name" : "behaviors"
 }
