@@ -1,11 +1,11 @@
 [ {
-  "uid" : "54ff92a72c451aab",
+  "uid" : "389b0a73f82df2d2",
   "name" : "should switch currency using footer dropdown",
   "time" : {
-    "start" : 1631545465453,
-    "stop" : 1631545514832,
-    "duration" : 49379
+    "start" : 1631546183472,
+    "stop" : 1631546259579,
+    "duration" : 76107
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 } ]

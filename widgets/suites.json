@@ -4,10 +4,10 @@
     "uid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
     "name" : "should test switching currency",
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
