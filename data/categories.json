@@ -3,22 +3,39 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
+      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"¥\"\n                Received string:    \"€ 88.20\"",
       "children" : [ {
-        "name" : "should switch currency using footer dropdown",
-        "uid" : "ea9dceb8a6d6cb1",
-        "parentUid" : "831e2dcd6383e8797bcb15a9196765fc",
+        "name" : "should switch currency to EUR using footer dropdown",
+        "uid" : "7b04ff4a2798043c",
+        "parentUid" : "b63a86dc6292b8fb9303b243c33741f5",
         "status" : "failed",
         "time" : {
-          "start" : 1631546923480,
-          "stop" : 1631546999633,
-          "duration" : 76153
+          "start" : 1631547475897,
+          "stop" : 1631547485695,
+          "duration" : 9798
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome-93.0.4577.63" ]
       } ],
-      "uid" : "831e2dcd6383e8797bcb15a9196765fc"
+      "uid" : "b63a86dc6292b8fb9303b243c33741f5"
+    }, {
+      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"",
+      "children" : [ {
+        "name" : "should switch currency to JPY using footer dropdown",
+        "uid" : "36ab8f485020b223",
+        "parentUid" : "6994519baf3015f02744fd6ce8e6722f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1631547485714,
+          "stop" : 1631547495365,
+          "duration" : 9651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "6994519baf3015f02744fd6ce8e6722f"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ],

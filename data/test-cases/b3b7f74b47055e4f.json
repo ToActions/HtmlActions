@@ -1,45 +1,19 @@
 {
-  "uid" : "ea9dceb8a6d6cb1",
+  "uid" : "b3b7f74b47055e4f",
   "name" : "should switch currency using footer dropdown",
   "fullName" : "should test switching currency.should switch currency using footer dropdown",
   "historyId" : "9ad11f3dd48588d6a0e9b9bc3998958d",
   "time" : {
-    "start" : 1631546923480,
-    "stop" : 1631546999633,
-    "duration" : 76153
+    "start" : 1631547428774,
+    "stop" : 1631547475894,
+    "duration" : 47120
   },
-  "description" : "Switch currency to EUR",
-  "descriptionHtml" : "<p>Switch currency to EUR</p>\n",
-  "status" : "failed",
-  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
-  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:65:88)",
+  "description" : "Switch between currencies ",
+  "descriptionHtml" : "<p>Switch between currencies</p>\n",
+  "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
-  "testStage" : {
-    "status" : "failed",
-    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
-    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:65:88)",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "1465715ba5887947",
-      "name" : "Screenshot",
-      "source" : "1465715ba5887947.png",
-      "type" : "image/png",
-      "size" : 519588
-    }, {
-      "uid" : "e29e13b4d9c87e5",
-      "name" : "Screenshot",
-      "source" : "e29e13b4d9c87e5.png",
-      "type" : "image/png",
-      "size" : 804524
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 2,
-    "shouldDisplayMessage" : true,
-    "hasContent" : true
-  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -76,21 +50,26 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ {
-      "name" : "Product defects",
-      "matchedStatuses" : [ ],
-      "flaky" : false
-    } ],
+    "categories" : [ ],
     "history" : {
       "statistic" : {
         "failed" : 3,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 3,
+        "passed" : 4,
         "unknown" : 0,
-        "total" : 6
+        "total" : 7
       },
       "items" : [ {
+        "uid" : "ea9dceb8a6d6cb1",
+        "status" : "failed",
+        "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
+        "time" : {
+          "start" : 1631546923480,
+          "stop" : 1631546999633,
+          "duration" : 76153
+        }
+      }, {
         "uid" : "d4562d23bbd26dcc",
         "status" : "failed",
         "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 1,300\"",
@@ -136,6 +115,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "ea9dceb8a6d6cb1.json",
+  "source" : "b3b7f74b47055e4f.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

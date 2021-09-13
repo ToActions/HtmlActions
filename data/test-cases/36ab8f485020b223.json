@@ -1,0 +1,82 @@
+{
+  "uid" : "36ab8f485020b223",
+  "name" : "should switch currency to JPY using footer dropdown",
+  "fullName" : "should test switching currency: should test switching currency to JPY.should switch currency to JPY using footer dropdown",
+  "historyId" : "fb080cae769408ac789e0a2b36efc274",
+  "time" : {
+    "start" : 1631547485714,
+    "stop" : 1631547495365,
+    "duration" : 9651
+  },
+  "description" : "Switch currency to JPY",
+  "descriptionHtml" : "<p>Switch currency to JPY</p>\n",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"",
+  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:66:88)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"",
+    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:66:88)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5d0c25e26869c66a",
+      "name" : "Screenshot",
+      "source" : "5d0c25e26869c66a.png",
+      "type" : "image/png",
+      "size" : 563122
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency: should test switching currency to JPY"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency: should test switching currency to JPY"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to JPY using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency: should test switching currency to JPY"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "36ab8f485020b223.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

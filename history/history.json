@@ -4,11 +4,19 @@
       "failed" : 3,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "b3b7f74b47055e4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631547428774,
+        "stop" : 1631547475894,
+        "duration" : 47120
+      }
+    }, {
       "uid" : "ea9dceb8a6d6cb1",
       "status" : "failed",
       "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
@@ -58,6 +66,46 @@
         "start" : 1631544404564,
         "stop" : 1631544453875,
         "duration" : 49311
+      }
+    } ]
+  },
+  "fb080cae769408ac789e0a2b36efc274" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36ab8f485020b223",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"",
+      "time" : {
+        "start" : 1631547485714,
+        "stop" : 1631547495365,
+        "duration" : 9651
+      }
+    } ]
+  },
+  "1140ead656e17ca1c430b2527a7729b2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b04ff4a2798043c",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"¥\"\n                Received string:    \"€ 88.20\"",
+      "time" : {
+        "start" : 1631547475897,
+        "stop" : 1631547485695,
+        "duration" : 9798
       }
     } ]
   }

@@ -1,11 +1,31 @@
 [ {
-  "uid" : "ea9dceb8a6d6cb1",
-  "name" : "should switch currency using footer dropdown",
+  "uid" : "36ab8f485020b223",
+  "name" : "should switch currency to JPY using footer dropdown",
   "time" : {
-    "start" : 1631546923480,
-    "stop" : 1631546999633,
-    "duration" : 76153
+    "start" : 1631547485714,
+    "stop" : 1631547495365,
+    "duration" : 9651
   },
   "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b04ff4a2798043c",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "time" : {
+    "start" : 1631547475897,
+    "stop" : 1631547485695,
+    "duration" : 9798
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3b7f74b47055e4f",
+  "name" : "should switch currency using footer dropdown",
+  "time" : {
+    "start" : 1631547428774,
+    "stop" : 1631547475894,
+    "duration" : 47120
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]

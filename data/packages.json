@@ -4,19 +4,53 @@
     "name" : "should test switching currency",
     "children" : [ {
       "name" : "should switch currency using footer dropdown",
-      "uid" : "ea9dceb8a6d6cb1",
+      "uid" : "b3b7f74b47055e4f",
       "parentUid" : "4220e9ea4eccd8652025faa2a2d1a38d",
-      "status" : "failed",
+      "status" : "passed",
       "time" : {
-        "start" : 1631546923480,
-        "stop" : 1631546999633,
-        "duration" : 76153
+        "start" : 1631547428774,
+        "stop" : 1631547475894,
+        "duration" : 47120
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.63" ]
     } ],
     "uid" : "4220e9ea4eccd8652025faa2a2d1a38d"
+  }, {
+    "name" : "should test switching currency: should test switching currency to EUR",
+    "children" : [ {
+      "name" : "should switch currency to EUR using footer dropdown",
+      "uid" : "7b04ff4a2798043c",
+      "parentUid" : "adbbecacae5bcdd32bd7d5b1e5057c91",
+      "status" : "failed",
+      "time" : {
+        "start" : 1631547475897,
+        "stop" : 1631547485695,
+        "duration" : 9798
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    } ],
+    "uid" : "adbbecacae5bcdd32bd7d5b1e5057c91"
+  }, {
+    "name" : "should test switching currency: should test switching currency to JPY",
+    "children" : [ {
+      "name" : "should switch currency to JPY using footer dropdown",
+      "uid" : "36ab8f485020b223",
+      "parentUid" : "4986d663da0708a93927ca2ff802e611",
+      "status" : "failed",
+      "time" : {
+        "start" : 1631547485714,
+        "stop" : 1631547495365,
+        "duration" : 9651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.63" ]
+    } ],
+    "uid" : "4986d663da0708a93927ca2ff802e611"
   } ],
   "name" : "packages"
 }
