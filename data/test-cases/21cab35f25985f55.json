@@ -1,12 +1,12 @@
 {
-  "uid" : "d25ba3ae5d84f91e",
+  "uid" : "21cab35f25985f55",
   "name" : "should switch currency using footer dropdown",
   "fullName" : "should test switching currency.should switch currency using footer dropdown",
   "historyId" : "1ad291e12443d45e1065f23f94179685",
   "time" : {
-    "start" : 1631646645424,
-    "stop" : 1631646769515,
-    "duration" : 124091
+    "start" : 1631647082396,
+    "stop" : 1631647196720,
+    "duration" : 114324
   },
   "description" : "Switch between currencies ",
   "descriptionHtml" : "<p>Switch between currencies</p>\n",
@@ -14,6 +14,22 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3b026174620a4489",
+      "name" : "Screenshot",
+      "source" : "3b026174620a4489.png",
+      "type" : "image/png",
+      "size" : 174262
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -53,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d25ba3ae5d84f91e.json",
+  "source" : "21cab35f25985f55.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

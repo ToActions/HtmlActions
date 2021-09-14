@@ -1,11 +1,11 @@
 {
-  "uid" : "24ce1b379599b5d3",
+  "uid" : "e64ba46a60724424",
   "name" : "should switch currency to EUR using footer dropdown",
   "fullName" : "should test switching currency: should test switching currency to EUR.should switch currency to EUR using footer dropdown",
   "historyId" : "111d36f04d2a72135fe5ff2bf3fd8a19",
   "time" : {
-    "start" : 1631646769517,
-    "stop" : 1631646769517,
+    "start" : 1631647196722,
+    "stop" : 1631647196722,
     "duration" : 0
   },
   "description" : "",
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "24ce1b379599b5d3.json",
+  "source" : "e64ba46a60724424.json",
   "parameterValues" : [ ]
 }
