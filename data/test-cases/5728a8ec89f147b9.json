@@ -1,12 +1,12 @@
 {
-  "uid" : "b3b7f74b47055e4f",
+  "uid" : "5728a8ec89f147b9",
   "name" : "should switch currency using footer dropdown",
   "fullName" : "should test switching currency.should switch currency using footer dropdown",
   "historyId" : "9ad11f3dd48588d6a0e9b9bc3998958d",
   "time" : {
-    "start" : 1631547428774,
-    "stop" : 1631547475894,
-    "duration" : 47120
+    "start" : 1631599636291,
+    "stop" : 1631599685191,
+    "duration" : 48900
   },
   "description" : "Switch between currencies ",
   "descriptionHtml" : "<p>Switch between currencies</p>\n",
@@ -56,11 +56,19 @@
         "failed" : 3,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 4,
+        "passed" : 5,
         "unknown" : 0,
-        "total" : 7
+        "total" : 8
       },
       "items" : [ {
+        "uid" : "b3b7f74b47055e4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631547428774,
+          "stop" : 1631547475894,
+          "duration" : 47120
+        }
+      }, {
         "uid" : "ea9dceb8a6d6cb1",
         "status" : "failed",
         "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
@@ -115,6 +123,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "b3b7f74b47055e4f.json",
+  "source" : "5728a8ec89f147b9.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

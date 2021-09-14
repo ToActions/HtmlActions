@@ -2,39 +2,39 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "should switch currency using footer dropdown",
-    "uid" : "b3b7f74b47055e4f",
+    "uid" : "5728a8ec89f147b9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1631547428774,
-      "stop" : 1631547475894,
-      "duration" : 47120
+      "start" : 1631599636291,
+      "stop" : 1631599685191,
+      "duration" : 48900
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should switch currency to EUR using footer dropdown",
-    "uid" : "7b04ff4a2798043c",
+    "uid" : "c23ed3e1828ee7b7",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1631547475897,
-      "stop" : 1631547485695,
-      "duration" : 9798
+      "start" : 1631599685194,
+      "stop" : 1631599695085,
+      "duration" : 9891
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should switch currency to JPY using footer dropdown",
-    "uid" : "36ab8f485020b223",
+    "uid" : "d1252f3c0893ad8d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1631547485714,
-      "stop" : 1631547495365,
-      "duration" : 9651
+      "start" : 1631599695091,
+      "stop" : 1631599705686,
+      "duration" : 10595
     },
     "flaky" : false,
     "newFailed" : false,

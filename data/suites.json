@@ -4,13 +4,13 @@
     "name" : "should test switching currency",
     "children" : [ {
       "name" : "should switch currency using footer dropdown",
-      "uid" : "b3b7f74b47055e4f",
+      "uid" : "5728a8ec89f147b9",
       "parentUid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
       "status" : "passed",
       "time" : {
-        "start" : 1631547428774,
-        "stop" : 1631547475894,
-        "duration" : 47120
+        "start" : 1631599636291,
+        "stop" : 1631599685191,
+        "duration" : 48900
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +21,13 @@
     "name" : "should test switching currency: should test switching currency to EUR",
     "children" : [ {
       "name" : "should switch currency to EUR using footer dropdown",
-      "uid" : "7b04ff4a2798043c",
+      "uid" : "c23ed3e1828ee7b7",
       "parentUid" : "fcd06e77a206556cc99d4226f75d518f",
       "status" : "failed",
       "time" : {
-        "start" : 1631547475897,
-        "stop" : 1631547485695,
-        "duration" : 9798
+        "start" : 1631599685194,
+        "stop" : 1631599695085,
+        "duration" : 9891
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,13 +38,13 @@
     "name" : "should test switching currency: should test switching currency to JPY",
     "children" : [ {
       "name" : "should switch currency to JPY using footer dropdown",
-      "uid" : "36ab8f485020b223",
+      "uid" : "d1252f3c0893ad8d",
       "parentUid" : "279b3d403699d15a367f2e9852383316",
       "status" : "failed",
       "time" : {
-        "start" : 1631547485714,
-        "stop" : 1631547495365,
-        "duration" : 9651
+        "start" : 1631599695091,
+        "stop" : 1631599705686,
+        "duration" : 10595
       },
       "flaky" : false,
       "newFailed" : false,

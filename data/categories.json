@@ -3,39 +3,39 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"¥\"\n                Received string:    \"€ 88.20\"",
+      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"¥\"\n                Received string:    \"€ 7.84\"",
       "children" : [ {
         "name" : "should switch currency to EUR using footer dropdown",
-        "uid" : "7b04ff4a2798043c",
-        "parentUid" : "b63a86dc6292b8fb9303b243c33741f5",
+        "uid" : "c23ed3e1828ee7b7",
+        "parentUid" : "b416ba0ac547c795b70884c495951c47",
         "status" : "failed",
         "time" : {
-          "start" : 1631547475897,
-          "stop" : 1631547485695,
-          "duration" : 9798
+          "start" : 1631599685194,
+          "stop" : 1631599695085,
+          "duration" : 9891
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome-93.0.4577.63" ]
       } ],
-      "uid" : "b63a86dc6292b8fb9303b243c33741f5"
+      "uid" : "b416ba0ac547c795b70884c495951c47"
     }, {
-      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 6,500\"",
+      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
       "children" : [ {
         "name" : "should switch currency to JPY using footer dropdown",
-        "uid" : "36ab8f485020b223",
-        "parentUid" : "6994519baf3015f02744fd6ce8e6722f",
+        "uid" : "d1252f3c0893ad8d",
+        "parentUid" : "831e2dcd6383e8797bcb15a9196765fc",
         "status" : "failed",
         "time" : {
-          "start" : 1631547485714,
-          "stop" : 1631547495365,
-          "duration" : 9651
+          "start" : 1631599695091,
+          "stop" : 1631599705686,
+          "duration" : 10595
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome-93.0.4577.63" ]
       } ],
-      "uid" : "6994519baf3015f02744fd6ce8e6722f"
+      "uid" : "831e2dcd6383e8797bcb15a9196765fc"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ],
