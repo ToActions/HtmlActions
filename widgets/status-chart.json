@@ -1,30 +1,80 @@
 [ {
-  "uid" : "67e17c4e727bfa46",
-  "name" : "should switch currency to JPY using footer dropdown",
+  "uid" : "6da9bf43ce6910fb",
+  "name" : "should find \"electronic\" after-effects element",
   "time" : {
-    "start" : 1631647196728,
-    "stop" : 1631647196728,
-    "duration" : 0
+    "start" : 1631653395133,
+    "stop" : 1631653417348,
+    "duration" : 22215
   },
-  "status" : "skipped",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e64ba46a60724424",
-  "name" : "should switch currency to EUR using footer dropdown",
-  "time" : {
-    "start" : 1631647196722,
-    "stop" : 1631647196722,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "21cab35f25985f55",
+  "uid" : "df91a30ee898bb8b",
   "name" : "should switch currency using footer dropdown",
   "time" : {
-    "start" : 1631647082396,
-    "stop" : 1631647196720,
-    "duration" : 114324
+    "start" : 1631653189027,
+    "stop" : 1631653312776,
+    "duration" : 123749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4ed7a85c5b4a761",
+  "name" : "should find \"electronic\" Image element",
+  "time" : {
+    "start" : 1631653477771,
+    "stop" : 1631653499228,
+    "duration" : 21457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbc983b42ddd1c81",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1631653438739,
+    "stop" : 1631653463321,
+    "duration" : 24582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d17ee4004b9f70b5",
+  "name" : "should find \"electronic\" resolve element",
+  "time" : {
+    "start" : 1631653463321,
+    "stop" : 1631653477771,
+    "duration" : 14450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1454c4b00509fd43",
+  "name" : "should find \"electronic\" Video element",
+  "time" : {
+    "start" : 1631653374976,
+    "stop" : 1631653395133,
+    "duration" : 20157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f2e34d16f7e5cf9",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1631653356655,
+    "stop" : 1631653374976,
+    "duration" : 18321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18cf275a8d7a59a8",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1631653417349,
+    "stop" : 1631653438738,
+    "duration" : 21389
   },
   "status" : "passed",
   "severity" : "normal"
