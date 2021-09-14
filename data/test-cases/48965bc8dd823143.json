@@ -1,0 +1,48 @@
+{
+  "uid" : "48965bc8dd823143",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "fullName" : "should test switching currency: should test switching currency to EUR.should switch currency to EUR using footer dropdown",
+  "historyId" : "111d36f04d2a72135fe5ff2bf3fd8a19",
+  "time" : {
+    "start" : 1631646447069,
+    "stop" : 1631646447069,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "should test switching currency: should test switching currency to EUR"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency: should test switching currency to EUR"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to EUR using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency: should test switching currency to EUR"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48965bc8dd823143.json",
+  "parameterValues" : [ ]
+}
