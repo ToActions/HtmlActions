@@ -1,43 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"¥\"\n                Received string:    \"€ 7.84\"",
-      "children" : [ {
-        "name" : "should switch currency to EUR using footer dropdown",
-        "uid" : "c23ed3e1828ee7b7",
-        "parentUid" : "b416ba0ac547c795b70884c495951c47",
-        "status" : "failed",
-        "time" : {
-          "start" : 1631599685194,
-          "stop" : 1631599695085,
-          "duration" : 9891
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chrome-93.0.4577.63" ]
-      } ],
-      "uid" : "b416ba0ac547c795b70884c495951c47"
-    }, {
-      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"€\"\n                Received string:    \"¥ 11,700\"",
-      "children" : [ {
-        "name" : "should switch currency to JPY using footer dropdown",
-        "uid" : "d1252f3c0893ad8d",
-        "parentUid" : "831e2dcd6383e8797bcb15a9196765fc",
-        "status" : "failed",
-        "time" : {
-          "start" : 1631599695091,
-          "stop" : 1631599705686,
-          "duration" : 10595
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chrome-93.0.4577.63" ]
-      } ],
-      "uid" : "831e2dcd6383e8797bcb15a9196765fc"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }

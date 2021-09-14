@@ -1,0 +1,58 @@
+{
+  "uid" : "432d57d7f4b9a00",
+  "name" : "should switch currency using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency using footer dropdown",
+  "historyId" : "c2617a4c29462fcaa940086569736c1f",
+  "time" : {
+    "start" : 1631635153270,
+    "stop" : 1631635243525,
+    "duration" : 90255
+  },
+  "description" : "Switch between currencies ",
+  "descriptionHtml" : "<p>Switch between currencies</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "432d57d7f4b9a00.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}
