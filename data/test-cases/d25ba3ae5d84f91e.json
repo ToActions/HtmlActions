@@ -1,12 +1,12 @@
 {
-  "uid" : "f91a9f529f0e4237",
+  "uid" : "d25ba3ae5d84f91e",
   "name" : "should switch currency using footer dropdown",
   "fullName" : "should test switching currency.should switch currency using footer dropdown",
   "historyId" : "1ad291e12443d45e1065f23f94179685",
   "time" : {
-    "start" : 1631646321462,
-    "stop" : 1631646447066,
-    "duration" : 125604
+    "start" : 1631646645424,
+    "stop" : 1631646769515,
+    "duration" : 124091
   },
   "description" : "Switch between currencies ",
   "descriptionHtml" : "<p>Switch between currencies</p>\n",
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f91a9f529f0e4237.json",
+  "source" : "d25ba3ae5d84f91e.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }
