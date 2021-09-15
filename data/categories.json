@@ -1,5 +1,26 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"NT$\"\n                Received string:    \"US$ 129\"",
+      "children" : [ {
+        "name" : "should switch currency using footer dropdown",
+        "uid" : "6f658d05b6c9afc0",
+        "parentUid" : "7da9fb7701e33a2ad97609ece8556ad5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1631696668932,
+          "stop" : 1631696790457,
+          "duration" : 121525
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ "chrome-93.0.4577.18" ]
+      } ],
+      "uid" : "7da9fb7701e33a2ad97609ece8556ad5"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
   "name" : "categories"
 }

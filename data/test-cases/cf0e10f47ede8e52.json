@@ -1,12 +1,12 @@
 {
-  "uid" : "1e2a08fbb7cc808a",
+  "uid" : "cf0e10f47ede8e52",
   "name" : "should find \"electronic\" premiere-pro element",
   "fullName" : "should test search feature.should find \"electronic\" premiere-pro element",
   "historyId" : "d2f9392fc2a2afa1926611f468d3042a",
   "time" : {
-    "start" : 1631696263174,
-    "stop" : 1631696283187,
-    "duration" : 20013
+    "start" : 1631696910186,
+    "stop" : 1631696930393,
+    "duration" : 20207
   },
   "description" : "find \"electronic\" premiere-pro element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; premiere-pro element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "1e2a08fbb7cc808a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631696263174,
+          "stop" : 1631696283187,
+          "duration" : 20013
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "1e2a08fbb7cc808a.json",
+  "source" : "cf0e10f47ede8e52.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

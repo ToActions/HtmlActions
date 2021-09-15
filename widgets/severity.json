@@ -1,80 +1,80 @@
 [ {
-  "uid" : "c6e9020ebbed0b7d",
-  "name" : "should find \"electronic\" after-effects element",
-  "time" : {
-    "start" : 1631696242031,
-    "stop" : 1631696263174,
-    "duration" : 21143
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "14bdbfee9720942c",
-  "name" : "should find \"electronic\" Video element",
-  "time" : {
-    "start" : 1631696220701,
-    "stop" : 1631696242030,
-    "duration" : 21329
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2dc671ca1bb2d43",
-  "name" : "should switch currency using footer dropdown",
-  "time" : {
-    "start" : 1631696008435,
-    "stop" : 1631696127601,
-    "duration" : 119166
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b5c29aafa9c41bf1",
-  "name" : "should find \"electronic\" Music element",
-  "time" : {
-    "start" : 1631696202511,
-    "stop" : 1631696220701,
-    "duration" : 18190
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1e2a08fbb7cc808a",
-  "name" : "should find \"electronic\" premiere-pro element",
-  "time" : {
-    "start" : 1631696263174,
-    "stop" : 1631696283187,
-    "duration" : 20013
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "af619baeaa655a13",
+  "uid" : "5626bf0e4de55cfc",
   "name" : "should find \"electronic\" resolve element",
   "time" : {
-    "start" : 1631696303601,
-    "stop" : 1631696316711,
-    "duration" : 13110
+    "start" : 1631696952467,
+    "stop" : 1631696965775,
+    "duration" : 13308
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7a76ba9a568f833a",
-  "name" : "should find \"electronic\" apple-motion element",
-  "time" : {
-    "start" : 1631696283187,
-    "stop" : 1631696303601,
-    "duration" : 20414
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ad8d33fd5449a4f2",
+  "uid" : "10aaa04eeed3913a",
   "name" : "should find \"electronic\" Image element",
   "time" : {
-    "start" : 1631696316711,
-    "stop" : 1631696337235,
-    "duration" : 20524
+    "start" : 1631696965775,
+    "stop" : 1631696987277,
+    "duration" : 21502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ca8b5ae5a7e3c5e",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1631696852159,
+    "stop" : 1631696870300,
+    "duration" : 18141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf0e10f47ede8e52",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1631696910186,
+    "stop" : 1631696930393,
+    "duration" : 20207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f658d05b6c9afc0",
+  "name" : "should switch currency using footer dropdown",
+  "time" : {
+    "start" : 1631696668932,
+    "stop" : 1631696790457,
+    "duration" : 121525
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f66d0d38657fc8f2",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1631696930393,
+    "stop" : 1631696952467,
+    "duration" : 22074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa844df2c5c1354",
+  "name" : "should find \"electronic\" after-effects element",
+  "time" : {
+    "start" : 1631696890077,
+    "stop" : 1631696910185,
+    "duration" : 20108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98b65025cbe3e708",
+  "name" : "should find \"electronic\" Video element",
+  "time" : {
+    "start" : 1631696870301,
+    "stop" : 1631696890076,
+    "duration" : 19775
   },
   "status" : "passed",
   "severity" : "normal"

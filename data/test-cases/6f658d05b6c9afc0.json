@@ -1,0 +1,107 @@
+{
+  "uid" : "6f658d05b6c9afc0",
+  "name" : "should switch currency using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency using footer dropdown",
+  "historyId" : "1ad291e12443d45e1065f23f94179685",
+  "time" : {
+    "start" : 1631696668932,
+    "stop" : 1631696790457,
+    "duration" : 121525
+  },
+  "description" : "Switch between currencies ",
+  "descriptionHtml" : "<p>Switch between currencies</p>\n",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"NT$\"\n                Received string:    \"US$ 129\"",
+  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"NT$\"\n                Received string:    \"US$ 129\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:48:103)",
+  "flaky" : false,
+  "newFailed" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"NT$\"\n                Received string:    \"US$ 129\"",
+    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"NT$\"\n                Received string:    \"US$ 129\"\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:48:103)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1addddd87d8d99",
+      "name" : "Screenshot",
+      "source" : "f1addddd87d8d99.png",
+      "type" : "image/png",
+      "size" : 183578
+    }, {
+      "uid" : "5412c7f8ca68dc69",
+      "name" : "Screenshot",
+      "source" : "5412c7f8ca68dc69.png",
+      "type" : "image/png",
+      "size" : 1605220
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.18"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "2dc671ca1bb2d43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631696008435,
+          "stop" : 1631696127601,
+          "duration" : 119166
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6f658d05b6c9afc0.json",
+  "parameterValues" : [ "chrome-93.0.4577.18" ]
+}

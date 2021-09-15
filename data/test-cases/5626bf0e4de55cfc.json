@@ -1,12 +1,12 @@
 {
-  "uid" : "af619baeaa655a13",
+  "uid" : "5626bf0e4de55cfc",
   "name" : "should find \"electronic\" resolve element",
   "fullName" : "should test search feature.should find \"electronic\" resolve element",
   "historyId" : "4bfe43f9005c6237d1410918d497beb0",
   "time" : {
-    "start" : 1631696303601,
-    "stop" : 1631696316711,
-    "duration" : 13110
+    "start" : 1631696952467,
+    "stop" : 1631696965775,
+    "duration" : 13308
   },
   "description" : "find \"electronic\" resolve element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "af619baeaa655a13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631696303601,
+          "stop" : 1631696316711,
+          "duration" : 13110
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "af619baeaa655a13.json",
+  "source" : "5626bf0e4de55cfc.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

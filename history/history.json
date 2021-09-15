@@ -4,11 +4,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "5626bf0e4de55cfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696952467,
+        "stop" : 1631696965775,
+        "duration" : 13308
+      }
+    }, {
       "uid" : "af619baeaa655a13",
       "status" : "passed",
       "time" : {
@@ -23,11 +31,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "fa844df2c5c1354",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696890077,
+        "stop" : 1631696910185,
+        "duration" : 20108
+      }
+    }, {
       "uid" : "c6e9020ebbed0b7d",
       "status" : "passed",
       "time" : {
@@ -42,11 +58,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "98b65025cbe3e708",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696870301,
+        "stop" : 1631696890076,
+        "duration" : 19775
+      }
+    }, {
       "uid" : "14bdbfee9720942c",
       "status" : "passed",
       "time" : {
@@ -61,11 +85,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "f66d0d38657fc8f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696930393,
+        "stop" : 1631696952467,
+        "duration" : 22074
+      }
+    }, {
       "uid" : "7a76ba9a568f833a",
       "status" : "passed",
       "time" : {
@@ -80,11 +112,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "2ca8b5ae5a7e3c5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696852159,
+        "stop" : 1631696870300,
+        "duration" : 18141
+      }
+    }, {
       "uid" : "b5c29aafa9c41bf1",
       "status" : "passed",
       "time" : {
@@ -99,11 +139,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "10aaa04eeed3913a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696965775,
+        "stop" : 1631696987277,
+        "duration" : 21502
+      }
+    }, {
       "uid" : "ad8d33fd5449a4f2",
       "status" : "passed",
       "time" : {
@@ -115,14 +163,23 @@
   },
   "1ad291e12443d45e1065f23f94179685" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "6f658d05b6c9afc0",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"NT$\"\n                Received string:    \"US$ 129\"",
+      "time" : {
+        "start" : 1631696668932,
+        "stop" : 1631696790457,
+        "duration" : 121525
+      }
+    }, {
       "uid" : "2dc671ca1bb2d43",
       "status" : "passed",
       "time" : {
@@ -137,11 +194,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "cf0e10f47ede8e52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631696910186,
+        "stop" : 1631696930393,
+        "duration" : 20207
+      }
+    }, {
       "uid" : "1e2a08fbb7cc808a",
       "status" : "passed",
       "time" : {
