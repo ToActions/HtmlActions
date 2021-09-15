@@ -1,12 +1,12 @@
 {
-  "uid" : "4764d9827f4d65c5",
+  "uid" : "ad8d33fd5449a4f2",
   "name" : "should find \"electronic\" Image element",
   "fullName" : "should test search feature.should find \"electronic\" Image element",
   "historyId" : "a481eba3d4ac5920387bcb14d0c84dfa",
   "time" : {
-    "start" : 1631695372716,
-    "stop" : 1631695395683,
-    "duration" : 22967
+    "start" : 1631696316711,
+    "stop" : 1631696337235,
+    "duration" : 20524
   },
   "description" : "find \"electronic\" Image element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Image element</p>\n",
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4764d9827f4d65c5.json",
+  "source" : "ad8d33fd5449a4f2.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

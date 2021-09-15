@@ -1,12 +1,12 @@
 {
-  "uid" : "7a5974876dd20ffa",
+  "uid" : "b5c29aafa9c41bf1",
   "name" : "should find \"electronic\" Music element",
   "fullName" : "should test search feature.should find \"electronic\" Music element",
   "historyId" : "8d9dce531c7cc3e91691b5c56fd453a2",
   "time" : {
-    "start" : 1631695244451,
-    "stop" : 1631695262837,
-    "duration" : 18386
+    "start" : 1631696202511,
+    "stop" : 1631696220701,
+    "duration" : 18190
   },
   "description" : "find \"electronic\" Music element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Music element</p>\n",
@@ -18,9 +18,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "278382739a6f435",
+      "uid" : "cf61bd3d20c2f9e7",
       "name" : "Screenshot",
-      "source" : "278382739a6f435.png",
+      "source" : "cf61bd3d20c2f9e7.png",
       "type" : "image/png",
       "size" : 183578
     } ],
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7a5974876dd20ffa.json",
+  "source" : "b5c29aafa9c41bf1.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

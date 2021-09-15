@@ -1,15 +1,15 @@
 {
-  "uid" : "156afd81e3157f04",
-  "name" : "should find \"electronic\" Video element",
-  "fullName" : "should test search feature.should find \"electronic\" Video element",
-  "historyId" : "11562e0af3b47d8e110d6b182ffe543d",
+  "uid" : "1e2a08fbb7cc808a",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "fullName" : "should test search feature.should find \"electronic\" premiere-pro element",
+  "historyId" : "d2f9392fc2a2afa1926611f468d3042a",
   "time" : {
-    "start" : 1631695262837,
-    "stop" : 1631695284261,
-    "duration" : 21424
+    "start" : 1631696263174,
+    "stop" : 1631696283187,
+    "duration" : 20013
   },
-  "description" : "find \"electronic\" Video element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Video element</p>\n",
+  "description" : "find \"electronic\" premiere-pro element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; premiere-pro element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Video element"
+    "value" : "should find \"electronic\" premiere-pro element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "156afd81e3157f04.json",
+  "source" : "1e2a08fbb7cc808a.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }
