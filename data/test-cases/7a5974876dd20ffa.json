@@ -1,15 +1,15 @@
 {
-  "uid" : "df91a30ee898bb8b",
-  "name" : "should switch currency using footer dropdown",
-  "fullName" : "should test switching currency.should switch currency using footer dropdown",
-  "historyId" : "1ad291e12443d45e1065f23f94179685",
+  "uid" : "7a5974876dd20ffa",
+  "name" : "should find \"electronic\" Music element",
+  "fullName" : "should test search feature.should find \"electronic\" Music element",
+  "historyId" : "8d9dce531c7cc3e91691b5c56fd453a2",
   "time" : {
-    "start" : 1631653189027,
-    "stop" : 1631653312776,
-    "duration" : 123749
+    "start" : 1631695244451,
+    "stop" : 1631695262837,
+    "duration" : 18386
   },
-  "description" : "Switch between currencies ",
-  "descriptionHtml" : "<p>Switch between currencies</p>\n",
+  "description" : "find \"electronic\" Music element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Music element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -18,9 +18,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "306ae08729b938cb",
+      "uid" : "278382739a6f435",
       "name" : "Screenshot",
-      "source" : "306ae08729b938cb.png",
+      "source" : "278382739a6f435.png",
       "type" : "image/png",
       "size" : 183578
     } ],
@@ -39,19 +39,19 @@
     "value" : "javascript"
   }, {
     "name" : "thread",
-    "value" : "0-0"
+    "value" : "0-1"
   }, {
     "name" : "suite",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "testClass",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should switch currency using footer dropdown"
+    "value" : "should find \"electronic\" Music element"
   }, {
     "name" : "package",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "df91a30ee898bb8b.json",
+  "source" : "7a5974876dd20ffa.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

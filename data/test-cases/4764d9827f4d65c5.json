@@ -1,15 +1,15 @@
 {
-  "uid" : "cbc983b42ddd1c81",
-  "name" : "should find \"electronic\" apple-motion element",
-  "fullName" : "should test search feature.should find \"electronic\" apple-motion element",
-  "historyId" : "f2f218641fbe8397707ddb0311e4138a",
+  "uid" : "4764d9827f4d65c5",
+  "name" : "should find \"electronic\" Image element",
+  "fullName" : "should test search feature.should find \"electronic\" Image element",
+  "historyId" : "a481eba3d4ac5920387bcb14d0c84dfa",
   "time" : {
-    "start" : 1631653438739,
-    "stop" : 1631653463321,
-    "duration" : 24582
+    "start" : 1631695372716,
+    "stop" : 1631695395683,
+    "duration" : 22967
   },
-  "description" : "find \"electronic\" apple-motion element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; apple-motion element</p>\n",
+  "description" : "find \"electronic\" Image element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Image element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" apple-motion element"
+    "value" : "should find \"electronic\" Image element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "cbc983b42ddd1c81.json",
+  "source" : "4764d9827f4d65c5.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -1,35 +1,19 @@
 {
-  "uid" : "9f2e34d16f7e5cf9",
-  "name" : "should find \"electronic\" Music element",
-  "fullName" : "should test search feature.should find \"electronic\" Music element",
-  "historyId" : "8d9dce531c7cc3e91691b5c56fd453a2",
+  "uid" : "d60a5c9b049e3e6a",
+  "name" : "should find \"electronic\" apple-motion element",
+  "fullName" : "should test search feature.should find \"electronic\" apple-motion element",
+  "historyId" : "f2f218641fbe8397707ddb0311e4138a",
   "time" : {
-    "start" : 1631653356655,
-    "stop" : 1631653374976,
-    "duration" : 18321
+    "start" : 1631695330029,
+    "stop" : 1631695351331,
+    "duration" : 21302
   },
-  "description" : "find \"electronic\" Music element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Music element</p>\n",
+  "description" : "find \"electronic\" apple-motion element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; apple-motion element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
-  "testStage" : {
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ {
-      "uid" : "639c6795a193c36c",
-      "name" : "Screenshot",
-      "source" : "639c6795a193c36c.png",
-      "type" : "image/png",
-      "size" : 183578
-    } ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
-  },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "framework",
@@ -48,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Music element"
+    "value" : "should find \"electronic\" apple-motion element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -69,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9f2e34d16f7e5cf9.json",
+  "source" : "d60a5c9b049e3e6a.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -1,15 +1,15 @@
 {
-  "uid" : "d17ee4004b9f70b5",
-  "name" : "should find \"electronic\" resolve element",
-  "fullName" : "should test search feature.should find \"electronic\" resolve element",
-  "historyId" : "4bfe43f9005c6237d1410918d497beb0",
+  "uid" : "682465b0ea135703",
+  "name" : "should find \"electronic\" after-effects element",
+  "fullName" : "should test search feature.should find \"electronic\" after-effects element",
+  "historyId" : "cf7ae13485309a8ad1c1dc5e2ae93134",
   "time" : {
-    "start" : 1631653463321,
-    "stop" : 1631653477771,
-    "duration" : 14450
+    "start" : 1631695284261,
+    "stop" : 1631695308700,
+    "duration" : 24439
   },
-  "description" : "find \"electronic\" resolve element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
+  "description" : "find \"electronic\" after-effects element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; after-effects element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" resolve element"
+    "value" : "should find \"electronic\" after-effects element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d17ee4004b9f70b5.json",
+  "source" : "682465b0ea135703.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

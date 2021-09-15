@@ -4,13 +4,13 @@
     "name" : "should test switching currency",
     "children" : [ {
       "name" : "should switch currency using footer dropdown",
-      "uid" : "df91a30ee898bb8b",
+      "uid" : "a2b8d879b675baf3",
       "parentUid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
-      "status" : "passed",
+      "status" : "failed",
       "time" : {
-        "start" : 1631653189027,
-        "stop" : 1631653312776,
-        "duration" : 123749
+        "start" : 1631695049400,
+        "stop" : 1631695165642,
+        "duration" : 116242
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,91 +21,91 @@
     "name" : "should test search feature",
     "children" : [ {
       "name" : "should find \"electronic\" Music element",
-      "uid" : "9f2e34d16f7e5cf9",
+      "uid" : "7a5974876dd20ffa",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653356655,
-        "stop" : 1631653374976,
-        "duration" : 18321
+        "start" : 1631695244451,
+        "stop" : 1631695262837,
+        "duration" : 18386
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Video element",
-      "uid" : "1454c4b00509fd43",
+      "uid" : "156afd81e3157f04",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653374976,
-        "stop" : 1631653395133,
-        "duration" : 20157
+        "start" : 1631695262837,
+        "stop" : 1631695284261,
+        "duration" : 21424
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" after-effects element",
-      "uid" : "6da9bf43ce6910fb",
+      "uid" : "682465b0ea135703",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653395133,
-        "stop" : 1631653417348,
-        "duration" : 22215
+        "start" : 1631695284261,
+        "stop" : 1631695308700,
+        "duration" : 24439
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" premiere-pro element",
-      "uid" : "18cf275a8d7a59a8",
+      "uid" : "ad82e4471cf9005d",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653417349,
-        "stop" : 1631653438738,
-        "duration" : 21389
+        "start" : 1631695308700,
+        "stop" : 1631695330029,
+        "duration" : 21329
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" apple-motion element",
-      "uid" : "cbc983b42ddd1c81",
+      "uid" : "d60a5c9b049e3e6a",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653438739,
-        "stop" : 1631653463321,
-        "duration" : 24582
+        "start" : 1631695330029,
+        "stop" : 1631695351331,
+        "duration" : 21302
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" resolve element",
-      "uid" : "d17ee4004b9f70b5",
+      "uid" : "4c0442152c6408a9",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653463321,
-        "stop" : 1631653477771,
-        "duration" : 14450
+        "start" : 1631695351332,
+        "stop" : 1631695372716,
+        "duration" : 21384
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Image element",
-      "uid" : "e4ed7a85c5b4a761",
+      "uid" : "4764d9827f4d65c5",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631653477771,
-        "stop" : 1631653499228,
-        "duration" : 21457
+        "start" : 1631695372716,
+        "stop" : 1631695395683,
+        "duration" : 22967
       },
       "flaky" : false,
       "newFailed" : false,

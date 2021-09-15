@@ -1,15 +1,15 @@
 {
-  "uid" : "18cf275a8d7a59a8",
-  "name" : "should find \"electronic\" premiere-pro element",
-  "fullName" : "should test search feature.should find \"electronic\" premiere-pro element",
-  "historyId" : "d2f9392fc2a2afa1926611f468d3042a",
+  "uid" : "4c0442152c6408a9",
+  "name" : "should find \"electronic\" resolve element",
+  "fullName" : "should test search feature.should find \"electronic\" resolve element",
+  "historyId" : "4bfe43f9005c6237d1410918d497beb0",
   "time" : {
-    "start" : 1631653417349,
-    "stop" : 1631653438738,
-    "duration" : 21389
+    "start" : 1631695351332,
+    "stop" : 1631695372716,
+    "duration" : 21384
   },
-  "description" : "find \"electronic\" premiere-pro element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; premiere-pro element</p>\n",
+  "description" : "find \"electronic\" resolve element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" premiere-pro element"
+    "value" : "should find \"electronic\" resolve element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "18cf275a8d7a59a8.json",
+  "source" : "4c0442152c6408a9.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

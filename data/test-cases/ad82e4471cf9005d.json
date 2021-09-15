@@ -1,15 +1,15 @@
 {
-  "uid" : "6da9bf43ce6910fb",
-  "name" : "should find \"electronic\" after-effects element",
-  "fullName" : "should test search feature.should find \"electronic\" after-effects element",
-  "historyId" : "cf7ae13485309a8ad1c1dc5e2ae93134",
+  "uid" : "ad82e4471cf9005d",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "fullName" : "should test search feature.should find \"electronic\" premiere-pro element",
+  "historyId" : "d2f9392fc2a2afa1926611f468d3042a",
   "time" : {
-    "start" : 1631653395133,
-    "stop" : 1631653417348,
-    "duration" : 22215
+    "start" : 1631695308700,
+    "stop" : 1631695330029,
+    "duration" : 21329
   },
-  "description" : "find \"electronic\" after-effects element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; after-effects element</p>\n",
+  "description" : "find \"electronic\" premiere-pro element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; premiere-pro element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" after-effects element"
+    "value" : "should find \"electronic\" premiere-pro element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "6da9bf43ce6910fb.json",
+  "source" : "ad82e4471cf9005d.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }
