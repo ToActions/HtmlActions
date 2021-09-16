@@ -1,12 +1,12 @@
 {
-  "uid" : "c1c8305fde22fb9e",
+  "uid" : "f99fa9b2f74d4b74",
   "name" : "should find \"electronic\" Video element",
   "fullName" : "should test search feature.should find \"electronic\" Video element",
   "historyId" : "11562e0af3b47d8e110d6b182ffe543d",
   "time" : {
-    "start" : 1631822833208,
-    "stop" : 1631822842886,
-    "duration" : 9678
+    "start" : 1631823206392,
+    "stop" : 1631823218420,
+    "duration" : 12028
   },
   "description" : "find \"electronic\" Video element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Video element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c1c8305fde22fb9e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822833208,
+          "stop" : 1631822842886,
+          "duration" : 9678
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "c1c8305fde22fb9e.json",
+  "source" : "f99fa9b2f74d4b74.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

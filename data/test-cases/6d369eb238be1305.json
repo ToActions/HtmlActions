@@ -1,15 +1,15 @@
 {
-  "uid" : "e1b04401c2b64f17",
-  "name" : "should find \"electronic\" resolve element",
-  "fullName" : "should test search feature.should find \"electronic\" resolve element",
-  "historyId" : "4bfe43f9005c6237d1410918d497beb0",
+  "uid" : "6d369eb238be1305",
+  "name" : "should find \"electronic\" 3D element",
+  "fullName" : "should test search feature.should find \"electronic\" 3D element",
+  "historyId" : "f1fe9aa85311915235db806e8c10e910",
   "time" : {
-    "start" : 1631822865617,
-    "stop" : 1631822872408,
-    "duration" : 6791
+    "start" : 1631823283885,
+    "stop" : 1631823293895,
+    "duration" : 10010
   },
-  "description" : "find \"electronic\" resolve element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
+  "description" : "find \"electronic\" 3D element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; 3D element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" resolve element"
+    "value" : "should find \"electronic\" 3D element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "82b15646881b6c0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822888989,
+          "stop" : 1631822896786,
+          "duration" : 7797
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "e1b04401c2b64f17.json",
+  "source" : "6d369eb238be1305.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -4,39 +4,39 @@
     "name" : "should test switching currency",
     "children" : [ {
       "name" : "should LogIn",
-      "uid" : "a9e5e0d093f14c62",
+      "uid" : "8deb412271c74aaa",
       "parentUid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
       "status" : "passed",
       "time" : {
-        "start" : 1631822706311,
-        "stop" : 1631822730876,
-        "duration" : 24565
+        "start" : 1631823065635,
+        "stop" : 1631823091117,
+        "duration" : 25482
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should switch currency using footer dropdown",
-      "uid" : "70aea504a664ec14",
+      "uid" : "3b8bb0bf1445d5b5",
       "parentUid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
       "status" : "passed",
       "time" : {
-        "start" : 1631822730876,
-        "stop" : 1631822798576,
-        "duration" : 67700
+        "start" : 1631823091117,
+        "stop" : 1631823168249,
+        "duration" : 77132
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should Logout",
-      "uid" : "1d9f46223d754a36",
+      "uid" : "78292f0a2779d29e",
       "parentUid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
       "status" : "passed",
       "time" : {
-        "start" : 1631822798577,
-        "stop" : 1631822804299,
-        "duration" : 5722
+        "start" : 1631823168251,
+        "stop" : 1631823171697,
+        "duration" : 3446
       },
       "flaky" : false,
       "newFailed" : false,
@@ -47,156 +47,156 @@
     "name" : "should test search feature",
     "children" : [ {
       "name" : "should LogIn",
-      "uid" : "8e5c374dc167e1f6",
+      "uid" : "d834dcaf57242a9e",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822804308,
-        "stop" : 1631822824770,
-        "duration" : 20462
+        "start" : 1631823171707,
+        "stop" : 1631823195168,
+        "duration" : 23461
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Music element",
-      "uid" : "ae7a253086439461",
+      "uid" : "a69cc4b80c4df198",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822824770,
-        "stop" : 1631822833208,
-        "duration" : 8438
+        "start" : 1631823195168,
+        "stop" : 1631823206392,
+        "duration" : 11224
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Video element",
-      "uid" : "c1c8305fde22fb9e",
+      "uid" : "f99fa9b2f74d4b74",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822833208,
-        "stop" : 1631822842886,
-        "duration" : 9678
+        "start" : 1631823206392,
+        "stop" : 1631823218420,
+        "duration" : 12028
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" after-effects element",
-      "uid" : "72c2a0094a0fa18d",
+      "uid" : "b41987a9ff6b6989",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822842886,
-        "stop" : 1631822850752,
-        "duration" : 7866
+        "start" : 1631823218421,
+        "stop" : 1631823229093,
+        "duration" : 10672
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" premiere-pro element",
-      "uid" : "dece6ae62ce57b1d",
+      "uid" : "65b486dcb4cc5437",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822850752,
-        "stop" : 1631822858113,
-        "duration" : 7361
+        "start" : 1631823229093,
+        "stop" : 1631823239186,
+        "duration" : 10093
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" apple-motion element",
-      "uid" : "511e9042fe9d415d",
+      "uid" : "6e9279c10183bbcb",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822858113,
-        "stop" : 1631822865616,
-        "duration" : 7503
+        "start" : 1631823239186,
+        "stop" : 1631823247958,
+        "duration" : 8772
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" resolve element",
-      "uid" : "e1b04401c2b64f17",
+      "uid" : "1b34720214c7b4cf",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822865617,
-        "stop" : 1631822872408,
-        "duration" : 6791
+        "start" : 1631823247958,
+        "stop" : 1631823256485,
+        "duration" : 8527
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Image element",
-      "uid" : "667128532ddaac87",
+      "uid" : "29d62b1fc82c1397",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822872408,
-        "stop" : 1631822882322,
-        "duration" : 9914
+        "start" : 1631823256485,
+        "stop" : 1631823268995,
+        "duration" : 12510
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Sound-effects element",
-      "uid" : "b3196d092721a0b9",
+      "uid" : "127f3d380d0ceb18",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822882323,
-        "stop" : 1631822888989,
-        "duration" : 6666
+        "start" : 1631823268995,
+        "stop" : 1631823283885,
+        "duration" : 14890
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" 3D element",
-      "uid" : "82b15646881b6c0c",
+      "uid" : "6d369eb238be1305",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822888989,
-        "stop" : 1631822896786,
-        "duration" : 7797
+        "start" : 1631823283885,
+        "stop" : 1631823293895,
+        "duration" : 10010
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should find \"electronic\" Lottie element",
-      "uid" : "968fb18d215e1ed3",
+      "uid" : "bde1e8c5ee637bdb",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822896787,
-        "stop" : 1631822903628,
-        "duration" : 6841
+        "start" : 1631823293895,
+        "stop" : 1631823304731,
+        "duration" : 10836
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome-93.0.4577.18" ]
     }, {
       "name" : "should Logout",
-      "uid" : "fca40c19250c820a",
+      "uid" : "3cd4040eccc2dd9a",
       "parentUid" : "bb5439676e2be3c08504f4b74e6d2106",
       "status" : "passed",
       "time" : {
-        "start" : 1631822903628,
-        "stop" : 1631822905919,
-        "duration" : 2291
+        "start" : 1631823304731,
+        "stop" : 1631823307817,
+        "duration" : 3086
       },
       "flaky" : false,
       "newFailed" : false,

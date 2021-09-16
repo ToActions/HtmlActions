@@ -1,12 +1,12 @@
 {
-  "uid" : "968fb18d215e1ed3",
+  "uid" : "bde1e8c5ee637bdb",
   "name" : "should find \"electronic\" Lottie element",
   "fullName" : "should test search feature.should find \"electronic\" Lottie element",
   "historyId" : "b6041e153511d708b574bac3c2d7ca04",
   "time" : {
-    "start" : 1631822896787,
-    "stop" : 1631822903628,
-    "duration" : 6841
+    "start" : 1631823293895,
+    "stop" : 1631823304731,
+    "duration" : 10836
   },
   "description" : "find \"electronic\" Lottie element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "968fb18d215e1ed3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822896787,
+          "stop" : 1631822903628,
+          "duration" : 6841
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "968fb18d215e1ed3.json",
+  "source" : "bde1e8c5ee637bdb.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "8e5c374dc167e1f6",
+  "uid" : "8deb412271c74aaa",
   "name" : "should LogIn",
-  "fullName" : "should test search feature.should LogIn",
-  "historyId" : "2584a36500809df342a371f39e91f1e9",
+  "fullName" : "should test switching currency.should LogIn",
+  "historyId" : "15a709f79999f11f6c9c034722979a18",
   "time" : {
-    "start" : 1631822804308,
-    "stop" : 1631822824770,
-    "duration" : 20462
+    "start" : 1631823065635,
+    "stop" : 1631823091117,
+    "duration" : 25482
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -26,16 +26,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "should test search feature"
+    "value" : "should test switching currency"
   }, {
     "name" : "testClass",
-    "value" : "should test search feature"
+    "value" : "should test switching currency"
   }, {
     "name" : "testMethod",
     "value" : "should LogIn"
   }, {
     "name" : "package",
-    "value" : "should test search feature"
+    "value" : "should test switching currency"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a9e5e0d093f14c62",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822706311,
+          "stop" : 1631822730876,
+          "duration" : 24565
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "8e5c374dc167e1f6.json",
+  "source" : "8deb412271c74aaa.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

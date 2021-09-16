@@ -1,12 +1,12 @@
 {
-  "uid" : "fca40c19250c820a",
-  "name" : "should Logout",
-  "fullName" : "should test search feature.should Logout",
-  "historyId" : "cacf8fae5bbcaf15e1092f72634cabaa",
+  "uid" : "d834dcaf57242a9e",
+  "name" : "should LogIn",
+  "fullName" : "should test search feature.should LogIn",
+  "historyId" : "2584a36500809df342a371f39e91f1e9",
   "time" : {
-    "start" : 1631822903628,
-    "stop" : 1631822905919,
-    "duration" : 2291
+    "start" : 1631823171707,
+    "stop" : 1631823195168,
+    "duration" : 23461
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should Logout"
+    "value" : "should LogIn"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "8e5c374dc167e1f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822804308,
+          "stop" : 1631822824770,
+          "duration" : 20462
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "fca40c19250c820a.json",
+  "source" : "d834dcaf57242a9e.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

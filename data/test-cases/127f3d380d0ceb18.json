@@ -1,12 +1,12 @@
 {
-  "uid" : "b3196d092721a0b9",
+  "uid" : "127f3d380d0ceb18",
   "name" : "should find \"electronic\" Sound-effects element",
   "fullName" : "should test search feature.should find \"electronic\" Sound-effects element",
   "historyId" : "abfcf0f6cd6f8a7298f2f620b129b38e",
   "time" : {
-    "start" : 1631822882323,
-    "stop" : 1631822888989,
-    "duration" : 6666
+    "start" : 1631823268995,
+    "stop" : 1631823283885,
+    "duration" : 14890
   },
   "description" : "find \"electronic\" Sound-effects element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Sound-effects element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b3196d092721a0b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822882323,
+          "stop" : 1631822888989,
+          "duration" : 6666
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "b3196d092721a0b9.json",
+  "source" : "127f3d380d0ceb18.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

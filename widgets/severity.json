@@ -1,150 +1,150 @@
 [ {
-  "uid" : "b3196d092721a0b9",
-  "name" : "should find \"electronic\" Sound-effects element",
-  "time" : {
-    "start" : 1631822882323,
-    "stop" : 1631822888989,
-    "duration" : 6666
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fca40c19250c820a",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1631822903628,
-    "stop" : 1631822905919,
-    "duration" : 2291
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "667128532ddaac87",
-  "name" : "should find \"electronic\" Image element",
-  "time" : {
-    "start" : 1631822872408,
-    "stop" : 1631822882322,
-    "duration" : 9914
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a9e5e0d093f14c62",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1631822706311,
-    "stop" : 1631822730876,
-    "duration" : 24565
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "511e9042fe9d415d",
-  "name" : "should find \"electronic\" apple-motion element",
-  "time" : {
-    "start" : 1631822858113,
-    "stop" : 1631822865616,
-    "duration" : 7503
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dece6ae62ce57b1d",
-  "name" : "should find \"electronic\" premiere-pro element",
-  "time" : {
-    "start" : 1631822850752,
-    "stop" : 1631822858113,
-    "duration" : 7361
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8e5c374dc167e1f6",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1631822804308,
-    "stop" : 1631822824770,
-    "duration" : 20462
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e1b04401c2b64f17",
+  "uid" : "1b34720214c7b4cf",
   "name" : "should find \"electronic\" resolve element",
   "time" : {
-    "start" : 1631822865617,
-    "stop" : 1631822872408,
-    "duration" : 6791
+    "start" : 1631823247958,
+    "stop" : 1631823256485,
+    "duration" : 8527
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ae7a253086439461",
-  "name" : "should find \"electronic\" Music element",
+  "uid" : "29d62b1fc82c1397",
+  "name" : "should find \"electronic\" Image element",
   "time" : {
-    "start" : 1631822824770,
-    "stop" : 1631822833208,
-    "duration" : 8438
+    "start" : 1631823256485,
+    "stop" : 1631823268995,
+    "duration" : 12510
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c1c8305fde22fb9e",
-  "name" : "should find \"electronic\" Video element",
-  "time" : {
-    "start" : 1631822833208,
-    "stop" : 1631822842886,
-    "duration" : 9678
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "72c2a0094a0fa18d",
-  "name" : "should find \"electronic\" after-effects element",
-  "time" : {
-    "start" : 1631822842886,
-    "stop" : 1631822850752,
-    "duration" : 7866
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "70aea504a664ec14",
+  "uid" : "3b8bb0bf1445d5b5",
   "name" : "should switch currency using footer dropdown",
   "time" : {
-    "start" : 1631822730876,
-    "stop" : 1631822798576,
-    "duration" : 67700
+    "start" : 1631823091117,
+    "stop" : 1631823168249,
+    "duration" : 77132
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "82b15646881b6c0c",
+  "uid" : "65b486dcb4cc5437",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1631823229093,
+    "stop" : 1631823239186,
+    "duration" : 10093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127f3d380d0ceb18",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "time" : {
+    "start" : 1631823268995,
+    "stop" : 1631823283885,
+    "duration" : 14890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e9279c10183bbcb",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1631823239186,
+    "stop" : 1631823247958,
+    "duration" : 8772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d369eb238be1305",
   "name" : "should find \"electronic\" 3D element",
   "time" : {
-    "start" : 1631822888989,
-    "stop" : 1631822896786,
-    "duration" : 7797
+    "start" : 1631823283885,
+    "stop" : 1631823293895,
+    "duration" : 10010
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "968fb18d215e1ed3",
-  "name" : "should find \"electronic\" Lottie element",
-  "time" : {
-    "start" : 1631822896787,
-    "stop" : 1631822903628,
-    "duration" : 6841
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1d9f46223d754a36",
+  "uid" : "3cd4040eccc2dd9a",
   "name" : "should Logout",
   "time" : {
-    "start" : 1631822798577,
-    "stop" : 1631822804299,
-    "duration" : 5722
+    "start" : 1631823304731,
+    "stop" : 1631823307817,
+    "duration" : 3086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b41987a9ff6b6989",
+  "name" : "should find \"electronic\" after-effects element",
+  "time" : {
+    "start" : 1631823218421,
+    "stop" : 1631823229093,
+    "duration" : 10672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bde1e8c5ee637bdb",
+  "name" : "should find \"electronic\" Lottie element",
+  "time" : {
+    "start" : 1631823293895,
+    "stop" : 1631823304731,
+    "duration" : 10836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a69cc4b80c4df198",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1631823195168,
+    "stop" : 1631823206392,
+    "duration" : 11224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8deb412271c74aaa",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1631823065635,
+    "stop" : 1631823091117,
+    "duration" : 25482
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d834dcaf57242a9e",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1631823171707,
+    "stop" : 1631823195168,
+    "duration" : 23461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f99fa9b2f74d4b74",
+  "name" : "should find \"electronic\" Video element",
+  "time" : {
+    "start" : 1631823206392,
+    "stop" : 1631823218420,
+    "duration" : 12028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78292f0a2779d29e",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1631823168251,
+    "stop" : 1631823171697,
+    "duration" : 3446
   },
   "status" : "passed",
   "severity" : "normal"

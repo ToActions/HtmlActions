@@ -1,12 +1,12 @@
 {
-  "uid" : "511e9042fe9d415d",
+  "uid" : "6e9279c10183bbcb",
   "name" : "should find \"electronic\" apple-motion element",
   "fullName" : "should test search feature.should find \"electronic\" apple-motion element",
   "historyId" : "f2f218641fbe8397707ddb0311e4138a",
   "time" : {
-    "start" : 1631822858113,
-    "stop" : 1631822865616,
-    "duration" : 7503
+    "start" : 1631823239186,
+    "stop" : 1631823247958,
+    "duration" : 8772
   },
   "description" : "find \"electronic\" apple-motion element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; apple-motion element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "511e9042fe9d415d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822858113,
+          "stop" : 1631822865616,
+          "duration" : 7503
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "511e9042fe9d415d.json",
+  "source" : "6e9279c10183bbcb.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -1,15 +1,15 @@
 {
-  "uid" : "1d9f46223d754a36",
-  "name" : "should Logout",
-  "fullName" : "should test switching currency.should Logout",
-  "historyId" : "4887407a2da3a2c39118e67cb8f03e65",
+  "uid" : "3b8bb0bf1445d5b5",
+  "name" : "should switch currency using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency using footer dropdown",
+  "historyId" : "1ad291e12443d45e1065f23f94179685",
   "time" : {
-    "start" : 1631822798577,
-    "stop" : 1631822804299,
-    "duration" : 5722
+    "start" : 1631823091117,
+    "stop" : 1631823168249,
+    "duration" : 77132
   },
-  "description" : "",
-  "descriptionHtml" : "",
+  "description" : "Switch between currencies ",
+  "descriptionHtml" : "<p>Switch between currencies</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test switching currency"
   }, {
     "name" : "testMethod",
-    "value" : "should Logout"
+    "value" : "should switch currency using footer dropdown"
   }, {
     "name" : "package",
     "value" : "should test switching currency"
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "70aea504a664ec14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822730876,
+          "stop" : 1631822798576,
+          "duration" : 67700
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "1d9f46223d754a36.json",
+  "source" : "3b8bb0bf1445d5b5.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

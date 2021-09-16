@@ -1,12 +1,12 @@
 {
-  "uid" : "72c2a0094a0fa18d",
+  "uid" : "b41987a9ff6b6989",
   "name" : "should find \"electronic\" after-effects element",
   "fullName" : "should test search feature.should find \"electronic\" after-effects element",
   "historyId" : "cf7ae13485309a8ad1c1dc5e2ae93134",
   "time" : {
-    "start" : 1631822842886,
-    "stop" : 1631822850752,
-    "duration" : 7866
+    "start" : 1631823218421,
+    "stop" : 1631823229093,
+    "duration" : 10672
   },
   "description" : "find \"electronic\" after-effects element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; after-effects element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "72c2a0094a0fa18d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822842886,
+          "stop" : 1631822850752,
+          "duration" : 7866
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "72c2a0094a0fa18d.json",
+  "source" : "b41987a9ff6b6989.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

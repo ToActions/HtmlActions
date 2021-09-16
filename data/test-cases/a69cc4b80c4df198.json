@@ -1,12 +1,12 @@
 {
-  "uid" : "ae7a253086439461",
+  "uid" : "a69cc4b80c4df198",
   "name" : "should find \"electronic\" Music element",
   "fullName" : "should test search feature.should find \"electronic\" Music element",
   "historyId" : "8d9dce531c7cc3e91691b5c56fd453a2",
   "time" : {
-    "start" : 1631822824770,
-    "stop" : 1631822833208,
-    "duration" : 8438
+    "start" : 1631823195168,
+    "stop" : 1631823206392,
+    "duration" : 11224
   },
   "description" : "find \"electronic\" Music element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Music element</p>\n",
@@ -51,8 +51,27 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ae7a253086439461",
+        "status" : "passed",
+        "time" : {
+          "start" : 1631822824770,
+          "stop" : 1631822833208,
+          "duration" : 8438
+        }
+      } ]
+    },
     "tags" : [ ]
   },
-  "source" : "ae7a253086439461.json",
+  "source" : "a69cc4b80c4df198.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }
