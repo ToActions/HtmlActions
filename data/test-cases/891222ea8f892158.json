@@ -1,15 +1,15 @@
 {
-  "uid" : "127f3d380d0ceb18",
-  "name" : "should find \"electronic\" Sound-effects element",
-  "fullName" : "should test search feature.should find \"electronic\" Sound-effects element",
-  "historyId" : "abfcf0f6cd6f8a7298f2f620b129b38e",
+  "uid" : "891222ea8f892158",
+  "name" : "should LogIn",
+  "fullName" : "should test search feature.should LogIn",
+  "historyId" : "2584a36500809df342a371f39e91f1e9",
   "time" : {
-    "start" : 1631823268995,
-    "stop" : 1631823283885,
-    "duration" : 14890
+    "start" : 1631823479851,
+    "stop" : 1631823501468,
+    "duration" : 21617
   },
-  "description" : "find \"electronic\" Sound-effects element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Sound-effects element</p>\n",
+  "description" : "",
+  "descriptionHtml" : "",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Sound-effects element"
+    "value" : "should LogIn"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "b3196d092721a0b9",
+        "uid" : "8e5c374dc167e1f6",
         "status" : "passed",
         "time" : {
-          "start" : 1631822882323,
-          "stop" : 1631822888989,
-          "duration" : 6666
+          "start" : 1631822804308,
+          "stop" : 1631822824770,
+          "duration" : 20462
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "127f3d380d0ceb18.json",
+  "source" : "891222ea8f892158.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -1,15 +1,15 @@
 {
-  "uid" : "f99fa9b2f74d4b74",
-  "name" : "should find \"electronic\" Video element",
-  "fullName" : "should test search feature.should find \"electronic\" Video element",
-  "historyId" : "11562e0af3b47d8e110d6b182ffe543d",
+  "uid" : "1013f970e5ce2fb5",
+  "name" : "should find \"electronic\" Lottie element",
+  "fullName" : "should test search feature.should find \"electronic\" Lottie element",
+  "historyId" : "b6041e153511d708b574bac3c2d7ca04",
   "time" : {
-    "start" : 1631823206392,
-    "stop" : 1631823218420,
-    "duration" : 12028
+    "start" : 1631823573248,
+    "stop" : 1631823581709,
+    "duration" : 8461
   },
-  "description" : "find \"electronic\" Video element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Video element</p>\n",
+  "description" : "find \"electronic\" Lottie element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Video element"
+    "value" : "should find \"electronic\" Lottie element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "c1c8305fde22fb9e",
+        "uid" : "968fb18d215e1ed3",
         "status" : "passed",
         "time" : {
-          "start" : 1631822833208,
-          "stop" : 1631822842886,
-          "duration" : 9678
+          "start" : 1631822896787,
+          "stop" : 1631822903628,
+          "duration" : 6841
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "f99fa9b2f74d4b74.json",
+  "source" : "1013f970e5ce2fb5.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

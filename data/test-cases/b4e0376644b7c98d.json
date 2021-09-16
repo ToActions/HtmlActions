@@ -1,15 +1,15 @@
 {
-  "uid" : "29d62b1fc82c1397",
-  "name" : "should find \"electronic\" Image element",
-  "fullName" : "should test search feature.should find \"electronic\" Image element",
-  "historyId" : "a481eba3d4ac5920387bcb14d0c84dfa",
+  "uid" : "b4e0376644b7c98d",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "fullName" : "should test search feature.should find \"electronic\" premiere-pro element",
+  "historyId" : "d2f9392fc2a2afa1926611f468d3042a",
   "time" : {
-    "start" : 1631823256485,
-    "stop" : 1631823268995,
-    "duration" : 12510
+    "start" : 1631823524346,
+    "stop" : 1631823532561,
+    "duration" : 8215
   },
-  "description" : "find \"electronic\" Image element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Image element</p>\n",
+  "description" : "find \"electronic\" premiere-pro element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; premiere-pro element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Image element"
+    "value" : "should find \"electronic\" premiere-pro element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "667128532ddaac87",
+        "uid" : "dece6ae62ce57b1d",
         "status" : "passed",
         "time" : {
-          "start" : 1631822872408,
-          "stop" : 1631822882322,
-          "duration" : 9914
+          "start" : 1631822850752,
+          "stop" : 1631822858113,
+          "duration" : 7361
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "29d62b1fc82c1397.json",
+  "source" : "b4e0376644b7c98d.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

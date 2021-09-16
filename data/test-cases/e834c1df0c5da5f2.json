@@ -1,15 +1,15 @@
 {
-  "uid" : "6d369eb238be1305",
-  "name" : "should find \"electronic\" 3D element",
-  "fullName" : "should test search feature.should find \"electronic\" 3D element",
-  "historyId" : "f1fe9aa85311915235db806e8c10e910",
+  "uid" : "e834c1df0c5da5f2",
+  "name" : "should find \"electronic\" Image element",
+  "fullName" : "should test search feature.should find \"electronic\" Image element",
+  "historyId" : "a481eba3d4ac5920387bcb14d0c84dfa",
   "time" : {
-    "start" : 1631823283885,
-    "stop" : 1631823293895,
-    "duration" : 10010
+    "start" : 1631823548922,
+    "stop" : 1631823557595,
+    "duration" : 8673
   },
-  "description" : "find \"electronic\" 3D element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; 3D element</p>\n",
+  "description" : "find \"electronic\" Image element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Image element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" 3D element"
+    "value" : "should find \"electronic\" Image element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "82b15646881b6c0c",
+        "uid" : "667128532ddaac87",
         "status" : "passed",
         "time" : {
-          "start" : 1631822888989,
-          "stop" : 1631822896786,
-          "duration" : 7797
+          "start" : 1631822872408,
+          "stop" : 1631822882322,
+          "duration" : 9914
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "6d369eb238be1305.json",
+  "source" : "e834c1df0c5da5f2.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

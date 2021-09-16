@@ -1,15 +1,15 @@
 {
-  "uid" : "78292f0a2779d29e",
-  "name" : "should Logout",
-  "fullName" : "should test switching currency.should Logout",
-  "historyId" : "4887407a2da3a2c39118e67cb8f03e65",
+  "uid" : "59bfb4fb97db9530",
+  "name" : "should find \"electronic\" Video element",
+  "fullName" : "should test search feature.should find \"electronic\" Video element",
+  "historyId" : "11562e0af3b47d8e110d6b182ffe543d",
   "time" : {
-    "start" : 1631823168251,
-    "stop" : 1631823171697,
-    "duration" : 3446
+    "start" : 1631823508270,
+    "stop" : 1631823516052,
+    "duration" : 7782
   },
-  "description" : "",
-  "descriptionHtml" : "",
+  "description" : "find \"electronic\" Video element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Video element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -26,16 +26,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "testClass",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should Logout"
+    "value" : "should find \"electronic\" Video element"
   }, {
     "name" : "package",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "1d9f46223d754a36",
+        "uid" : "c1c8305fde22fb9e",
         "status" : "passed",
         "time" : {
-          "start" : 1631822798577,
-          "stop" : 1631822804299,
-          "duration" : 5722
+          "start" : 1631822833208,
+          "stop" : 1631822842886,
+          "duration" : 9678
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "78292f0a2779d29e.json",
+  "source" : "59bfb4fb97db9530.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

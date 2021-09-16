@@ -1,15 +1,15 @@
 {
-  "uid" : "8deb412271c74aaa",
-  "name" : "should LogIn",
-  "fullName" : "should test switching currency.should LogIn",
-  "historyId" : "15a709f79999f11f6c9c034722979a18",
+  "uid" : "44fa96892c941cef",
+  "name" : "should find \"electronic\" resolve element",
+  "fullName" : "should test search feature.should find \"electronic\" resolve element",
+  "historyId" : "4bfe43f9005c6237d1410918d497beb0",
   "time" : {
-    "start" : 1631823065635,
-    "stop" : 1631823091117,
-    "duration" : 25482
+    "start" : 1631823540484,
+    "stop" : 1631823548922,
+    "duration" : 8438
   },
-  "description" : "",
-  "descriptionHtml" : "",
+  "description" : "find \"electronic\" resolve element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -26,16 +26,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "testClass",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should LogIn"
+    "value" : "should find \"electronic\" resolve element"
   }, {
     "name" : "package",
-    "value" : "should test switching currency"
+    "value" : "should test search feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "a9e5e0d093f14c62",
+        "uid" : "e1b04401c2b64f17",
         "status" : "passed",
         "time" : {
-          "start" : 1631822706311,
-          "stop" : 1631822730876,
-          "duration" : 24565
+          "start" : 1631822865617,
+          "stop" : 1631822872408,
+          "duration" : 6791
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "8deb412271c74aaa.json",
+  "source" : "44fa96892c941cef.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

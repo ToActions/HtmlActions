@@ -1,15 +1,15 @@
 {
-  "uid" : "bde1e8c5ee637bdb",
-  "name" : "should find \"electronic\" Lottie element",
-  "fullName" : "should test search feature.should find \"electronic\" Lottie element",
-  "historyId" : "b6041e153511d708b574bac3c2d7ca04",
+  "uid" : "2bc6882ef54c0ba3",
+  "name" : "should find \"electronic\" after-effects element",
+  "fullName" : "should test search feature.should find \"electronic\" after-effects element",
+  "historyId" : "cf7ae13485309a8ad1c1dc5e2ae93134",
   "time" : {
-    "start" : 1631823293895,
-    "stop" : 1631823304731,
-    "duration" : 10836
+    "start" : 1631823516052,
+    "stop" : 1631823524346,
+    "duration" : 8294
   },
-  "description" : "find \"electronic\" Lottie element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
+  "description" : "find \"electronic\" after-effects element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; after-effects element</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Lottie element"
+    "value" : "should find \"electronic\" after-effects element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "968fb18d215e1ed3",
+        "uid" : "72c2a0094a0fa18d",
         "status" : "passed",
         "time" : {
-          "start" : 1631822896787,
-          "stop" : 1631822903628,
-          "duration" : 6841
+          "start" : 1631822842886,
+          "stop" : 1631822850752,
+          "duration" : 7866
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "bde1e8c5ee637bdb.json",
+  "source" : "2bc6882ef54c0ba3.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

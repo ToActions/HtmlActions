@@ -1,12 +1,12 @@
 {
-  "uid" : "d834dcaf57242a9e",
+  "uid" : "8f496effd3cbc0bf",
   "name" : "should LogIn",
-  "fullName" : "should test search feature.should LogIn",
-  "historyId" : "2584a36500809df342a371f39e91f1e9",
+  "fullName" : "should test switching currency.should LogIn",
+  "historyId" : "15a709f79999f11f6c9c034722979a18",
   "time" : {
-    "start" : 1631823171707,
-    "stop" : 1631823195168,
-    "duration" : 23461
+    "start" : 1631823385659,
+    "stop" : 1631823408952,
+    "duration" : 23293
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -26,16 +26,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "should test search feature"
+    "value" : "should test switching currency"
   }, {
     "name" : "testClass",
-    "value" : "should test search feature"
+    "value" : "should test switching currency"
   }, {
     "name" : "testMethod",
     "value" : "should LogIn"
   }, {
     "name" : "package",
-    "value" : "should test search feature"
+    "value" : "should test switching currency"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -61,17 +61,17 @@
         "total" : 2
       },
       "items" : [ {
-        "uid" : "8e5c374dc167e1f6",
+        "uid" : "a9e5e0d093f14c62",
         "status" : "passed",
         "time" : {
-          "start" : 1631822804308,
-          "stop" : 1631822824770,
-          "duration" : 20462
+          "start" : 1631822706311,
+          "stop" : 1631822730876,
+          "duration" : 24565
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "d834dcaf57242a9e.json",
+  "source" : "8f496effd3cbc0bf.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "3cd4040eccc2dd9a",
+  "uid" : "dddbf917fe73a4d9",
   "name" : "should Logout",
   "fullName" : "should test search feature.should Logout",
   "historyId" : "cacf8fae5bbcaf15e1092f72634cabaa",
   "time" : {
-    "start" : 1631823304731,
-    "stop" : 1631823307817,
-    "duration" : 3086
+    "start" : 1631823581709,
+    "stop" : 1631823584881,
+    "duration" : 3172
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -72,6 +72,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "3cd4040eccc2dd9a.json",
+  "source" : "dddbf917fe73a4d9.json",
   "parameterValues" : [ "chrome-93.0.4577.18" ]
 }
