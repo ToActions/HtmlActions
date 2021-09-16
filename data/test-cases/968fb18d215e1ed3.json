@@ -1,0 +1,58 @@
+{
+  "uid" : "968fb18d215e1ed3",
+  "name" : "should find \"electronic\" Lottie element",
+  "fullName" : "should test search feature.should find \"electronic\" Lottie element",
+  "historyId" : "b6041e153511d708b574bac3c2d7ca04",
+  "time" : {
+    "start" : 1631822896787,
+    "stop" : 1631822903628,
+    "duration" : 6841
+  },
+  "description" : "find \"electronic\" Lottie element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" Lottie element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.18"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "968fb18d215e1ed3.json",
+  "parameterValues" : [ "chrome-93.0.4577.18" ]
+}

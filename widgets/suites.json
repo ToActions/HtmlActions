@@ -1,4 +1,26 @@
 {
-  "total" : 0,
-  "items" : [ ]
+  "total" : 2,
+  "items" : [ {
+    "uid" : "bb5439676e2be3c08504f4b74e6d2106",
+    "name" : "should test search feature",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
+    "name" : "should test switching currency",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
 }

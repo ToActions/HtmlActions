@@ -1,5 +1,204 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should LogIn",
+      "uid" : "8e5c374dc167e1f6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822804308,
+        "stop" : 1631822824770,
+        "duration" : 20462
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" apple-motion element",
+      "uid" : "511e9042fe9d415d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822858113,
+        "stop" : 1631822865616,
+        "duration" : 7503
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" Music element",
+      "uid" : "ae7a253086439461",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822824770,
+        "stop" : 1631822833208,
+        "duration" : 8438
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" 3D element",
+      "uid" : "82b15646881b6c0c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822888989,
+        "stop" : 1631822896786,
+        "duration" : 7797
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should Logout",
+      "uid" : "fca40c19250c820a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822903628,
+        "stop" : 1631822905919,
+        "duration" : 2291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should Logout",
+      "uid" : "1d9f46223d754a36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822798577,
+        "stop" : 1631822804299,
+        "duration" : 5722
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" Lottie element",
+      "uid" : "968fb18d215e1ed3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822896787,
+        "stop" : 1631822903628,
+        "duration" : 6841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" Video element",
+      "uid" : "c1c8305fde22fb9e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822833208,
+        "stop" : 1631822842886,
+        "duration" : 9678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should LogIn",
+      "uid" : "a9e5e0d093f14c62",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822706311,
+        "stop" : 1631822730876,
+        "duration" : 24565
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" after-effects element",
+      "uid" : "72c2a0094a0fa18d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822842886,
+        "stop" : 1631822850752,
+        "duration" : 7866
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" premiere-pro element",
+      "uid" : "dece6ae62ce57b1d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822850752,
+        "stop" : 1631822858113,
+        "duration" : 7361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" resolve element",
+      "uid" : "e1b04401c2b64f17",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822865617,
+        "stop" : 1631822872408,
+        "duration" : 6791
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should switch currency using footer dropdown",
+      "uid" : "70aea504a664ec14",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822730876,
+        "stop" : 1631822798576,
+        "duration" : 67700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" Image element",
+      "uid" : "667128532ddaac87",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822872408,
+        "stop" : 1631822882322,
+        "duration" : 9914
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    }, {
+      "name" : "should find \"electronic\" Sound-effects element",
+      "uid" : "b3196d092721a0b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631822882323,
+        "stop" : 1631822888989,
+        "duration" : 6666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-93.0.4577.18" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ],
   "name" : "timeline"
 }

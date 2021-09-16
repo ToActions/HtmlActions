@@ -1,0 +1,58 @@
+{
+  "uid" : "667128532ddaac87",
+  "name" : "should find \"electronic\" Image element",
+  "fullName" : "should test search feature.should find \"electronic\" Image element",
+  "historyId" : "a481eba3d4ac5920387bcb14d0c84dfa",
+  "time" : {
+    "start" : 1631822872408,
+    "stop" : 1631822882322,
+    "duration" : 9914
+  },
+  "description" : "find \"electronic\" Image element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Image element</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" Image element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.18"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "667128532ddaac87.json",
+  "parameterValues" : [ "chrome-93.0.4577.18" ]
+}

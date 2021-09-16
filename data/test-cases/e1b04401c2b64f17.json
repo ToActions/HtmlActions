@@ -1,0 +1,58 @@
+{
+  "uid" : "e1b04401c2b64f17",
+  "name" : "should find \"electronic\" resolve element",
+  "fullName" : "should test search feature.should find \"electronic\" resolve element",
+  "historyId" : "4bfe43f9005c6237d1410918d497beb0",
+  "time" : {
+    "start" : 1631822865617,
+    "stop" : 1631822872408,
+    "duration" : 6791
+  },
+  "description" : "find \"electronic\" resolve element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" resolve element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.18"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1b04401c2b64f17.json",
+  "parameterValues" : [ "chrome-93.0.4577.18" ]
+}

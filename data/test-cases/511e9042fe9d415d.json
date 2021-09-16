@@ -1,0 +1,58 @@
+{
+  "uid" : "511e9042fe9d415d",
+  "name" : "should find \"electronic\" apple-motion element",
+  "fullName" : "should test search feature.should find \"electronic\" apple-motion element",
+  "historyId" : "f2f218641fbe8397707ddb0311e4138a",
+  "time" : {
+    "start" : 1631822858113,
+    "stop" : 1631822865616,
+    "duration" : 7503
+  },
+  "description" : "find \"electronic\" apple-motion element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; apple-motion element</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" apple-motion element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.18"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "511e9042fe9d415d.json",
+  "parameterValues" : [ "chrome-93.0.4577.18" ]
+}
