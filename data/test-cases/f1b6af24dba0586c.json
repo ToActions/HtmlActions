@@ -1,12 +1,12 @@
 {
-  "uid" : "891222ea8f892158",
+  "uid" : "f1b6af24dba0586c",
   "name" : "should LogIn",
   "fullName" : "should test search feature.should LogIn",
-  "historyId" : "2584a36500809df342a371f39e91f1e9",
+  "historyId" : "98dd54f9ffb50bdb08d00bbfe0b307c7",
   "time" : {
-    "start" : 1631823479851,
-    "stop" : 1631823501468,
-    "duration" : 21617
+    "start" : 1632327650592,
+    "stop" : 1632327671183,
+    "duration" : 20591
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -42,7 +42,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.18"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -51,27 +51,8 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "8e5c374dc167e1f6",
-        "status" : "passed",
-        "time" : {
-          "start" : 1631822804308,
-          "stop" : 1631822824770,
-          "duration" : 20462
-        }
-      } ]
-    },
     "tags" : [ ]
   },
-  "source" : "891222ea8f892158.json",
-  "parameterValues" : [ "chrome-93.0.4577.18" ]
+  "source" : "f1b6af24dba0586c.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

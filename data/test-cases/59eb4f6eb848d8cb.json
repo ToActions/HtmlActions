@@ -1,0 +1,58 @@
+{
+  "uid" : "59eb4f6eb848d8cb",
+  "name" : "should enter expired date and validate error message",
+  "fullName" : "Buyer should Buy subscription.should enter expired date and validate error message",
+  "historyId" : "98c47846c9d72c2f0748bfc7d8927d3e",
+  "time" : {
+    "start" : 1632328734202,
+    "stop" : 1632328737285,
+    "duration" : 3083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter expired date and validate error message"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59eb4f6eb848d8cb.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

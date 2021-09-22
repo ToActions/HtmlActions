@@ -1,16 +1,18 @@
 {
-  "uid" : "230cbaf4d4d48d6f",
+  "uid" : "4f9b6573c4de0635",
   "name" : "should find \"electronic\" 3D element",
   "fullName" : "should test search feature.should find \"electronic\" 3D element",
-  "historyId" : "f1fe9aa85311915235db806e8c10e910",
+  "historyId" : "66efa8286e923fe9780d10beeb84aa30",
   "time" : {
-    "start" : 1631823564681,
-    "stop" : 1631823573248,
-    "duration" : 8567
+    "start" : 1632328471645,
+    "stop" : 1632328571683,
+    "duration" : 100038
   },
   "description" : "find \"electronic\" 3D element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; 3D element</p>\n",
-  "status" : "passed",
+  "status" : "broken",
+  "statusMessage" : "Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found",
+  "statusTrace" : "Error: Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:108:23)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:111:24)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -42,7 +44,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.18"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -50,28 +52,13 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "82b15646881b6c0c",
-        "status" : "passed",
-        "time" : {
-          "start" : 1631822888989,
-          "stop" : 1631822896786,
-          "duration" : 7797
-        }
-      } ]
-    },
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
     "tags" : [ ]
   },
-  "source" : "230cbaf4d4d48d6f.json",
-  "parameterValues" : [ "chrome-93.0.4577.18" ]
+  "source" : "4f9b6573c4de0635.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

@@ -1,0 +1,64 @@
+{
+  "uid" : "372172ed03489664",
+  "name" : "should find \"electronic\" resolve element",
+  "fullName" : "should test search feature.should find \"electronic\" resolve element",
+  "historyId" : "5dfe8592645b9708ba1f0c25ec0589c3",
+  "time" : {
+    "start" : 1632328171500,
+    "stop" : 1632328271543,
+    "duration" : 100043
+  },
+  "description" : "find \"electronic\" resolve element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "element (\"[class=\"nav-item\"]>[href*=\"resolve\"]\") still not displayed after 100000ms",
+  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"resolve\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:103:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:77:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" resolve element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "372172ed03489664.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "3ef27234d5a91f53",
+  "name" : "should switch currency to KRW and validate price displayed KRW ",
+  "fullName" : "Buyer should Buy subscription.should switch currency to KRW and validate price displayed KRW ",
+  "historyId" : "16e2aca3ce6ed5fa69be461ffa6eccbe",
+  "time" : {
+    "start" : 1632328706453,
+    "stop" : 1632328706453,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to KRW and validate price displayed KRW "
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ef27234d5a91f53.json",
+  "parameterValues" : [ ]
+}

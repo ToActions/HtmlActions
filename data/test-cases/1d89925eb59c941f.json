@@ -1,16 +1,18 @@
 {
-  "uid" : "51e2cb033cb9aa2a",
+  "uid" : "1d89925eb59c941f",
   "name" : "should find \"electronic\" Sound-effects element",
   "fullName" : "should test search feature.should find \"electronic\" Sound-effects element",
-  "historyId" : "abfcf0f6cd6f8a7298f2f620b129b38e",
+  "historyId" : "ffe044e25d0835a87f8e19de81367fd5",
   "time" : {
-    "start" : 1631823557595,
-    "stop" : 1631823564680,
-    "duration" : 7085
+    "start" : 1632328371590,
+    "stop" : 1632328471644,
+    "duration" : 100054
   },
   "description" : "find \"electronic\" Sound-effects element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Sound-effects element</p>\n",
-  "status" : "passed",
+  "status" : "broken",
+  "statusMessage" : "Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found",
+  "statusTrace" : "Error: Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:108:23)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:100:24)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -42,7 +44,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.18"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -50,28 +52,13 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ ],
-    "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "b3196d092721a0b9",
-        "status" : "passed",
-        "time" : {
-          "start" : 1631822882323,
-          "stop" : 1631822888989,
-          "duration" : 6666
-        }
-      } ]
-    },
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
     "tags" : [ ]
   },
-  "source" : "51e2cb033cb9aa2a.json",
-  "parameterValues" : [ "chrome-93.0.4577.18" ]
+  "source" : "1d89925eb59c941f.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

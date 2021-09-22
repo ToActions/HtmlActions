@@ -1,12 +1,12 @@
 {
-  "uid" : "25754aa90e11bf5a",
-  "name" : "should Logout",
-  "fullName" : "should test switching currency.should Logout",
-  "historyId" : "4887407a2da3a2c39118e67cb8f03e65",
+  "uid" : "77853f0ae485726b",
+  "name" : "should LogIn",
+  "fullName" : "should test switching currency.should LogIn",
+  "historyId" : "da7757dba01f4c8589223470b077a8c3",
   "time" : {
-    "start" : 1631823476437,
-    "stop" : 1631823479843,
-    "duration" : 3406
+    "start" : 1632327552437,
+    "stop" : 1632327568300,
+    "duration" : 15863
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "should test switching currency"
   }, {
     "name" : "testMethod",
-    "value" : "should Logout"
+    "value" : "should LogIn"
   }, {
     "name" : "package",
     "value" : "should test switching currency"
@@ -42,7 +42,7 @@
   } ],
   "parameters" : [ {
     "name" : "browser",
-    "value" : "chrome-93.0.4577.18"
+    "value" : "chrome-93.0.4577.63"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -51,27 +51,8 @@
     "severity" : "normal",
     "retries" : [ ],
     "categories" : [ ],
-    "history" : {
-      "statistic" : {
-        "failed" : 0,
-        "broken" : 0,
-        "skipped" : 0,
-        "passed" : 2,
-        "unknown" : 0,
-        "total" : 2
-      },
-      "items" : [ {
-        "uid" : "1d9f46223d754a36",
-        "status" : "passed",
-        "time" : {
-          "start" : 1631822798577,
-          "stop" : 1631822804299,
-          "duration" : 5722
-        }
-      } ]
-    },
     "tags" : [ ]
   },
-  "source" : "25754aa90e11bf5a.json",
-  "parameterValues" : [ "chrome-93.0.4577.18" ]
+  "source" : "77853f0ae485726b.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

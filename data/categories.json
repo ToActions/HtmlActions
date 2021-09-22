@@ -1,5 +1,171 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"music\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" Music element",
+        "uid" : "3c0c86fc4d71989b",
+        "parentUid" : "e3efd3957c874b71b3ca80062aaf4b8d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632327671183,
+          "stop" : 1632327771230,
+          "duration" : 100047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "e3efd3957c874b71b3ca80062aaf4b8d"
+    }, {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"video\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" Video element",
+        "uid" : "b9c18417520ad7b7",
+        "parentUid" : "63d75c99972ff554f7680222c2041003",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632327771232,
+          "stop" : 1632327871355,
+          "duration" : 100123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "63d75c99972ff554f7680222c2041003"
+    }, {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"after-effects\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" after-effects element",
+        "uid" : "8d5fa882a3fb8616",
+        "parentUid" : "bc28903def6b2a2de0f1c6bafc83c623",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632327871359,
+          "stop" : 1632327971410,
+          "duration" : 100051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "bc28903def6b2a2de0f1c6bafc83c623"
+    }, {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"premiere-pro\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" premiere-pro element",
+        "uid" : "9db8409afcb860a1",
+        "parentUid" : "f43e5227418127071a8b247fff0572ad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632327971411,
+          "stop" : 1632328071454,
+          "duration" : 100043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "f43e5227418127071a8b247fff0572ad"
+    }, {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"apple-motion\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" apple-motion element",
+        "uid" : "7b8d157f46c2598e",
+        "parentUid" : "0bb76d9c38a79c753599c6d071794f87",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632328071456,
+          "stop" : 1632328171499,
+          "duration" : 100043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "0bb76d9c38a79c753599c6d071794f87"
+    }, {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"resolve\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" resolve element",
+        "uid" : "372172ed03489664",
+        "parentUid" : "6b5d9cb3c4b4c1a27f3a2564d0d0d028",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632328171500,
+          "stop" : 1632328271543,
+          "duration" : 100043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "6b5d9cb3c4b4c1a27f3a2564d0d0d028"
+    }, {
+      "name" : "element (\"[class=\"nav-item\"]>[href*=\"image\"]\") still not displayed after 100000ms",
+      "children" : [ {
+        "name" : "should find \"electronic\" Image element",
+        "uid" : "1ef5c7fc167276c3",
+        "parentUid" : "12f4fced11604c64cd92e505b70a73e9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632328271544,
+          "stop" : 1632328371589,
+          "duration" : 100045
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "12f4fced11604c64cd92e505b70a73e9"
+    }, {
+      "name" : "Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found",
+      "children" : [ {
+        "name" : "should find \"electronic\" Sound-effects element",
+        "uid" : "1d89925eb59c941f",
+        "parentUid" : "7f11493ae5261b3f8df1fa33c586197b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632328371590,
+          "stop" : 1632328471644,
+          "duration" : 100054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      }, {
+        "name" : "should find \"electronic\" 3D element",
+        "uid" : "4f9b6573c4de0635",
+        "parentUid" : "7f11493ae5261b3f8df1fa33c586197b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632328471645,
+          "stop" : 1632328571683,
+          "duration" : 100038
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      }, {
+        "name" : "should find \"electronic\" Lottie element",
+        "uid" : "cb453dd0e48fac45",
+        "parentUid" : "7f11493ae5261b3f8df1fa33c586197b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1632328571685,
+          "stop" : 1632328671743,
+          "duration" : 100058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-93.0.4577.63" ]
+      } ],
+      "uid" : "7f11493ae5261b3f8df1fa33c586197b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }

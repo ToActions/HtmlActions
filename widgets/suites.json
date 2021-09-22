@@ -1,15 +1,26 @@
 {
-  "total" : 2,
+  "total" : 3,
   "items" : [ {
     "uid" : "bb5439676e2be3c08504f4b74e6d2106",
     "name" : "should test search feature",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 10,
       "skipped" : 0,
-      "passed" : 12,
+      "passed" : 2,
       "unknown" : 0,
       "total" : 12
+    }
+  }, {
+    "uid" : "065c6125a070d5ac6db8bb68d6d1e1a7",
+    "name" : "Buyer should Buy subscription",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
     }
   }, {
     "uid" : "0cdfeb3c40b91d4ee45453654b83f5f2",

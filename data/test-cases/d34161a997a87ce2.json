@@ -1,0 +1,48 @@
+{
+  "uid" : "d34161a997a87ce2",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "fullName" : "Buyer should Buy subscription.should switch currency to JPY and validate price displayed JPY ",
+  "historyId" : "ecc08b8edb7f326b083decf402cbc06e",
+  "time" : {
+    "start" : 1632328706453,
+    "stop" : 1632328706453,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to JPY and validate price displayed JPY "
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d34161a997a87ce2.json",
+  "parameterValues" : [ ]
+}
