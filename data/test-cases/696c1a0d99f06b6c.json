@@ -1,18 +1,18 @@
 {
-  "uid" : "7b8d157f46c2598e",
+  "uid" : "696c1a0d99f06b6c",
   "name" : "should find \"electronic\" apple-motion element",
   "fullName" : "should test search feature.should find \"electronic\" apple-motion element",
   "historyId" : "f7c3640e13d4a3ec9c3e8c93180a2d06",
   "time" : {
-    "start" : 1632328071456,
-    "stop" : 1632328171499,
-    "duration" : 100043
+    "start" : 1632741080833,
+    "stop" : 1632741181018,
+    "duration" : 100185
   },
   "description" : "find \"electronic\" apple-motion element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; apple-motion element</p>\n",
   "status" : "broken",
   "statusMessage" : "element (\"[class=\"nav-item\"]>[href*=\"apple-motion\"]\") still not displayed after 100000ms",
-  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"apple-motion\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:103:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:67:24)",
+  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"apple-motion\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:79:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:67:24)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -59,6 +59,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "7b8d157f46c2598e.json",
+  "source" : "696c1a0d99f06b6c.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

@@ -1,18 +1,18 @@
 {
-  "uid" : "3c0c86fc4d71989b",
+  "uid" : "9f2fe7ba89c9fca1",
   "name" : "should find \"electronic\" Music element",
   "fullName" : "should test search feature.should find \"electronic\" Music element",
   "historyId" : "50c1e3623b7fa20868b21173c823a011",
   "time" : {
-    "start" : 1632327671183,
-    "stop" : 1632327771230,
-    "duration" : 100047
+    "start" : 1632740679863,
+    "stop" : 1632740780077,
+    "duration" : 100214
   },
   "description" : "find \"electronic\" Music element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; Music element</p>\n",
   "status" : "broken",
   "statusMessage" : "element (\"[class=\"nav-item\"]>[href*=\"music\"]\") still not displayed after 100000ms",
-  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"music\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:103:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:27:24)",
+  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"music\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:79:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:27:24)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -59,6 +59,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "3c0c86fc4d71989b.json",
+  "source" : "9f2fe7ba89c9fca1.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

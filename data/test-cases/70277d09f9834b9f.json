@@ -1,18 +1,18 @@
 {
-  "uid" : "8d5fa882a3fb8616",
+  "uid" : "70277d09f9834b9f",
   "name" : "should find \"electronic\" after-effects element",
   "fullName" : "should test search feature.should find \"electronic\" after-effects element",
   "historyId" : "c0d57eb7fbf2c4636e5b3a8321f66091",
   "time" : {
-    "start" : 1632327871359,
-    "stop" : 1632327971410,
-    "duration" : 100051
+    "start" : 1632740880414,
+    "stop" : 1632740980620,
+    "duration" : 100206
   },
   "description" : "find \"electronic\" after-effects element",
   "descriptionHtml" : "<p>find &quot;electronic&quot; after-effects element</p>\n",
   "status" : "broken",
   "statusMessage" : "element (\"[class=\"nav-item\"]>[href*=\"after-effects\"]\") still not displayed after 100000ms",
-  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"after-effects\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:103:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:47:24)",
+  "statusTrace" : "Error: element (\"[class=\"nav-item\"]>[href*=\"after-effects\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearch (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:79:12)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:47:24)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -59,6 +59,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "8d5fa882a3fb8616.json",
+  "source" : "70277d09f9834b9f.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

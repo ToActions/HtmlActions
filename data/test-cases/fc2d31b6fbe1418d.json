@@ -1,15 +1,15 @@
 {
-  "uid" : "2da905d165806ef",
-  "name" : "should switch currency using footer dropdown",
-  "fullName" : "should test switching currency.should switch currency using footer dropdown",
-  "historyId" : "9ad11f3dd48588d6a0e9b9bc3998958d",
+  "uid" : "fc2d31b6fbe1418d",
+  "name" : "should Logout",
+  "fullName" : "should test switching currency.should Logout",
+  "historyId" : "e958facfd9f28fb5a4286e327ad0073f",
   "time" : {
-    "start" : 1632327568300,
-    "stop" : 1632327644862,
-    "duration" : 76562
+    "start" : 1632740627061,
+    "stop" : 1632740642107,
+    "duration" : 15046
   },
-  "description" : "Switch between currencies ",
-  "descriptionHtml" : "<p>Switch between currencies</p>\n",
+  "description" : "",
+  "descriptionHtml" : "",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
@@ -32,7 +32,7 @@
     "value" : "should test switching currency"
   }, {
     "name" : "testMethod",
-    "value" : "should switch currency using footer dropdown"
+    "value" : "should Logout"
   }, {
     "name" : "package",
     "value" : "should test switching currency"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2da905d165806ef.json",
+  "source" : "fc2d31b6fbe1418d.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

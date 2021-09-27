@@ -2,325 +2,195 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "should LogIn",
-    "uid" : "77853f0ae485726b",
+    "uid" : "4c929e1f338efbdd",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1632327552437,
-      "stop" : 1632327568300,
-      "duration" : 15863
+      "start" : 1632740453307,
+      "stop" : 1632740488397,
+      "duration" : 35090
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should switch currency using footer dropdown",
-    "uid" : "2da905d165806ef",
+    "uid" : "46ebe465f4b9dc47",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1632327568300,
-      "stop" : 1632327644862,
-      "duration" : 76562
+      "start" : 1632740488398,
+      "stop" : 1632740627060,
+      "duration" : 138662
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should Logout",
-    "uid" : "ced886364b36304",
+    "uid" : "fc2d31b6fbe1418d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1632327644863,
-      "stop" : 1632327650583,
-      "duration" : 5720
+      "start" : 1632740627061,
+      "stop" : 1632740642107,
+      "duration" : 15046
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should LogIn",
-    "uid" : "f1b6af24dba0586c",
+    "uid" : "5e83619c652dc58b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1632327650592,
-      "stop" : 1632327671183,
-      "duration" : 20591
+      "start" : 1632740642117,
+      "stop" : 1632740679863,
+      "duration" : 37746
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" Music element",
-    "uid" : "3c0c86fc4d71989b",
+    "uid" : "9f2fe7ba89c9fca1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632327671183,
-      "stop" : 1632327771230,
-      "duration" : 100047
+      "start" : 1632740679863,
+      "stop" : 1632740780077,
+      "duration" : 100214
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" Video element",
-    "uid" : "b9c18417520ad7b7",
+    "uid" : "177845d75c911f15",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632327771232,
-      "stop" : 1632327871355,
-      "duration" : 100123
+      "start" : 1632740780079,
+      "stop" : 1632740880412,
+      "duration" : 100333
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" after-effects element",
-    "uid" : "8d5fa882a3fb8616",
+    "uid" : "70277d09f9834b9f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632327871359,
-      "stop" : 1632327971410,
-      "duration" : 100051
+      "start" : 1632740880414,
+      "stop" : 1632740980620,
+      "duration" : 100206
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" premiere-pro element",
-    "uid" : "9db8409afcb860a1",
+    "uid" : "c2e7354002ff3403",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632327971411,
-      "stop" : 1632328071454,
-      "duration" : 100043
+      "start" : 1632740980622,
+      "stop" : 1632741080831,
+      "duration" : 100209
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" apple-motion element",
-    "uid" : "7b8d157f46c2598e",
+    "uid" : "696c1a0d99f06b6c",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632328071456,
-      "stop" : 1632328171499,
-      "duration" : 100043
+      "start" : 1632741080833,
+      "stop" : 1632741181018,
+      "duration" : 100185
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" resolve element",
-    "uid" : "372172ed03489664",
+    "uid" : "cfeb2c6d8da9f3f0",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632328171500,
-      "stop" : 1632328271543,
-      "duration" : 100043
+      "start" : 1632741181020,
+      "stop" : 1632741281236,
+      "duration" : 100216
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" Image element",
-    "uid" : "1ef5c7fc167276c3",
+    "uid" : "48abc6ea6c358e14",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632328271544,
-      "stop" : 1632328371589,
-      "duration" : 100045
+      "start" : 1632741281238,
+      "stop" : 1632741381440,
+      "duration" : 100202
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" Sound-effects element",
-    "uid" : "1d89925eb59c941f",
+    "uid" : "3dca5e4cd0eda398",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632328371590,
-      "stop" : 1632328471644,
-      "duration" : 100054
+      "start" : 1632741381442,
+      "stop" : 1632741481705,
+      "duration" : 100263
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" 3D element",
-    "uid" : "4f9b6573c4de0635",
+    "uid" : "38a969f6b6edadfa",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632328471645,
-      "stop" : 1632328571683,
-      "duration" : 100038
+      "start" : 1632741481707,
+      "stop" : 1632741581885,
+      "duration" : 100178
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should find \"electronic\" Lottie element",
-    "uid" : "cb453dd0e48fac45",
+    "uid" : "12cc42f48cb55e3a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1632328571685,
-      "stop" : 1632328671743,
-      "duration" : 100058
+      "start" : 1632741581887,
+      "stop" : 1632741682064,
+      "duration" : 100177
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chrome-93.0.4577.63" ]
   }, {
     "name" : "should Logout",
-    "uid" : "8922297017a16242",
+    "uid" : "f28120d8d983d061",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1632328671744,
-      "stop" : 1632328674509,
-      "duration" : 2765
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should LogIn",
-    "uid" : "3eb5a7adbc603aa6",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328674521,
-      "stop" : 1632328685351,
-      "duration" : 10830
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should navigate to users subscription page",
-    "uid" : "8d198d648961b6fb",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328685351,
-      "stop" : 1632328696224,
-      "duration" : 10873
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should navigate to subscription plan page",
-    "uid" : "2d69215eb521b868",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328696225,
-      "stop" : 1632328706452,
-      "duration" : 10227
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should switch currency to KRW and validate price displayed KRW ",
-    "uid" : "3ef27234d5a91f53",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "skipped",
-    "time" : {
-      "start" : 1632328706453,
-      "stop" : 1632328706453,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "should switch currency to USD and navigate to the payment page ",
-    "uid" : "aa89d4b223c80a0e",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328706453,
-      "stop" : 1632328733638,
-      "duration" : 27185
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should switch currency to JPY and validate price displayed JPY ",
-    "uid" : "d34161a997a87ce2",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "skipped",
-    "time" : {
-      "start" : 1632328706453,
-      "stop" : 1632328706453,
-      "duration" : 0
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "should leave empty fields and check required fields ",
-    "uid" : "fe2880e01a232446",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328733638,
-      "stop" : 1632328734202,
-      "duration" : 564
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should enter expired date and validate error message",
-    "uid" : "59eb4f6eb848d8cb",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328734202,
-      "stop" : 1632328737285,
-      "duration" : 3083
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should fill fields and valid card data",
-    "uid" : "47880e5c79003030",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328737286,
-      "stop" : 1632328748780,
-      "duration" : 11494
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chrome-93.0.4577.63" ]
-  }, {
-    "name" : "should Logout",
-    "uid" : "6740d1edac098404",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1632328748780,
-      "stop" : 1632328751334,
-      "duration" : 2554
+      "start" : 1632741682065,
+      "stop" : 1632741691448,
+      "duration" : 9383
     },
     "flaky" : false,
     "newFailed" : false,

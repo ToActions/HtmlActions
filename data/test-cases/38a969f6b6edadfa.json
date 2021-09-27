@@ -1,18 +1,18 @@
 {
-  "uid" : "cb453dd0e48fac45",
-  "name" : "should find \"electronic\" Lottie element",
-  "fullName" : "should test search feature.should find \"electronic\" Lottie element",
-  "historyId" : "a1fc30a609be427fbd6a1259470fed59",
+  "uid" : "38a969f6b6edadfa",
+  "name" : "should find \"electronic\" 3D element",
+  "fullName" : "should test search feature.should find \"electronic\" 3D element",
+  "historyId" : "66efa8286e923fe9780d10beeb84aa30",
   "time" : {
-    "start" : 1632328571685,
-    "stop" : 1632328671743,
-    "duration" : 100058
+    "start" : 1632741481707,
+    "stop" : 1632741581885,
+    "duration" : 100178
   },
-  "description" : "find \"electronic\" Lottie element",
-  "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
+  "description" : "find \"electronic\" 3D element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; 3D element</p>\n",
   "status" : "broken",
   "statusMessage" : "Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found",
-  "statusTrace" : "Error: Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:108:23)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:122:24)",
+  "statusTrace" : "Error: Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:84:23)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:111:24)",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ ],
@@ -34,7 +34,7 @@
     "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should find \"electronic\" Lottie element"
+    "value" : "should find \"electronic\" 3D element"
   }, {
     "name" : "package",
     "value" : "should test search feature"
@@ -59,6 +59,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "cb453dd0e48fac45.json",
+  "source" : "38a969f6b6edadfa.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

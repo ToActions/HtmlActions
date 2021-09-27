@@ -1,12 +1,12 @@
 {
-  "uid" : "47880e5c79003030",
-  "name" : "should fill fields and valid card data",
-  "fullName" : "Buyer should Buy subscription.should fill fields and valid card data",
-  "historyId" : "6c0a111a1a2c21a2381a85ec2576cd10",
+  "uid" : "5e83619c652dc58b",
+  "name" : "should LogIn",
+  "fullName" : "should test search feature.should LogIn",
+  "historyId" : "98dd54f9ffb50bdb08d00bbfe0b307c7",
   "time" : {
-    "start" : 1632328737286,
-    "stop" : 1632328748780,
-    "duration" : 11494
+    "start" : 1632740642117,
+    "stop" : 1632740679863,
+    "duration" : 37746
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -26,16 +26,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "Buyer should Buy subscription"
+    "value" : "should test search feature"
   }, {
     "name" : "testClass",
-    "value" : "Buyer should Buy subscription"
+    "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should fill fields and valid card data"
+    "value" : "should LogIn"
   }, {
     "name" : "package",
-    "value" : "Buyer should Buy subscription"
+    "value" : "should test search feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "47880e5c79003030.json",
+  "source" : "5e83619c652dc58b.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }

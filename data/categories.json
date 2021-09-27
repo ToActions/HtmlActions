@@ -6,13 +6,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"music\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" Music element",
-        "uid" : "3c0c86fc4d71989b",
+        "uid" : "9f2fe7ba89c9fca1",
         "parentUid" : "e3efd3957c874b71b3ca80062aaf4b8d",
         "status" : "broken",
         "time" : {
-          "start" : 1632327671183,
-          "stop" : 1632327771230,
-          "duration" : 100047
+          "start" : 1632740679863,
+          "stop" : 1632740780077,
+          "duration" : 100214
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"video\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" Video element",
-        "uid" : "b9c18417520ad7b7",
+        "uid" : "177845d75c911f15",
         "parentUid" : "63d75c99972ff554f7680222c2041003",
         "status" : "broken",
         "time" : {
-          "start" : 1632327771232,
-          "stop" : 1632327871355,
-          "duration" : 100123
+          "start" : 1632740780079,
+          "stop" : 1632740880412,
+          "duration" : 100333
         },
         "flaky" : false,
         "newFailed" : false,
@@ -40,13 +40,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"after-effects\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" after-effects element",
-        "uid" : "8d5fa882a3fb8616",
+        "uid" : "70277d09f9834b9f",
         "parentUid" : "bc28903def6b2a2de0f1c6bafc83c623",
         "status" : "broken",
         "time" : {
-          "start" : 1632327871359,
-          "stop" : 1632327971410,
-          "duration" : 100051
+          "start" : 1632740880414,
+          "stop" : 1632740980620,
+          "duration" : 100206
         },
         "flaky" : false,
         "newFailed" : false,
@@ -57,13 +57,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"premiere-pro\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" premiere-pro element",
-        "uid" : "9db8409afcb860a1",
+        "uid" : "c2e7354002ff3403",
         "parentUid" : "f43e5227418127071a8b247fff0572ad",
         "status" : "broken",
         "time" : {
-          "start" : 1632327971411,
-          "stop" : 1632328071454,
-          "duration" : 100043
+          "start" : 1632740980622,
+          "stop" : 1632741080831,
+          "duration" : 100209
         },
         "flaky" : false,
         "newFailed" : false,
@@ -74,13 +74,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"apple-motion\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" apple-motion element",
-        "uid" : "7b8d157f46c2598e",
+        "uid" : "696c1a0d99f06b6c",
         "parentUid" : "0bb76d9c38a79c753599c6d071794f87",
         "status" : "broken",
         "time" : {
-          "start" : 1632328071456,
-          "stop" : 1632328171499,
-          "duration" : 100043
+          "start" : 1632741080833,
+          "stop" : 1632741181018,
+          "duration" : 100185
         },
         "flaky" : false,
         "newFailed" : false,
@@ -91,13 +91,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"resolve\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" resolve element",
-        "uid" : "372172ed03489664",
+        "uid" : "cfeb2c6d8da9f3f0",
         "parentUid" : "6b5d9cb3c4b4c1a27f3a2564d0d0d028",
         "status" : "broken",
         "time" : {
-          "start" : 1632328171500,
-          "stop" : 1632328271543,
-          "duration" : 100043
+          "start" : 1632741181020,
+          "stop" : 1632741281236,
+          "duration" : 100216
         },
         "flaky" : false,
         "newFailed" : false,
@@ -108,13 +108,13 @@
       "name" : "element (\"[class=\"nav-item\"]>[href*=\"image\"]\") still not displayed after 100000ms",
       "children" : [ {
         "name" : "should find \"electronic\" Image element",
-        "uid" : "1ef5c7fc167276c3",
+        "uid" : "48abc6ea6c358e14",
         "parentUid" : "12f4fced11604c64cd92e505b70a73e9",
         "status" : "broken",
         "time" : {
-          "start" : 1632328271544,
-          "stop" : 1632328371589,
-          "duration" : 100045
+          "start" : 1632741281238,
+          "stop" : 1632741381440,
+          "duration" : 100202
         },
         "flaky" : false,
         "newFailed" : false,
@@ -125,39 +125,39 @@
       "name" : "Can't call moveTo on element with selector \"#navbar-more\" because element wasn't found",
       "children" : [ {
         "name" : "should find \"electronic\" Sound-effects element",
-        "uid" : "1d89925eb59c941f",
+        "uid" : "3dca5e4cd0eda398",
         "parentUid" : "7f11493ae5261b3f8df1fa33c586197b",
         "status" : "broken",
         "time" : {
-          "start" : 1632328371590,
-          "stop" : 1632328471644,
-          "duration" : 100054
+          "start" : 1632741381442,
+          "stop" : 1632741481705,
+          "duration" : 100263
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome-93.0.4577.63" ]
       }, {
         "name" : "should find \"electronic\" 3D element",
-        "uid" : "4f9b6573c4de0635",
+        "uid" : "38a969f6b6edadfa",
         "parentUid" : "7f11493ae5261b3f8df1fa33c586197b",
         "status" : "broken",
         "time" : {
-          "start" : 1632328471645,
-          "stop" : 1632328571683,
-          "duration" : 100038
+          "start" : 1632741481707,
+          "stop" : 1632741581885,
+          "duration" : 100178
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome-93.0.4577.63" ]
       }, {
         "name" : "should find \"electronic\" Lottie element",
-        "uid" : "cb453dd0e48fac45",
+        "uid" : "12cc42f48cb55e3a",
         "parentUid" : "7f11493ae5261b3f8df1fa33c586197b",
         "status" : "broken",
         "time" : {
-          "start" : 1632328571685,
-          "stop" : 1632328671743,
-          "duration" : 100058
+          "start" : 1632741581887,
+          "stop" : 1632741682064,
+          "duration" : 100177
         },
         "flaky" : false,
         "newFailed" : false,

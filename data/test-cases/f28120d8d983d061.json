@@ -1,12 +1,12 @@
 {
-  "uid" : "aa89d4b223c80a0e",
-  "name" : "should switch currency to USD and navigate to the payment page ",
-  "fullName" : "Buyer should Buy subscription.should switch currency to USD and navigate to the payment page ",
-  "historyId" : "b7b86440a81178851fc5ea10ffd76a13",
+  "uid" : "f28120d8d983d061",
+  "name" : "should Logout",
+  "fullName" : "should test search feature.should Logout",
+  "historyId" : "3fd4c3a7b8b25bc1486b30152c8aaa7e",
   "time" : {
-    "start" : 1632328706453,
-    "stop" : 1632328733638,
-    "duration" : 27185
+    "start" : 1632741682065,
+    "stop" : 1632741691448,
+    "duration" : 9383
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -26,16 +26,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "Buyer should Buy subscription"
+    "value" : "should test search feature"
   }, {
     "name" : "testClass",
-    "value" : "Buyer should Buy subscription"
+    "value" : "should test search feature"
   }, {
     "name" : "testMethod",
-    "value" : "should switch currency to USD and navigate to the payment page "
+    "value" : "should Logout"
   }, {
     "name" : "package",
-    "value" : "Buyer should Buy subscription"
+    "value" : "should test search feature"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -53,6 +53,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "aa89d4b223c80a0e.json",
+  "source" : "f28120d8d983d061.json",
   "parameterValues" : [ "chrome-93.0.4577.63" ]
 }
