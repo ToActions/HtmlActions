@@ -1,0 +1,64 @@
+{
+  "uid" : "52173092a974a64c",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency to EUR using footer dropdown",
+  "historyId" : "33b0e03d9b3de112b77e142fa5b4001e",
+  "time" : {
+    "start" : 1632747950225,
+    "stop" : 1632748054726,
+    "duration" : 104501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"#currency>[value*=\"EUR\"]\") still not displayed after 100000ms",
+  "statusTrace" : "Error: element (\"#currency>[value*=\"EUR\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Footer.switchCurrency (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Footer.js:17:18)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:36:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to EUR using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "52173092a974a64c.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

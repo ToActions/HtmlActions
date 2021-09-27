@@ -1,0 +1,64 @@
+{
+  "uid" : "4ab95e2d61990fef",
+  "name" : "Buy a subscription with a card expiring this month",
+  "fullName" : "Buyer should save expiring card.Buy a subscription with a card expiring this month",
+  "historyId" : "de53ea3834b38cf32e8bfa4d7203cf99",
+  "time" : {
+    "start" : 1632749666159,
+    "stop" : 1632749711249,
+    "duration" : 45090
+  },
+  "description" : "Buy a subscription with a card expiring this month ",
+  "descriptionHtml" : "<p>Buy a subscription with a card expiring this month</p>\n",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'isDisplayed' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'isDisplayed' of undefined\n                    at Page.isElementByIndexDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:41:54)\n                    at SubscriptionPage.validateSubscrSuccess (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Subscription.page.js:166:28)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/UpdateExpiringCard.spec.js:47:41)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testMethod",
+    "value" : "Buy a subscription with a card expiring this month"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4ab95e2d61990fef.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

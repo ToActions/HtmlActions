@@ -1,0 +1,58 @@
+{
+  "uid" : "e51e013eda132dfa",
+  "name" : "should navigate to Log-in page",
+  "fullName" : "should test Login/Logout.should navigate to Log-in page",
+  "historyId" : "62b5518346822bfb8a0cba900c5e0c9a",
+  "time" : {
+    "start" : 1632748393373,
+    "stop" : 1632748411816,
+    "duration" : 18443
+  },
+  "description" : "Navigate to Login page and validate Login Page elements ",
+  "descriptionHtml" : "<p>Navigate to Login page and validate Login Page elements</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to Log-in page"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e51e013eda132dfa.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "d2837c734103b2ce",
+  "name" : "should find \"electronic\" 3D element",
+  "fullName" : "should test search feature.should find \"electronic\" 3D element",
+  "historyId" : "beef2e5a6b4dd03b9eaef723d46cef28",
+  "time" : {
+    "start" : 1632749521394,
+    "stop" : 1632749521838,
+    "duration" : 444
+  },
+  "description" : "find \"electronic\" 3D element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; 3D element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "Element <a id=\"mega-menu-trigger\" class=\"nav-link\" href=\"#\"> could not be scrolled into view",
+  "statusTrace" : "WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:181:5\n                ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.jsm:291:5\n                webdriverClickElement@chrome://remote/content/marionette/interaction.js:156:11\n                interaction.clickElement@chrome://remote/content/marionette/interaction.js:125:11\n                clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:200:24\n                receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:91:31\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:112:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" 3D element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d2837c734103b2ce.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

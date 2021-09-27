@@ -1,0 +1,58 @@
+{
+  "uid" : "3d26aee75665cbb9",
+  "name" : "should switch currency to USD using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency to USD using footer dropdown",
+  "historyId" : "72f99c3c3e28cbdf76774235682ea9a8",
+  "time" : {
+    "start" : 1632748367906,
+    "stop" : 1632748387253,
+    "duration" : 19347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to USD using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d26aee75665cbb9.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

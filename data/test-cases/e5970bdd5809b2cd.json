@@ -1,0 +1,64 @@
+{
+  "uid" : "e5970bdd5809b2cd",
+  "name" : "should navigate to Log-in page",
+  "fullName" : "should test Login/Logout.should navigate to Log-in page",
+  "historyId" : "4ca16b1c5f4d31cd1e1de769b7e639b4",
+  "time" : {
+    "start" : 1632751084182,
+    "stop" : 1632751156546,
+    "duration" : 72364
+  },
+  "description" : "Navigate to Login page and validate Login Page elements ",
+  "descriptionHtml" : "<p>Navigate to Login page and validate Login Page elements</p>\n",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:45:17)\n                    at Header.clickLoginButton (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:63:14)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/LoginPageTests.spec.js:27:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to Log-in page"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e5970bdd5809b2cd.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

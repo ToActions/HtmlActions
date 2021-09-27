@@ -1,0 +1,58 @@
+{
+  "uid" : "e21a88b33c06dcee",
+  "name" : "should check show/hide password btn",
+  "fullName" : "should test Login/Logout.should check show/hide password btn",
+  "historyId" : "5917519cc7ddcdd22edc1b52805bf697",
+  "time" : {
+    "start" : 1632748513177,
+    "stop" : 1632748517724,
+    "duration" : 4547
+  },
+  "description" : "Check show/hide password btn",
+  "descriptionHtml" : "<p>Check show/hide password btn</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check show/hide password btn"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e21a88b33c06dcee.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

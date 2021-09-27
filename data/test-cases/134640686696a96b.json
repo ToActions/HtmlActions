@@ -1,0 +1,64 @@
+{
+  "uid" : "134640686696a96b",
+  "name" : "should check required fields",
+  "fullName" : "should test Login/Logout.should check required fields",
+  "historyId" : "c05b66596ae4bb5d68e33dc95363bafa",
+  "time" : {
+    "start" : 1632751227610,
+    "stop" : 1632751287618,
+    "duration" : 60008
+  },
+  "description" : "Check required fields ",
+  "descriptionHtml" : "<p>Check required fields</p>\n",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:45:17)\n                    at Page.clearValueByBackspace (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:265:14)\n                    at LogInPage.validateRequiredField (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/LogIn.page.js:89:14)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/LoginPageTests.spec.js:46:42)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check required fields"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "134640686696a96b.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

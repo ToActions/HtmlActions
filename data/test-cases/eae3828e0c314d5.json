@@ -1,0 +1,64 @@
+{
+  "uid" : "eae3828e0c314d5",
+  "name" : "should LogIn",
+  "fullName" : "Buyer should Buy subscription.should LogIn",
+  "historyId" : "acb680b14e1c14220681d28f3a99dcb6",
+  "time" : {
+    "start" : 1632747117892,
+    "stop" : 1632747191677,
+    "duration" : 73785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilClickable (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:25:17)\n                    at Page.click (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:117:14)\n                    at HelperQA.clearSubscrSPayMethods (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/HelperQA.page.js:94:18)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/payForSubscription.spec.js:30:30)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should LogIn"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "eae3828e0c314d5.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

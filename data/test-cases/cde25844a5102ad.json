@@ -1,0 +1,58 @@
+{
+  "uid" : "cde25844a5102ad",
+  "name" : "should Logout",
+  "fullName" : "Buyer should save expiring card.should Logout",
+  "historyId" : "2501a8146cf025bb51461cca07661f8e",
+  "time" : {
+    "start" : 1632748814631,
+    "stop" : 1632748820753,
+    "duration" : 6122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Logout"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cde25844a5102ad.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

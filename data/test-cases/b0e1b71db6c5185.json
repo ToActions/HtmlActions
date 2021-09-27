@@ -1,0 +1,64 @@
+{
+  "uid" : "b0e1b71db6c5185",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "fullName" : "should test search feature.should find \"electronic\" Sound-effects element",
+  "historyId" : "9ccfbd93d40bd4e859534cbdbf47fb03",
+  "time" : {
+    "start" : 1632751473204,
+    "stop" : 1632751473683,
+    "duration" : 479
+  },
+  "description" : "find \"electronic\" Sound-effects element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Sound-effects element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "unknown error",
+  "statusTrace" : "element not interactable: unknown error\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:101:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" Sound-effects element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b0e1b71db6c5185.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

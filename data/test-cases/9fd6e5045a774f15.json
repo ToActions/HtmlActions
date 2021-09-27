@@ -1,0 +1,58 @@
+{
+  "uid" : "9fd6e5045a774f15",
+  "name" : "should Logout",
+  "fullName" : "should test switching currency.should Logout",
+  "historyId" : "70a633ef0a471044f27b56aa99bb0402",
+  "time" : {
+    "start" : 1632751083031,
+    "stop" : 1632751084169,
+    "duration" : 1138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Logout"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fd6e5045a774f15.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

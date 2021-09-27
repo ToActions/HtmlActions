@@ -1,0 +1,58 @@
+{
+  "uid" : "a36819c2606f109e",
+  "name" : "should check required fields",
+  "fullName" : "should test Login/Logout.should check required fields",
+  "historyId" : "5cdd2aa1003db5e81a28494e53d00b3",
+  "time" : {
+    "start" : 1632748493294,
+    "stop" : 1632748513175,
+    "duration" : 19881
+  },
+  "description" : "Check required fields ",
+  "descriptionHtml" : "<p>Check required fields</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check required fields"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a36819c2606f109e.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

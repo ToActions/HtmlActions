@@ -1,411 +1,1641 @@
 [ {
-  "uid" : "d689ba29d0ac0ba1",
-  "name" : "should validate Localisation",
-  "time" : {
-    "start" : 1632743682597,
-    "stop" : 1632743772174,
-    "duration" : 89577
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6f26b785f793d236",
-  "name" : "should switch currency to USD and navigate to the payment page ",
-  "time" : {
-    "start" : 1632743434943,
-    "stop" : 1632743477336,
-    "duration" : 42393
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "73529b00492af40a",
+  "uid" : "20778f862c1224e0",
   "name" : "should navigate to subscription plan page",
   "time" : {
-    "start" : 1632743387542,
-    "stop" : 1632743401790,
-    "duration" : 14248
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5d4b32157536f7b9",
-  "name" : "should find \"electronic\" Image element",
-  "time" : {
-    "start" : 1632743919755,
-    "stop" : 1632743920362,
-    "duration" : 607
+    "start" : 1632747209075,
+    "stop" : 1632747269084,
+    "duration" : 60009
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "557bb769623c5c",
-  "name" : "should switch currency to KRW and validate price displayed KRW ",
+  "uid" : "2e13d53298493d36",
+  "name" : "should find \"electronic\" after-effects element",
   "time" : {
-    "start" : 1632743418249,
-    "stop" : 1632743434943,
-    "duration" : 16694
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e940641d93319bb2",
-  "name" : "should switch currency to TWD using footer dropdown",
-  "time" : {
-    "start" : 1632743612494,
-    "stop" : 1632743633763,
-    "duration" : 21269
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4856f46985bd1bf4",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632744229834,
-    "stop" : 1632744236556,
-    "duration" : 6722
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4e337291fc480e2b",
-  "name" : "should find \"electronic\" premiere-pro element",
-  "time" : {
-    "start" : 1632743917787,
-    "stop" : 1632743918452,
-    "duration" : 665
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "5343125fb104b471",
-  "name" : "should fill fields and valid card data",
-  "time" : {
-    "start" : 1632743483362,
-    "stop" : 1632743499589,
-    "duration" : 16227
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "779697638f2633d2",
-  "name" : "should find \"electronic\" 3D element",
-  "time" : {
-    "start" : 1632743920923,
-    "stop" : 1632743921549,
-    "duration" : 626
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "ed5ce7fbf2d6b0b7",
-  "name" : "should enter expired date and validate error message",
-  "time" : {
-    "start" : 1632743478669,
-    "stop" : 1632743483361,
-    "duration" : 4692
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "69d8c28c9c102b2c",
-  "name" : "should switch currency to JPY and validate price displayed JPY ",
-  "time" : {
-    "start" : 1632743401790,
-    "stop" : 1632743418248,
-    "duration" : 16458
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6d612450b6a1c6de",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632743922124,
-    "stop" : 1632743985852,
-    "duration" : 63728
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "92b2b3a3bb08d7b0",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1632743290748,
-    "stop" : 1632743367998,
-    "duration" : 77250
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "3be32f0d997c70a0",
-  "name" : "should check required fields",
-  "time" : {
-    "start" : 1632743772174,
-    "stop" : 1632743806968,
-    "duration" : 34794
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1e69e16d654305ae",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1632743900392,
-    "stop" : 1632743916030,
-    "duration" : 15638
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "24829547c931e429",
-  "name" : "should navigate to Log-in page",
-  "time" : {
-    "start" : 1632743662840,
-    "stop" : 1632743682597,
-    "duration" : 19757
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7d0d8d3d93c25c11",
-  "name" : "should switch currency to JPY using footer dropdown",
-  "time" : {
-    "start" : 1632743568352,
-    "stop" : 1632743589610,
-    "duration" : 21258
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3344a19cf14d3565",
-  "name" : "should find \"electronic\" Music element",
-  "time" : {
-    "start" : 1632743916031,
-    "stop" : 1632743916604,
-    "duration" : 573
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "3197d20479c77f1d",
-  "name" : "should switch currency to EUR using footer dropdown",
-  "time" : {
-    "start" : 1632743546589,
-    "stop" : 1632743568351,
-    "duration" : 21762
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bd0f69d81f739276",
-  "name" : "should leave empty fields and check required fields ",
-  "time" : {
-    "start" : 1632743477337,
-    "stop" : 1632743478668,
-    "duration" : 1331
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5a84942d05941de0",
-  "name" : "should login with valid credentials",
-  "time" : {
-    "start" : 1632743874464,
-    "stop" : 1632743888391,
-    "duration" : 13927
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4ebab0e18b72cfb8",
-  "name" : "should find \"electronic\" Sound-effects element",
-  "time" : {
-    "start" : 1632743920363,
-    "stop" : 1632743920923,
+    "start" : 1632749518262,
+    "stop" : 1632749518822,
     "duration" : 560
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "1b90dba10454ee7b",
-  "name" : "should find \"electronic\" resolve element",
-  "time" : {
-    "start" : 1632743919126,
-    "stop" : 1632743919755,
-    "duration" : 629
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "9dc6367baeca5984",
-  "name" : "should check show/hide password btn",
-  "time" : {
-    "start" : 1632743806969,
-    "stop" : 1632743816054,
-    "duration" : 9085
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2f75480e1b030f26",
-  "name" : "should switch currency to KRW using footer dropdown",
-  "time" : {
-    "start" : 1632743589611,
-    "stop" : 1632743612493,
-    "duration" : 22882
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "904d0ee907f32fc5",
-  "name" : "Buy a subscription with a card expiring this month",
-  "time" : {
-    "start" : 1632744064177,
-    "stop" : 1632744177475,
-    "duration" : 113298
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "4d67edbd14c04ba5",
-  "name" : "should navigate to users subscription page",
-  "time" : {
-    "start" : 1632743368000,
-    "stop" : 1632743387542,
-    "duration" : 19542
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6e7b7260ef3c7efa",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632743888392,
-    "stop" : 1632743900368,
-    "duration" : 11976
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "765771117fd7bba1",
-  "name" : "should login with NOT valid credentials",
-  "time" : {
-    "start" : 1632743816055,
-    "stop" : 1632743874461,
-    "duration" : 58406
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a1ff57652246ff14",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632743499590,
-    "stop" : 1632743507779,
-    "duration" : 8189
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6814643852b0513b",
-  "name" : "should LogIn without subscription",
-  "time" : {
-    "start" : 1632743985867,
-    "stop" : 1632744064176,
-    "duration" : 78309
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "61c9adf801030cdf",
-  "name" : "should switch currency using footer dropdown",
-  "time" : {
-    "start" : 1632743534543,
-    "stop" : 1632743546589,
-    "duration" : 12046
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f98034ae28437be3",
-  "name" : "should find \"electronic\" apple-motion element",
-  "time" : {
-    "start" : 1632743918452,
-    "stop" : 1632743919126,
-    "duration" : 674
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "2f0206ab2d2a231a",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632743655840,
-    "stop" : 1632743662827,
-    "duration" : 6987
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "828874349512eaa6",
+  "uid" : "edcc14920798e70",
   "name" : "should find \"electronic\" Lottie element",
   "time" : {
-    "start" : 1632743921550,
-    "stop" : 1632743922113,
+    "start" : 1632748590360,
+    "stop" : 1632748590516,
+    "duration" : 156
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "16404ad588c28e3c",
+  "name" : "should switch currency to USD using footer dropdown",
+  "time" : {
+    "start" : 1632751061703,
+    "stop" : 1632751083031,
+    "duration" : 21328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c0478dfa1c6b365",
+  "name" : "Buy a subscription with a card expiring this month",
+  "time" : {
+    "start" : 1632748727043,
+    "stop" : 1632748762842,
+    "duration" : 35799
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "661fed2937727925",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632749783246,
+    "stop" : 1632749884698,
+    "duration" : 101452
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cc0d6683b6cd7f59",
+  "name" : "should find \"electronic\" after-effects element",
+  "time" : {
+    "start" : 1632748589091,
+    "stop" : 1632748589263,
+    "duration" : 172
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d1fa4062d28c79e",
+  "name" : "should switch currency using footer dropdown",
+  "time" : {
+    "start" : 1632746011890,
+    "stop" : 1632746027620,
+    "duration" : 15730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0e1b71db6c5185",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "time" : {
+    "start" : 1632751473204,
+    "stop" : 1632751473683,
+    "duration" : 479
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef64aac2681c4589",
+  "name" : "should fill fields and valid card data",
+  "time" : {
+    "start" : 1632745799569,
+    "stop" : 1632745859576,
+    "duration" : 60007
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ff997ebc559f13dd",
+  "name" : "should switch currency to KRW using footer dropdown",
+  "time" : {
+    "start" : 1632748159070,
+    "stop" : 1632748263505,
+    "duration" : 104435
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8c5bd38cbe289062",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1632746703691,
+    "stop" : 1632746720332,
+    "duration" : 16641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9914a491a789f74",
+  "name" : "should switch currency to KRW and validate price displayed KRW ",
+  "time" : {
+    "start" : 1632747373502,
+    "stop" : 1632747477816,
+    "duration" : 104314
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "50b7775c01afb601",
+  "name" : "should find \"electronic\" resolve element",
+  "time" : {
+    "start" : 1632748589603,
+    "stop" : 1632748589780,
+    "duration" : 177
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b29804a8ce1521c7",
+  "name" : "should find \"electronic\" Lottie element",
+  "time" : {
+    "start" : 1632746776047,
+    "stop" : 1632746776869,
+    "duration" : 822
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "862aee3f9ea51aa5",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632751439877,
+    "stop" : 1632751446291,
+    "duration" : 6414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d781ae98e8ba7026",
+  "name" : "should switch currency to JPY using footer dropdown",
+  "time" : {
+    "start" : 1632750747054,
+    "stop" : 1632750852042,
+    "duration" : 104988
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e8fff45c019e8a2a",
+  "name" : "should navigate to users subscription page",
+  "time" : {
+    "start" : 1632749884700,
+    "stop" : 1632749903724,
+    "duration" : 19024
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f60f1b96fae0e82a",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632746776872,
+    "stop" : 1632746844693,
+    "duration" : 67821
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bc782197f0800a5b",
+  "name" : "should switch currency to USD and navigate to the payment page ",
+  "time" : {
+    "start" : 1632745593111,
+    "stop" : 1632745679382,
+    "duration" : 86271
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "edd95115127bb054",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632751446305,
+    "stop" : 1632751469558,
+    "duration" : 23253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7accff74eb4cac82",
+  "name" : "should check required fields",
+  "time" : {
+    "start" : 1632749365350,
+    "stop" : 1632749408882,
+    "duration" : 43532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b948686e2a4fe043",
+  "name" : "should navigate to users subscription page",
+  "time" : {
+    "start" : 1632745344880,
+    "stop" : 1632745364571,
+    "duration" : 19691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75e37d0de203e590",
+  "name" : "should find \"electronic\" Video element",
+  "time" : {
+    "start" : 1632746759544,
+    "stop" : 1632746761142,
+    "duration" : 1598
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "97269d6a9d962343",
+  "name" : "Buy a subscription with a card expiring in 5 month",
+  "time" : {
+    "start" : 1632748762843,
+    "stop" : 1632748814628,
+    "duration" : 51785
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b83fa565d535258a",
+  "name" : "should find \"electronic\" Lottie element",
+  "time" : {
+    "start" : 1632751474152,
+    "stop" : 1632751474632,
+    "duration" : 480
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "134640686696a96b",
+  "name" : "should check required fields",
+  "time" : {
+    "start" : 1632751227610,
+    "stop" : 1632751287618,
+    "duration" : 60008
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bba98d2c62e1d06",
+  "name" : "should find \"electronic\" Video element",
+  "time" : {
+    "start" : 1632749517851,
+    "stop" : 1632749518262,
+    "duration" : 411
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7bbaf3a7c5178113",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1632751469558,
+    "stop" : 1632751470078,
+    "duration" : 520
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "de02578322a43991",
+  "name" : "should login with NOT valid credentials",
+  "time" : {
+    "start" : 1632751337628,
+    "stop" : 1632751388525,
+    "duration" : 50897
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "45cce5393c379441",
+  "name" : "should check required fields",
+  "time" : {
+    "start" : 1632746605040,
+    "stop" : 1632746644781,
+    "duration" : 39741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62921845b32745e6",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632745256931,
+    "stop" : 1632745344878,
+    "duration" : 87947
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "95ef05e7d3715dba",
+  "name" : "should find \"electronic\" after-effects element",
+  "time" : {
+    "start" : 1632746761142,
+    "stop" : 1632746763115,
+    "duration" : 1973
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fab857a39c946ab7",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632749484432,
+    "stop" : 1632749499080,
+    "duration" : 14648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "573703409c07e368",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632749499095,
+    "stop" : 1632749517394,
+    "duration" : 18299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "122206f4460585",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632749063352,
+    "stop" : 1632749073194,
+    "duration" : 9842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6f89fc9317f5722",
+  "name" : "should enter expired date and validate error message",
+  "time" : {
+    "start" : 1632750359987,
+    "stop" : 1632750420243,
+    "duration" : 60256
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "336f922d4b638c4e",
+  "name" : "should switch currency to TWD using footer dropdown",
+  "time" : {
+    "start" : 1632746343157,
+    "stop" : 1632746447815,
+    "duration" : 104658
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "234ab4b3dc9a3aa",
+  "name" : "should fill fields and valid card data",
+  "time" : {
+    "start" : 1632749039934,
+    "stop" : 1632749063352,
+    "duration" : 23418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81ddc1eaa3800d12",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "time" : {
+    "start" : 1632749118493,
+    "stop" : 1632749140430,
+    "duration" : 21937
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b4a09a7f3b6c694",
+  "name" : "should switch currency using footer dropdown",
+  "time" : {
+    "start" : 1632749104511,
+    "stop" : 1632749118493,
+    "duration" : 13982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e339e16c54c7d720",
+  "name" : "should switch currency to KRW and validate price displayed KRW ",
+  "time" : {
+    "start" : 1632748971169,
+    "stop" : 1632748988093,
+    "duration" : 16924
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f673e462bbfb4d1",
+  "name" : "should leave empty fields and check required fields ",
+  "time" : {
+    "start" : 1632750299979,
+    "stop" : 1632750359985,
+    "duration" : 60006
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "abac32ef7e66f69c",
+  "name" : "should find \"electronic\" 3D element",
+  "time" : {
+    "start" : 1632748590155,
+    "stop" : 1632748590360,
+    "duration" : 205
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "68aadfc0e6cf640d",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632747097708,
+    "stop" : 1632747108027,
+    "duration" : 10319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94e6d28967b91536",
+  "name" : "should enter expired date and validate error message",
+  "time" : {
+    "start" : 1632745739393,
+    "stop" : 1632745799568,
+    "duration" : 60175
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ec8f7d944e558c62",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632751710771,
+    "stop" : 1632751711821,
+    "duration" : 1050
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8315b489c2ecfb97",
+  "name" : "should switch currency to KRW using footer dropdown",
+  "time" : {
+    "start" : 1632749162741,
+    "stop" : 1632749185066,
+    "duration" : 22325
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83a0611eb7a99588",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1632748589430,
+    "stop" : 1632748589602,
+    "duration" : 172
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b8ae24df3c9725ba",
+  "name" : "should find \"electronic\" 3D element",
+  "time" : {
+    "start" : 1632751473684,
+    "stop" : 1632751474151,
+    "duration" : 467
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9973be63eff0fa37",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632747782053,
+    "stop" : 1632747882062,
+    "duration" : 100009
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a110de673cbca63f",
+  "name" : "should switch currency to USD using footer dropdown",
+  "time" : {
+    "start" : 1632746447817,
+    "stop" : 1632746468412,
+    "duration" : 20595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30c90fa08ed7123a",
+  "name" : "Buy a subscription with a card expiring in 5 month",
+  "time" : {
+    "start" : 1632751659622,
+    "stop" : 1632751710769,
+    "duration" : 51147
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "381b86c1e4e60232",
+  "name" : "should fill fields and valid card data",
+  "time" : {
+    "start" : 1632747722043,
+    "stop" : 1632747782051,
+    "duration" : 60008
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cc5d773d1623d65e",
+  "name" : "should navigate to subscription plan page",
+  "time" : {
+    "start" : 1632749903724,
+    "stop" : 1632749963732,
+    "duration" : 60008
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "802dca9f7be39dad",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632749073215,
+    "stop" : 1632749104511,
+    "duration" : 31296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b12e224f04234814",
+  "name" : "should validate Localisation",
+  "time" : {
+    "start" : 1632749265988,
+    "stop" : 1632749365350,
+    "duration" : 99362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fac7e7c9557577d",
+  "name" : "should find \"electronic\" resolve element",
+  "time" : {
+    "start" : 1632749519733,
+    "stop" : 1632749520194,
+    "duration" : 461
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "83347acfed3f817b",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632748590516,
+    "stop" : 1632748653376,
+    "duration" : 62860
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7231aad2f757eab",
+  "name" : "should check show/hide password btn",
+  "time" : {
+    "start" : 1632749408883,
+    "stop" : 1632749414796,
+    "duration" : 5913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64bf943dafb48f89",
+  "name" : "should switch currency using footer dropdown",
+  "time" : {
+    "start" : 1632747936503,
+    "stop" : 1632747950224,
+    "duration" : 13721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62bea23594e57d10",
+  "name" : "should leave empty fields and check required fields ",
+  "time" : {
+    "start" : 1632747601940,
+    "stop" : 1632747661948,
+    "duration" : 60008
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b6808c6e171f2e6f",
+  "name" : "should check show/hide password btn",
+  "time" : {
+    "start" : 1632751287620,
+    "stop" : 1632751337627,
+    "duration" : 50007
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a5db109f0a2a659a",
+  "name" : "should switch currency to JPY using footer dropdown",
+  "time" : {
+    "start" : 1632746132783,
+    "stop" : 1632746238624,
+    "duration" : 105841
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e51e013eda132dfa",
+  "name" : "should navigate to Log-in page",
+  "time" : {
+    "start" : 1632748393373,
+    "stop" : 1632748411816,
+    "duration" : 18443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a725643406c9deb",
+  "name" : "should switch currency to USD using footer dropdown",
+  "time" : {
+    "start" : 1632749206036,
+    "stop" : 1632749230445,
+    "duration" : 24409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea471158dde9162d",
+  "name" : "should find \"electronic\" Image element",
+  "time" : {
+    "start" : 1632748589780,
+    "stop" : 1632748589964,
+    "duration" : 184
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cde25844a5102ad",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632748814631,
+    "stop" : 1632748820753,
+    "duration" : 6122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dbb20686cdebd54",
+  "name" : "should fill fields and valid card data",
+  "time" : {
+    "start" : 1632750420245,
+    "stop" : 1632750480252,
+    "duration" : 60007
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2bc36379d51d3753",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1632751388526,
+    "stop" : 1632751439875,
+    "duration" : 51349
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f923c21c44741c1",
+  "name" : "should validate Localisation",
+  "time" : {
+    "start" : 1632748411817,
+    "stop" : 1632748493293,
+    "duration" : 81476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2090556971d97c9",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "time" : {
+    "start" : 1632747269086,
+    "stop" : 1632747373500,
+    "duration" : 104414
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "afb133bebe9a494a",
+  "name" : "should validate Localisation",
+  "time" : {
+    "start" : 1632746508239,
+    "stop" : 1632746605040,
+    "duration" : 96801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cccf2490262d9b1a",
+  "name" : "should find \"electronic\" after-effects element",
+  "time" : {
+    "start" : 1632751470625,
+    "stop" : 1632751471170,
+    "duration" : 545
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9fd6e5045a774f15",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632751083031,
+    "stop" : 1632751084169,
+    "duration" : 1138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ac947580f4c3691",
+  "name" : "should leave empty fields and check required fields ",
+  "time" : {
+    "start" : 1632745679384,
+    "stop" : 1632745739391,
+    "duration" : 60007
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "85cf5894992a1a3a",
+  "name" : "should login with NOT valid credentials",
+  "time" : {
+    "start" : 1632749414797,
+    "stop" : 1632749467965,
+    "duration" : 53168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "978062c9e070dee9",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "time" : {
+    "start" : 1632750642207,
+    "stop" : 1632750747052,
+    "duration" : 104845
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ee42d00b2163db36",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1632748589263,
+    "stop" : 1632748589430,
+    "duration" : 167
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "41278306e61ffe62",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632747882079,
+    "stop" : 1632747936501,
+    "duration" : 54422
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8c53c0b2067db9c4",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1632746756927,
+    "stop" : 1632746759544,
+    "duration" : 2617
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f5b3ecc50d2866d9",
+  "name" : "should switch currency to TWD using footer dropdown",
+  "time" : {
+    "start" : 1632750956878,
+    "stop" : 1632751061703,
+    "duration" : 104825
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef6473bf0ce67f41",
+  "name" : "should validate Localisation",
+  "time" : {
+    "start" : 1632751156549,
+    "stop" : 1632751227608,
+    "duration" : 71059
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eae3828e0c314d5",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632747117892,
+    "stop" : 1632747191677,
+    "duration" : 73785
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b1da507b657d815a",
+  "name" : "should check show/hide password btn",
+  "time" : {
+    "start" : 1632746644783,
+    "stop" : 1632746653245,
+    "duration" : 8462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49939364717a7889",
+  "name" : "should LogIn without subscription",
+  "time" : {
+    "start" : 1632749586990,
+    "stop" : 1632749666158,
+    "duration" : 79168
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d4e65cbf4143b4c1",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632746739373,
+    "stop" : 1632746756927,
+    "duration" : 17554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5d5a7605d39c156",
+  "name" : "should find \"electronic\" resolve element",
+  "time" : {
+    "start" : 1632746767226,
+    "stop" : 1632746768618,
+    "duration" : 1392
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fdb79558682c253",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1632749518822,
+    "stop" : 1632749519385,
     "duration" : 563
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "c0ffecf1622f5633",
-  "name" : "Buy a subscription with a card expiring in 5 month",
+  "uid" : "906a62a5a8e754cc",
+  "name" : "should find \"electronic\" Lottie element",
   "time" : {
-    "start" : 1632744177477,
-    "stop" : 1632744229832,
-    "duration" : 52355
+    "start" : 1632749521838,
+    "stop" : 1632749522219,
+    "duration" : 381
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "2f89f5b729e0f591",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1632743507791,
-    "stop" : 1632743534543,
-    "duration" : 26752
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "84268e008929daa",
-  "name" : "should switch currency to USD using footer dropdown",
-  "time" : {
-    "start" : 1632743633763,
-    "stop" : 1632743655839,
-    "duration" : 22076
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "451d5acbc5a2320e",
+  "uid" : "cf321951a0d0881e",
   "name" : "should find \"electronic\" Video element",
   "time" : {
-    "start" : 1632743916604,
-    "stop" : 1632743917142,
-    "duration" : 538
+    "start" : 1632751470079,
+    "stop" : 1632751470625,
+    "duration" : 546
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "bdcab65df127e8d5",
-  "name" : "should find \"electronic\" after-effects element",
+  "uid" : "a9c34eb1e3d60990",
+  "name" : "should navigate to subscription plan page",
   "time" : {
-    "start" : 1632743917142,
-    "stop" : 1632743917787,
-    "duration" : 645
+    "start" : 1632745364572,
+    "stop" : 1632745384145,
+    "duration" : 19573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1e233c2e0ef6d73",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632745959605,
+    "stop" : 1632746011888,
+    "duration" : 52283
   },
   "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9394179949d0636e",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632751474632,
+    "stop" : 1632751535117,
+    "duration" : 60485
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c0b7e6165ddb8560",
+  "name" : "should switch currency using footer dropdown",
+  "time" : {
+    "start" : 1632750631590,
+    "stop" : 1632750642206,
+    "duration" : 10616
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22998475bf17eb9d",
+  "name" : "should switch currency to JPY using footer dropdown",
+  "time" : {
+    "start" : 1632749140433,
+    "stop" : 1632749162741,
+    "duration" : 22308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bde4ce4cfb6933e4",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632749230446,
+    "stop" : 1632749240400,
+    "duration" : 9954
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d14d39eb5594902",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632746468412,
+    "stop" : 1632746480582,
+    "duration" : 12170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "110ebe5217b8f608",
+  "name" : "Buy a subscription with a card expiring this month",
+  "time" : {
+    "start" : 1632751620095,
+    "stop" : 1632751659620,
+    "duration" : 39525
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f68e02b1c1a9de2b",
+  "name" : "should find \"electronic\" Image element",
+  "time" : {
+    "start" : 1632749520194,
+    "stop" : 1632749520756,
+    "duration" : 562
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2f58e2c5c3583cf4",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632750580273,
+    "stop" : 1632750631588,
+    "duration" : 51315
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1348f32eb30b40dd",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1632749519389,
+    "stop" : 1632749519733,
+    "duration" : 344
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d6d98c003af2d7ee",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1632746763116,
+    "stop" : 1632746765268,
+    "duration" : 2152
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e9b7d640dd548d95",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1632749517394,
+    "stop" : 1632749517851,
+    "duration" : 457
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8ed947177a24df01",
+  "name" : "should find \"electronic\" Image element",
+  "time" : {
+    "start" : 1632746768619,
+    "stop" : 1632746770573,
+    "duration" : 1954
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bce682369d8b9ad7",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1632751471690,
+    "stop" : 1632751472260,
+    "duration" : 570
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f873415c9fc8793d",
+  "name" : "should enter expired date and validate error message",
+  "time" : {
+    "start" : 1632747661950,
+    "stop" : 1632747722041,
+    "duration" : 60091
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "32c631ba154a2988",
+  "name" : "Buy a subscription with a card expiring in 5 month",
+  "time" : {
+    "start" : 1632749711249,
+    "stop" : 1632749766393,
+    "duration" : 55144
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "15ac8c389174f478",
+  "name" : "should switch currency to TWD using footer dropdown",
+  "time" : {
+    "start" : 1632748263507,
+    "stop" : 1632748367904,
+    "duration" : 104397
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "792c9755de41018b",
+  "name" : "Buy a subscription with a card expiring in 5 month",
+  "time" : {
+    "start" : 1632747044565,
+    "stop" : 1632747097706,
+    "duration" : 53141
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f5b62be463c7af56",
+  "name" : "should find \"electronic\" apple-motion element",
+  "time" : {
+    "start" : 1632746765269,
+    "stop" : 1632746767226,
+    "duration" : 1957
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "463d686324803018",
+  "name" : "should login with NOT valid credentials",
+  "time" : {
+    "start" : 1632746653245,
+    "stop" : 1632746703690,
+    "duration" : 50445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e21a88b33c06dcee",
+  "name" : "should check show/hide password btn",
+  "time" : {
+    "start" : 1632748513177,
+    "stop" : 1632748517724,
+    "duration" : 4547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37ac4345d7f66bde",
+  "name" : "should navigate to users subscription page",
+  "time" : {
+    "start" : 1632748912071,
+    "stop" : 1632748935140,
+    "duration" : 23069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8de300ef4ccc495",
+  "name" : "should enter expired date and validate error message",
+  "time" : {
+    "start" : 1632749035377,
+    "stop" : 1632749039934,
+    "duration" : 4557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0b6bf5bf4b7d26",
+  "name" : "should navigate to Log-in page",
+  "time" : {
+    "start" : 1632746480594,
+    "stop" : 1632746508239,
+    "duration" : 27645
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ec24a7a295f94e9",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1632748588685,
+    "stop" : 1632748588881,
+    "duration" : 196
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f17da4fa9313fba2",
+  "name" : "should switch currency to KRW and validate price displayed KRW ",
+  "time" : {
+    "start" : 1632745488677,
+    "stop" : 1632745593109,
+    "duration" : 104432
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "22b019755cad5bc7",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632749766395,
+    "stop" : 1632749773072,
+    "duration" : 6677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c77c7aadc7bc2a0b",
+  "name" : "should find \"electronic\" Image element",
+  "time" : {
+    "start" : 1632751472726,
+    "stop" : 1632751473204,
+    "duration" : 478
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d26aee75665cbb9",
+  "name" : "should switch currency to USD using footer dropdown",
+  "time" : {
+    "start" : 1632748367906,
+    "stop" : 1632748387253,
+    "duration" : 19347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63e35e198eff62b8",
+  "name" : "should find \"electronic\" Video element",
+  "time" : {
+    "start" : 1632748588882,
+    "stop" : 1632748589091,
+    "duration" : 209
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3de80a264600b54a",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1632749467965,
+    "stop" : 1632749484432,
+    "duration" : 16467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5f612f38f06eaa4",
+  "name" : "should LogIn without subscription",
+  "time" : {
+    "start" : 1632746844710,
+    "stop" : 1632746926087,
+    "duration" : 81377
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2753a87ffab504b2",
+  "name" : "should switch currency to KRW using footer dropdown",
+  "time" : {
+    "start" : 1632750852043,
+    "stop" : 1632750956877,
+    "duration" : 104834
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b0b5afea34315730",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "time" : {
+    "start" : 1632745384146,
+    "stop" : 1632745488676,
+    "duration" : 104530
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d62cb277c047469e",
+  "name" : "should switch currency to USD and navigate to the payment page ",
+  "time" : {
+    "start" : 1632747477818,
+    "stop" : 1632747601938,
+    "duration" : 124120
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a1cc16cc590f0177",
+  "name" : "should switch currency to TWD using footer dropdown",
+  "time" : {
+    "start" : 1632749185066,
+    "stop" : 1632749206035,
+    "duration" : 20969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2837c734103b2ce",
+  "name" : "should find \"electronic\" 3D element",
+  "time" : {
+    "start" : 1632749521394,
+    "stop" : 1632749521838,
+    "duration" : 444
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ed6fb8e25e836a05",
+  "name" : "should switch currency to KRW and validate price displayed KRW ",
+  "time" : {
+    "start" : 1632750068900,
+    "stop" : 1632750173327,
+    "duration" : 104427
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "96318ca11daae1fe",
+  "name" : "Buy a subscription with a card expiring this month",
+  "time" : {
+    "start" : 1632746926089,
+    "stop" : 1632747044563,
+    "duration" : 118474
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "daf6393b644276a4",
+  "name" : "should navigate to Log-in page",
+  "time" : {
+    "start" : 1632749240413,
+    "stop" : 1632749265988,
+    "duration" : 25575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa89ff539e06b93d",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632746720333,
+    "stop" : 1632746739361,
+    "duration" : 19028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1509b44a3d36d19",
+  "name" : "should switch currency to USD and navigate to the payment page ",
+  "time" : {
+    "start" : 1632750173331,
+    "stop" : 1632750299978,
+    "duration" : 126647
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "92a8780790b4fba8",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "time" : {
+    "start" : 1632748953958,
+    "stop" : 1632748971169,
+    "duration" : 17211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "489b1418cedf9c2a",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "time" : {
+    "start" : 1632749963734,
+    "stop" : 1632750068899,
+    "duration" : 105165
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ce3e51041be490a",
+  "name" : "should switch currency to USD and navigate to the payment page ",
+  "time" : {
+    "start" : 1632748988094,
+    "stop" : 1632749033825,
+    "duration" : 45731
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "575b072c6d02d76",
+  "name" : "should find \"electronic\" resolve element",
+  "time" : {
+    "start" : 1632751472260,
+    "stop" : 1632751472726,
+    "duration" : 466
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6e0041c3080e2b3a",
+  "name" : "should LogIn without subscription",
+  "time" : {
+    "start" : 1632751535133,
+    "stop" : 1632751620094,
+    "duration" : 84961
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6273d6d9d8ec8318",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "time" : {
+    "start" : 1632749520756,
+    "stop" : 1632749521394,
+    "duration" : 638
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "52173092a974a64c",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "time" : {
+    "start" : 1632747950225,
+    "stop" : 1632748054726,
+    "duration" : 104501
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f4b9cc410bca518e",
+  "name" : "should switch currency to KRW using footer dropdown",
+  "time" : {
+    "start" : 1632746238625,
+    "stop" : 1632746343155,
+    "duration" : 104530
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7f94e8efb26b9a7b",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "time" : {
+    "start" : 1632748589964,
+    "stop" : 1632748590155,
+    "duration" : 191
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3e18bbd15a7520e9",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1632748552905,
+    "stop" : 1632748564072,
+    "duration" : 11167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "508dea27c308150",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632748833181,
+    "stop" : 1632748912069,
+    "duration" : 78888
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3cf3bcbf145ce517",
+  "name" : "should LogIn without subscription",
+  "time" : {
+    "start" : 1632748653393,
+    "stop" : 1632748727041,
+    "duration" : 73648
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "57788adc2063662b",
+  "name" : "should leave empty fields and check required fields ",
+  "time" : {
+    "start" : 1632749033825,
+    "stop" : 1632749035377,
+    "duration" : 1552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5066f21d44a6278",
+  "name" : "should switch currency to EUR using footer dropdown",
+  "time" : {
+    "start" : 1632746027620,
+    "stop" : 1632746132781,
+    "duration" : 105161
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d3356ed1c373f3e1",
+  "name" : "should navigate to users subscription page",
+  "time" : {
+    "start" : 1632747191679,
+    "stop" : 1632747209075,
+    "duration" : 17396
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "463cb3e077d3f857",
+  "name" : "should find \"electronic\" 3D element",
+  "time" : {
+    "start" : 1632746773711,
+    "stop" : 1632746776046,
+    "duration" : 2335
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "90b9a160e7942904",
+  "name" : "should switch currency to JPY using footer dropdown",
+  "time" : {
+    "start" : 1632748054728,
+    "stop" : 1632748159068,
+    "duration" : 104340
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4ab95e2d61990fef",
+  "name" : "Buy a subscription with a card expiring this month",
+  "time" : {
+    "start" : 1632749666159,
+    "stop" : 1632749711249,
+    "duration" : 45090
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bdebe332af8c08ed",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632745859578,
+    "stop" : 1632745959591,
+    "duration" : 100013
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5dc9d24280c4d244",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632750480254,
+    "stop" : 1632750580259,
+    "duration" : 100005
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "32204f8d6a96e140",
+  "name" : "should login with NOT valid credentials",
+  "time" : {
+    "start" : 1632748517724,
+    "stop" : 1632748552903,
+    "duration" : 35179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc1c24cc856ab0ce",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632748387268,
+    "stop" : 1632748393362,
+    "duration" : 6094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85e0720169b51a0b",
+  "name" : "should navigate to subscription plan page",
+  "time" : {
+    "start" : 1632748935141,
+    "stop" : 1632748953958,
+    "duration" : 18817
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55a4450f6acca30f",
+  "name" : "should LogIn",
+  "time" : {
+    "start" : 1632748573849,
+    "stop" : 1632748588685,
+    "duration" : 14836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5970bdd5809b2cd",
+  "name" : "should navigate to Log-in page",
+  "time" : {
+    "start" : 1632751084182,
+    "stop" : 1632751156546,
+    "duration" : 72364
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a8b93a59aa015a81",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632749522219,
+    "stop" : 1632749586974,
+    "duration" : 64755
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a36819c2606f109e",
+  "name" : "should check required fields",
+  "time" : {
+    "start" : 1632748493294,
+    "stop" : 1632748513175,
+    "duration" : 19881
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff15305a6e06c055",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "time" : {
+    "start" : 1632746770576,
+    "stop" : 1632746773711,
+    "duration" : 3135
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "60e8507a4cbd56bc",
+  "name" : "should find \"electronic\" premiere-pro element",
+  "time" : {
+    "start" : 1632751471170,
+    "stop" : 1632751471690,
+    "duration" : 520
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1705f3e706531c9",
+  "name" : "should Logout",
+  "time" : {
+    "start" : 1632748564072,
+    "stop" : 1632748573838,
+    "duration" : 9766
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]

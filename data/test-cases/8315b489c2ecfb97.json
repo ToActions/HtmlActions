@@ -1,0 +1,58 @@
+{
+  "uid" : "8315b489c2ecfb97",
+  "name" : "should switch currency to KRW using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency to KRW using footer dropdown",
+  "historyId" : "899e0be26d2f4243abe3d32a8e88ecd7",
+  "time" : {
+    "start" : 1632749162741,
+    "stop" : 1632749185066,
+    "duration" : 22325
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to KRW using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8315b489c2ecfb97.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

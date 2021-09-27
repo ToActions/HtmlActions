@@ -1,0 +1,64 @@
+{
+  "uid" : "489b1418cedf9c2a",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "fullName" : "Buyer should Buy subscription.should switch currency to JPY and validate price displayed JPY ",
+  "historyId" : "f9676b4bd36f550bb85f2a081fbe6e1c",
+  "time" : {
+    "start" : 1632749963734,
+    "stop" : 1632750068899,
+    "duration" : 105165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"#currency>[value*=\"JPY\"]\") still not displayed after 100000ms",
+  "statusTrace" : "Error: element (\"#currency>[value*=\"JPY\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Footer.switchCurrency (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Footer.js:17:18)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/payForSubscription.spec.js:47:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to JPY and validate price displayed JPY "
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "489b1418cedf9c2a.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

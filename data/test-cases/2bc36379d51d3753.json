@@ -1,0 +1,64 @@
+{
+  "uid" : "2bc36379d51d3753",
+  "name" : "should login with valid credentials",
+  "fullName" : "should test Login/Logout.should login with valid credentials",
+  "historyId" : "2103e34b26fd0b2abb0a7d700cb0b3f1",
+  "time" : {
+    "start" : 1632751388526,
+    "stop" : 1632751439875,
+    "duration" : 51349
+  },
+  "description" : "Login with NOT valid credentials",
+  "descriptionHtml" : "<p>Login with NOT valid credentials</p>\n",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 50000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 50000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:45:17)\n                    at Page.setValue (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:226:18)\n                    at LogInPage.login (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/LogIn.page.js:45:14)\n                    at passSignIn (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/helper/passSignIn.js:20:25)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/LoginPageTests.spec.js:73:25)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2bc36379d51d3753.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

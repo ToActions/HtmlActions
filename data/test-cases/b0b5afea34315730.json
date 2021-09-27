@@ -1,0 +1,64 @@
+{
+  "uid" : "b0b5afea34315730",
+  "name" : "should switch currency to JPY and validate price displayed JPY ",
+  "fullName" : "Buyer should Buy subscription.should switch currency to JPY and validate price displayed JPY ",
+  "historyId" : "6bbba969b871db77c8cd10a2d24cadc1",
+  "time" : {
+    "start" : 1632745384146,
+    "stop" : 1632745488676,
+    "duration" : 104530
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"#currency>[value*=\"JPY\"]\") still not displayed after 100000ms",
+  "statusTrace" : "Error: element (\"#currency>[value*=\"JPY\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Footer.switchCurrency (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Footer.js:17:18)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/payForSubscription.spec.js:47:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to JPY and validate price displayed JPY "
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b0b5afea34315730.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

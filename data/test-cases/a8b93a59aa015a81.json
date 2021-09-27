@@ -1,0 +1,64 @@
+{
+  "uid" : "a8b93a59aa015a81",
+  "name" : "should Logout",
+  "fullName" : "should test search feature.should Logout",
+  "historyId" : "51eabe0e5594ee09c35cab8287bd839",
+  "time" : {
+    "start" : 1632749522219,
+    "stop" : 1632749586974,
+    "duration" : 64755
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilClickable (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:25:17)\n                    at Page.click (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:117:14)\n                    at Header.logout (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:69:14)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:132:20)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Logout"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a8b93a59aa015a81.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

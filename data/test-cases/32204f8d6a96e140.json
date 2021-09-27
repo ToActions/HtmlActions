@@ -1,0 +1,58 @@
+{
+  "uid" : "32204f8d6a96e140",
+  "name" : "should login with NOT valid credentials",
+  "fullName" : "should test Login/Logout.should login with NOT valid credentials",
+  "historyId" : "ea34a38d53fe8277a260b62a9de86b86",
+  "time" : {
+    "start" : 1632748517724,
+    "stop" : 1632748552903,
+    "duration" : 35179
+  },
+  "description" : "Login with NOT valid credentials",
+  "descriptionHtml" : "<p>Login with NOT valid credentials</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with NOT valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32204f8d6a96e140.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

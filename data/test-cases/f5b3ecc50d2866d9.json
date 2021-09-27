@@ -1,0 +1,64 @@
+{
+  "uid" : "f5b3ecc50d2866d9",
+  "name" : "should switch currency to TWD using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency to TWD using footer dropdown",
+  "historyId" : "a57428b21bae6da63a583516ed69a002",
+  "time" : {
+    "start" : 1632750956878,
+    "stop" : 1632751061703,
+    "duration" : 104825
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"#currency>[value*=\"TWD\"]\") still not displayed after 100000ms",
+  "statusTrace" : "Error: element (\"#currency>[value*=\"TWD\"]\") still not displayed after 100000ms\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Footer.switchCurrency (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Footer.js:17:18)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndCheckLangCurrency.spec.js:48:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to TWD using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f5b3ecc50d2866d9.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

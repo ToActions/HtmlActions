@@ -1,0 +1,64 @@
+{
+  "uid" : "edcc14920798e70",
+  "name" : "should find \"electronic\" Lottie element",
+  "fullName" : "should test search feature.should find \"electronic\" Lottie element",
+  "historyId" : "9ef20f87eacbaced5a7220820cd9046d",
+  "time" : {
+    "start" : 1632748590360,
+    "stop" : 1632748590516,
+    "duration" : 156
+  },
+  "description" : "find \"electronic\" Lottie element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: MicrosoftEdge=92.0.902.9)",
+  "statusTrace" : "Backtrace:\n                \tOrdinal0 [0x00007FF7FB17DBA2+4905890]\n                \tOrdinal0 [0x00007FF7FAE8CF23+1822499]\n                \tOrdinal0 [0x00007FF7FAEC879C+2066332]\n                \tOrdinal0 [0x00007FF7FAEB99C8+2005448]\n                \tOrdinal0 [0x00007FF7FAEE2256+2171478]\n                \tOrdinal0 [0x00007FF7FAEB971D+2004765]\n                \tOrdinal0 [0x00007FF7FAEE23AC+2171820]\n                \tOrdinal0 [0x00007FF7FAEF44D0+2245840]\n                \tOrdinal0 [0x00007FF7FAEE20CF+2171087]\n                \tOrdinal0 [0x00007FF7FAEB7EDF+1998559]\n                \tOrdinal0 [0x00007FF7FAEB901B+2002971]\n                \tOrdinal0 [0x00007FF7FACDC04E+49230]\n                \tOrdinal0 [0x00007FF7FAF8D594+2872724]\n                \tOrdinal0 [0x00007FF7FB1232C4+4534980]\n                \tOrdinal0 [0x00007FF7FAF8E12E+2875694]\n                \tOrdinal0 [0x00007FF7FB1CB148+5222728]\n                \tOrdinal0 [0x00007FF7FB1CAB54+5221204]\n                \tOrdinal0 [0x00007FF7FB1CA99A+5220762]\n                \tOrdinal0 [0x00007FF7FB1BA1A8+5153192]\n                \tBaseThreadInitThunk [0x00007FFEE5C98364+20]\n                \tRtlUserThreadStart [0x00007FFEE6E17091+33]\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:123:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" Lottie element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "edcc14920798e70.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

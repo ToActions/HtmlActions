@@ -1,0 +1,64 @@
+{
+  "uid" : "6273d6d9d8ec8318",
+  "name" : "should find \"electronic\" Sound-effects element",
+  "fullName" : "should test search feature.should find \"electronic\" Sound-effects element",
+  "historyId" : "dc00d78e609a662107197e2a68681dcf",
+  "time" : {
+    "start" : 1632749520756,
+    "stop" : 1632749521394,
+    "duration" : 638
+  },
+  "description" : "find \"electronic\" Sound-effects element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Sound-effects element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "Element <a id=\"mega-menu-trigger\" class=\"nav-link\" href=\"#\"> could not be scrolled into view",
+  "statusTrace" : "WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:181:5\n                ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.jsm:291:5\n                webdriverClickElement@chrome://remote/content/marionette/interaction.js:156:11\n                interaction.clickElement@chrome://remote/content/marionette/interaction.js:125:11\n                clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:200:24\n                receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:91:31\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:101:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" Sound-effects element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6273d6d9d8ec8318.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

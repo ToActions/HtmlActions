@@ -1,0 +1,64 @@
+{
+  "uid" : "906a62a5a8e754cc",
+  "name" : "should find \"electronic\" Lottie element",
+  "fullName" : "should test search feature.should find \"electronic\" Lottie element",
+  "historyId" : "9855510fae32e0123e439f92741d6450",
+  "time" : {
+    "start" : 1632749521838,
+    "stop" : 1632749522219,
+    "duration" : 381
+  },
+  "description" : "find \"electronic\" Lottie element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; Lottie element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "Element <a id=\"mega-menu-trigger\" class=\"nav-link\" href=\"#\"> could not be scrolled into view",
+  "statusTrace" : "WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:181:5\n                ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.jsm:291:5\n                webdriverClickElement@chrome://remote/content/marionette/interaction.js:156:11\n                interaction.clickElement@chrome://remote/content/marionette/interaction.js:125:11\n                clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:200:24\n                receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.jsm:91:31\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:123:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" Lottie element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "906a62a5a8e754cc.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

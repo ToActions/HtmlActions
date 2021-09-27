@@ -1,0 +1,64 @@
+{
+  "uid" : "b8ae24df3c9725ba",
+  "name" : "should find \"electronic\" 3D element",
+  "fullName" : "should test search feature.should find \"electronic\" 3D element",
+  "historyId" : "a02bfd4d20c9564021dbfcb94d2b9ab2",
+  "time" : {
+    "start" : 1632751473684,
+    "stop" : 1632751474151,
+    "duration" : 467
+  },
+  "description" : "find \"electronic\" 3D element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; 3D element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "unknown error",
+  "statusTrace" : "element not interactable: unknown error\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:112:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" 3D element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b8ae24df3c9725ba.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

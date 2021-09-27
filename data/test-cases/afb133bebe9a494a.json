@@ -1,0 +1,58 @@
+{
+  "uid" : "afb133bebe9a494a",
+  "name" : "should validate Localisation",
+  "fullName" : "should test Login/Logout.should validate Localisation",
+  "historyId" : "8349801b98ac3b9c4ec5a070635977b2",
+  "time" : {
+    "start" : 1632746508239,
+    "stop" : 1632746605040,
+    "duration" : 96801
+  },
+  "description" : "Switch language and check translation ",
+  "descriptionHtml" : "<p>Switch language and check translation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate Localisation"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afb133bebe9a494a.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

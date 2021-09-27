@@ -1,0 +1,58 @@
+{
+  "uid" : "b8de300ef4ccc495",
+  "name" : "should enter expired date and validate error message",
+  "fullName" : "Buyer should Buy subscription.should enter expired date and validate error message",
+  "historyId" : "7abe6e96c4b3681d81dd6728d77a55bc",
+  "time" : {
+    "start" : 1632749035377,
+    "stop" : 1632749039934,
+    "duration" : 4557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter expired date and validate error message"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8de300ef4ccc495.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

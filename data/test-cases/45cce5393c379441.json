@@ -1,0 +1,58 @@
+{
+  "uid" : "45cce5393c379441",
+  "name" : "should check required fields",
+  "fullName" : "should test Login/Logout.should check required fields",
+  "historyId" : "3d569a8db79b2d4279b4b2c3e3ab9718",
+  "time" : {
+    "start" : 1632746605040,
+    "stop" : 1632746644781,
+    "duration" : 39741
+  },
+  "description" : "Check required fields ",
+  "descriptionHtml" : "<p>Check required fields</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check required fields"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45cce5393c379441.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

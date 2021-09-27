@@ -1,0 +1,64 @@
+{
+  "uid" : "ef6473bf0ce67f41",
+  "name" : "should validate Localisation",
+  "fullName" : "should test Login/Logout.should validate Localisation",
+  "historyId" : "74398b719e962770596d89f0688edfd7",
+  "time" : {
+    "start" : 1632751156549,
+    "stop" : 1632751227608,
+    "duration" : 71059
+  },
+  "description" : "Switch language and check translation ",
+  "descriptionHtml" : "<p>Switch language and check translation</p>\n",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:45:17)\n                    at Page.getElementText (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:164:14)\n                    at LogInPage.validateLocalisation (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/LogIn.page.js:102:25)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/LoginPageTests.spec.js:35:42)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate Localisation"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ef6473bf0ce67f41.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

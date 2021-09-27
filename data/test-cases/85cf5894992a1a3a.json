@@ -1,0 +1,58 @@
+{
+  "uid" : "85cf5894992a1a3a",
+  "name" : "should login with NOT valid credentials",
+  "fullName" : "should test Login/Logout.should login with NOT valid credentials",
+  "historyId" : "9d84fc6e4e969be52b43da80a89fa020",
+  "time" : {
+    "start" : 1632749414797,
+    "stop" : 1632749467965,
+    "duration" : 53168
+  },
+  "description" : "Login with NOT valid credentials",
+  "descriptionHtml" : "<p>Login with NOT valid credentials</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with NOT valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85cf5894992a1a3a.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

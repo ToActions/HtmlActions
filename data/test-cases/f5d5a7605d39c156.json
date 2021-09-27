@@ -1,0 +1,64 @@
+{
+  "uid" : "f5d5a7605d39c156",
+  "name" : "should find \"electronic\" resolve element",
+  "fullName" : "should test search feature.should find \"electronic\" resolve element",
+  "historyId" : "5dfe8592645b9708ba1f0c25ec0589c3",
+  "time" : {
+    "start" : 1632746767226,
+    "stop" : 1632746768618,
+    "duration" : 1392
+  },
+  "description" : "find \"electronic\" resolve element",
+  "descriptionHtml" : "<p>find &quot;electronic&quot; resolve element</p>\n",
+  "status" : "broken",
+  "statusMessage" : "element not interactable\n                  (Session info: chrome=93.0.4577.63)",
+  "statusTrace" : "Backtrace:\n                \tOrdinal0 [0x0115A2D3+2663123]\n                \tOrdinal0 [0x010EA491+2204817]\n                \tOrdinal0 [0x00FD1FE0+1056736]\n                \tOrdinal0 [0x00FFD827+1234983]\n                \tOrdinal0 [0x00FF33A7+1192871]\n                \tOrdinal0 [0x010159D3+1333715]\n                \tOrdinal0 [0x00FF31C6+1192390]\n                \tOrdinal0 [0x01015ABA+1333946]\n                \tOrdinal0 [0x01024D8F+1396111]\n                \tOrdinal0 [0x0101589B+1333403]\n                \tOrdinal0 [0x00FF1F74+1187700]\n                \tOrdinal0 [0x00FF2DC9+1191369]\n                \tGetHandleVerifier [0x012F30D6+1610054]\n                \tGetHandleVerifier [0x0139B53B+2299307]\n                \tGetHandleVerifier [0x011E8DA9+519705]\n                \tGetHandleVerifier [0x011E7759+513993]\n                \tOrdinal0 [0x010F112D+2232621]\n                \tOrdinal0 [0x010F55F8+2250232]\n                \tOrdinal0 [0x010F5732+2250546]\n                \tOrdinal0 [0x010FE591+2286993]\n                \tBaseThreadInitThunk [0x746162C4+36]\n                \tRtlSubscribeWnfStateChangeNotification [0x76F30FA9+1081]\n                \tRtlSubscribeWnfStateChangeNotification [0x76F30F74+1028]\n                    at Element.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at Header.navigateToElSearchDropDown (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Header.js:105:33)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/loginAndSearch.spec.js:78:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testClass",
+    "value" : "should test search feature"
+  }, {
+    "name" : "testMethod",
+    "value" : "should find \"electronic\" resolve element"
+  }, {
+    "name" : "package",
+    "value" : "should test search feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f5d5a7605d39c156.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

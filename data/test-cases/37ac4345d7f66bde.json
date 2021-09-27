@@ -1,0 +1,58 @@
+{
+  "uid" : "37ac4345d7f66bde",
+  "name" : "should navigate to users subscription page",
+  "fullName" : "Buyer should Buy subscription.should navigate to users subscription page",
+  "historyId" : "a6a29d2625ed6b6cbdb5d5d933a7783e",
+  "time" : {
+    "start" : 1632748912071,
+    "stop" : 1632748935140,
+    "duration" : 23069
+  },
+  "description" : "Buyer Navigate to Subscription Page and buy subscription ",
+  "descriptionHtml" : "<p>Buyer Navigate to Subscription Page and buy subscription</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to users subscription page"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37ac4345d7f66bde.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

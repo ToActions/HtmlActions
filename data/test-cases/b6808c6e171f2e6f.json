@@ -1,0 +1,64 @@
+{
+  "uid" : "b6808c6e171f2e6f",
+  "name" : "should check show/hide password btn",
+  "fullName" : "should test Login/Logout.should check show/hide password btn",
+  "historyId" : "878c41a796d2f9ca0e5ad75935bf490c",
+  "time" : {
+    "start" : 1632751287620,
+    "stop" : 1632751337627,
+    "duration" : 50007
+  },
+  "description" : "Check show/hide password btn",
+  "descriptionHtml" : "<p>Check show/hide password btn</p>\n",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 50000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 50000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:45:17)\n                    at Page.setValue (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:226:18)\n                    at LogInPage.validateShowPassBtn (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/LogIn.page.js:60:14)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/LoginPageTests.spec.js:58:38)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check show/hide password btn"
+  }, {
+    "name" : "package",
+    "value" : "should test Login/Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b6808c6e171f2e6f.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

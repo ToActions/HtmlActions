@@ -1,0 +1,64 @@
+{
+  "uid" : "f873415c9fc8793d",
+  "name" : "should enter expired date and validate error message",
+  "fullName" : "Buyer should Buy subscription.should enter expired date and validate error message",
+  "historyId" : "80f8992723ebfe3ec667e64ff772c735",
+  "time" : {
+    "start" : 1632747661950,
+    "stop" : 1632747722041,
+    "duration" : 60091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilClickable (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:25:17)\n                    at Page.click (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:117:14)\n                    at SubscriptionPage.fillMmYyInput (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Subscription.page.js:103:14)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/payForSubscription.spec.js:70:38)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter expired date and validate error message"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "msedge-92.0.902.9"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f873415c9fc8793d.json",
+  "parameterValues" : [ "msedge-92.0.902.9" ]
+}

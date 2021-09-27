@@ -1,0 +1,58 @@
+{
+  "uid" : "ec8f7d944e558c62",
+  "name" : "should Logout",
+  "fullName" : "Buyer should save expiring card.should Logout",
+  "historyId" : "8a5c3e0650d19e89fba57eff5605cf26",
+  "time" : {
+    "start" : 1632751710771,
+    "stop" : 1632751711821,
+    "duration" : 1050
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Logout"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Safari-13.1.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec8f7d944e558c62.json",
+  "parameterValues" : [ "Safari-13.1.2" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "22b019755cad5bc7",
+  "name" : "should Logout",
+  "fullName" : "Buyer should save expiring card.should Logout",
+  "historyId" : "a39228b9ec5eec83f1a78b9af67cee1",
+  "time" : {
+    "start" : 1632749766395,
+    "stop" : 1632749773072,
+    "duration" : 6677
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Logout"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22b019755cad5bc7.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

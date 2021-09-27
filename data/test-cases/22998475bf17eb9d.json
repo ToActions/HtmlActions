@@ -1,0 +1,58 @@
+{
+  "uid" : "22998475bf17eb9d",
+  "name" : "should switch currency to JPY using footer dropdown",
+  "fullName" : "should test switching currency.should switch currency to JPY using footer dropdown",
+  "historyId" : "a9138a918bb675488fbbb1b9305b18ce",
+  "time" : {
+    "start" : 1632749140433,
+    "stop" : 1632749162741,
+    "duration" : 22308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testClass",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch currency to JPY using footer dropdown"
+  }, {
+    "name" : "package",
+    "value" : "should test switching currency"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22998475bf17eb9d.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}

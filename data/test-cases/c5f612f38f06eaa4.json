@@ -1,0 +1,64 @@
+{
+  "uid" : "c5f612f38f06eaa4",
+  "name" : "should LogIn without subscription",
+  "fullName" : "Buyer should save expiring card.should LogIn without subscription",
+  "historyId" : "62f8986dbd659c96535f0c1c22eab39b",
+  "time" : {
+    "start" : 1632746844710,
+    "stop" : 1632746926087,
+    "duration" : 81377
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 60000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 60000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilClickable (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:25:17)\n                    at Page.click (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:117:14)\n                    at HelperQA.clearSubscrSPayMethods (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/HelperQA.page.js:94:18)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/UpdateExpiringCard.spec.js:31:26)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should LogIn without subscription"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c5f612f38f06eaa4.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "32c631ba154a2988",
+  "name" : "Buy a subscription with a card expiring in 5 month",
+  "fullName" : "Buyer should save expiring card.Buy a subscription with a card expiring in 5 month",
+  "historyId" : "6961b15a0f26f9f0da762b7b53d59f6d",
+  "time" : {
+    "start" : 1632749711249,
+    "stop" : 1632749766393,
+    "duration" : 55144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "waitUntil condition timed out after 50000ms",
+  "statusTrace" : "Error: waitUntil condition timed out after 50000ms\n                    at Browser.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/node_modules/@wdio/utils/build/shim.js:242:24)\n                    at Page.waitUntilDisplayed (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:45:17)\n                    at Page.setValue (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/Page.js:226:18)\n                    at LogInPage.login (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/pages/LogIn.page.js:45:14)\n                    at passSignIn (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/helper/passSignIn.js:20:25)\n                    at Context.<anonymous> (/home/runner/work/webdriver-tests-poc/webdriver-tests-poc/test/specs/UpdateExpiringCard.spec.js:58:17)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "2-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "testMethod",
+    "value" : "Buy a subscription with a card expiring in 5 month"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should save expiring card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-91.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "32c631ba154a2988.json",
+  "parameterValues" : [ "firefox-91.0" ]
+}
