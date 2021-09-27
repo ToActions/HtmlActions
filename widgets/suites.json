@@ -1,13 +1,57 @@
 {
-  "total" : 1,
+  "total" : 5,
   "items" : [ {
     "uid" : "bb5439676e2be3c08504f4b74e6d2106",
     "name" : "should test search feature",
     "statistic" : {
       "failed" : 0,
-      "broken" : 7,
+      "broken" : 11,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "70bfbcc335b4be905ccadefd6648ad9c",
+    "name" : "Buyer should save expiring card",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "065c6125a070d5ac6db8bb68d6d1e1a7",
+    "name" : "Buyer should Buy subscription",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "0cdfeb3c40b91d4ee45453654b83f5f2",
+    "name" : "should test switching currency",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "7df78b867d52c2dd26c97e25ddce9075",
+    "name" : "should test Login/Logout",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
       "unknown" : 0,
       "total" : 7
     }

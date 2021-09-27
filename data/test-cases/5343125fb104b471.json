@@ -1,0 +1,58 @@
+{
+  "uid" : "5343125fb104b471",
+  "name" : "should fill fields and valid card data",
+  "fullName" : "Buyer should Buy subscription.should fill fields and valid card data",
+  "historyId" : "6c0a111a1a2c21a2381a85ec2576cd10",
+  "time" : {
+    "start" : 1632743483362,
+    "stop" : 1632743499589,
+    "duration" : 16227
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testClass",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill fields and valid card data"
+  }, {
+    "name" : "package",
+    "value" : "Buyer should Buy subscription"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5343125fb104b471.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}
