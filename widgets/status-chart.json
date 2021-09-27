@@ -1,150 +1,70 @@
 [ {
-  "uid" : "3dca5e4cd0eda398",
-  "name" : "should find \"electronic\" Sound-effects element",
-  "time" : {
-    "start" : 1632741381442,
-    "stop" : 1632741481705,
-    "duration" : 100263
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "38a969f6b6edadfa",
-  "name" : "should find \"electronic\" 3D element",
-  "time" : {
-    "start" : 1632741481707,
-    "stop" : 1632741581885,
-    "duration" : 100178
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "12cc42f48cb55e3a",
-  "name" : "should find \"electronic\" Lottie element",
-  "time" : {
-    "start" : 1632741581887,
-    "stop" : 1632741682064,
-    "duration" : 100177
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "f28120d8d983d061",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632741682065,
-    "stop" : 1632741691448,
-    "duration" : 9383
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4c929e1f338efbdd",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1632740453307,
-    "stop" : 1632740488397,
-    "duration" : 35090
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fc2d31b6fbe1418d",
-  "name" : "should Logout",
-  "time" : {
-    "start" : 1632740627061,
-    "stop" : 1632740642107,
-    "duration" : 15046
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5e83619c652dc58b",
-  "name" : "should LogIn",
-  "time" : {
-    "start" : 1632740642117,
-    "stop" : 1632740679863,
-    "duration" : 37746
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "46ebe465f4b9dc47",
-  "name" : "should switch currency using footer dropdown",
-  "time" : {
-    "start" : 1632740488398,
-    "stop" : 1632740627060,
-    "duration" : 138662
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "70277d09f9834b9f",
-  "name" : "should find \"electronic\" after-effects element",
-  "time" : {
-    "start" : 1632740880414,
-    "stop" : 1632740980620,
-    "duration" : 100206
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "cfeb2c6d8da9f3f0",
-  "name" : "should find \"electronic\" resolve element",
-  "time" : {
-    "start" : 1632741181020,
-    "stop" : 1632741281236,
-    "duration" : 100216
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "696c1a0d99f06b6c",
+  "uid" : "476a56be3ad4cc9f",
   "name" : "should find \"electronic\" apple-motion element",
   "time" : {
-    "start" : 1632741080833,
-    "stop" : 1632741181018,
-    "duration" : 100185
+    "start" : 1632742808102,
+    "stop" : 1632742909374,
+    "duration" : 101272
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "48abc6ea6c358e14",
+  "uid" : "59fe1fc458c3c49e",
   "name" : "should find \"electronic\" Image element",
   "time" : {
-    "start" : 1632741281238,
-    "stop" : 1632741381440,
-    "duration" : 100202
+    "start" : 1632743010729,
+    "stop" : 1632743112169,
+    "duration" : 101440
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "9f2fe7ba89c9fca1",
-  "name" : "should find \"electronic\" Music element",
+  "uid" : "76ee009ee6c1b9f",
+  "name" : "should find \"electronic\" resolve element",
   "time" : {
-    "start" : 1632740679863,
-    "stop" : 1632740780077,
-    "duration" : 100214
+    "start" : 1632742909377,
+    "stop" : 1632743010727,
+    "duration" : 101350
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "177845d75c911f15",
+  "uid" : "fddc5ae2a094b984",
   "name" : "should find \"electronic\" Video element",
   "time" : {
-    "start" : 1632740780079,
-    "stop" : 1632740880412,
-    "duration" : 100333
+    "start" : 1632742502414,
+    "stop" : 1632742603895,
+    "duration" : 101481
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "c2e7354002ff3403",
+  "uid" : "c4fe3a5a052eaa48",
+  "name" : "should find \"electronic\" Music element",
+  "time" : {
+    "start" : 1632742401132,
+    "stop" : 1632742502412,
+    "duration" : 101280
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e7aa21df2957b0cb",
   "name" : "should find \"electronic\" premiere-pro element",
   "time" : {
-    "start" : 1632740980622,
-    "stop" : 1632741080831,
-    "duration" : 100209
+    "start" : 1632742706691,
+    "stop" : 1632742808100,
+    "duration" : 101409
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cad962ee3ee20026",
+  "name" : "should find \"electronic\" after-effects element",
+  "time" : {
+    "start" : 1632742603897,
+    "stop" : 1632742706674,
+    "duration" : 102777
   },
   "status" : "broken",
   "severity" : "normal"
